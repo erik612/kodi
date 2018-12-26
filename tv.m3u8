@@ -11,7 +11,7 @@ http://tv.share1.nu/live/erik612/MW502jcAWC/55281.ts
 http://tv.share1.nu/live/erik612/MW502jcAWC/13791.ts
 #EXTINF:-1 tvg-id="Dajto" tvg-name="Dajto" tvg-logo="http://static.cdn.markiza.sk/media/a501/image/file/21/0026/pQRd.dajto_logo.jpg" group-title="Czech", Dajto HD
 http://tv.share1.nu/live/erik612/MW502jcAWC/54111.ts
-#EXTINF:-1 tvg-id="JOJ.sk" tvg-name="JOJ.sk" tvg-logo="" group-title="Czech", JOJ HD
+#EXTINF:-1 tvg-id="JOJ" tvg-name="JOJ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/joj_tv.jpg" group-title="Czech" group-title="Czech", JOJ HD
 http://tv.share1.nu/live/erik612/MW502jcAWC/54121.ts
 #EXTINF:-1 tvg-id="JOJ" tvg-name="JOJ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/joj_tv.jpg" group-title="Czech", JOJ
 http://tv.share1.nu/live/erik612/MW502jcAWC/14171.ts
@@ -51,11 +51,11 @@ http://tv.share1.nu/live/erik612/MW502jcAWC/16462.ts
 http://tv.share1.nu/live/erik612/MW502jcAWC/17642.ts
 #EXTINF:-1 tvg-id="CS Film" tvg-name="CS Film" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cs_film.jpg" group-title="Czech", CS Film
 http://tv.share1.nu/live/erik612/MW502jcAWC/13741.ts
-#EXTINF:-1 tvg-id="CT1" tvg-name="CT1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ceska_televize1.jpg" group-title="Czech", ÈT 1 
+#EXTINF:-1 tvg-id="CT1" tvg-name="CT1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ceska_televize1.jpg" group-title="Czech", CT 1 
 http://tv.share1.nu/live/erik612/MW502jcAWC/13781.ts
-#EXTINF:-1 tvg-id="CT2" tvg-name="CT2" tvg-logo="" group-title="Czech", ÈT 2
+#EXTINF:-1 tvg-id="CT2" tvg-name="CT2" tvg-logo="" group-title="Czech", CT 2
 http://tv.share1.nu/live/erik612/MW502jcAWC/13861.ts
-#EXTINF:-1 tvg-id="CT4 Sport" tvg-name="CT4 Sport" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ceska_televize_sport.jpg" group-title="Czech", ÈT Sport
+#EXTINF:-1 tvg-id="CT4 Sport" tvg-name="CT4 Sport" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ceska_televize_sport.jpg" group-title="Czech", CT Sport
 http://tv.share1.nu/live/erik612/MW502jcAWC/16861.ts
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_ce.jpg" group-title="Czech", Cinemax
 http://tv.share1.nu/live/erik612/MW502jcAWC/15292.ts
@@ -101,7 +101,7 @@ http://tv.share1.nu/live/erik612/MW502jcAWC/15242.ts
 http://tv.share1.nu/live/erik612/MW502jcAWC/17112.ts
 #EXTINF:-1 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/minimax_hu.jpg" group-title="Czech", Minimax 
 http://tv.share1.nu/live/erik612/MW502jcAWC/14472.ts
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_uk.jpg" group-title="Czech", NatGeo Wild (CZE)
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_uk.jpg" group-title="Czech", National Geographic Wild
 http://tv.share1.nu/live/erik612/MW502jcAWC/15312.ts
 #EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_uk.jpg" group-title="Czech", National Geographic Wild
 http://tv.share1.nu/live/erik612/MW502jcAWC/17142.ts
