@@ -1,145 +1,671 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/stv1_sk.jpg" group-title="Czech", Jednotka HD
-http://tv.share1.nu/live/erik612/MW502jcAWC/56202.ts
-#EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/stv1_sk.jpg" group-title="Czech", Jednotka
-http://tv.share1.nu/live/erik612/MW502jcAWC/14441.ts
-#EXTINF:-1 tvg-id="Dvojka" tvg-name="Dvojka" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/stv2_sk.jpg" group-title="Czech", Dvojka 
-http://tv.share1.nu/live/erik612/MW502jcAWC/14421.ts
-#EXTINF:-1 tvg-id="Markiza" tvg-name="Markiza" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/markiza.jpg" group-title="Czech", Markiza HD
-http://tv.share1.nu/live/erik612/MW502jcAWC/55281.ts
-#EXTINF:-1 tvg-id="Markiza" tvg-name="Markiza" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/markiza.jpg" group-title="Czech", Markiza
-http://tv.share1.nu/live/erik612/MW502jcAWC/13791.ts
-#EXTINF:-1 tvg-id="Dajto" tvg-name="Dajto" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dajto_tv_sk.jpg" group-title="Czech", Dajto HD
-http://tv.share1.nu/live/erik612/MW502jcAWC/54111.ts
-#EXTINF:-1 tvg-id="JOJ" tvg-name="JOJ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/joj_tv.jpg" group-title="Czech" group-title="Czech", JOJ HD
-http://tv.share1.nu/live/erik612/MW502jcAWC/54121.ts
-#EXTINF:-1 tvg-id="JOJ" tvg-name="JOJ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/joj_tv.jpg" group-title="Czech", JOJ
-http://tv.share1.nu/live/erik612/MW502jcAWC/14171.ts
-#EXTINF:-1 tvg-id="JOJ Plus" tvg-name="JOJ Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/joj_plus.jpg" group-title="Czech", JOJ PLUS HD
-http://tv.share1.nu/live/erik612/MW502jcAWC/54131.ts
-#EXTINF:-1 tvg-id="JOJPlus" tvg-name="JOJ Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/joj_plus.jpg" group-title="Czech", JOJ Plus 
-http://tv.share1.nu/live/erik612/MW502jcAWC/17721.ts
-#EXTINF:-1 tvg-id="Doma" tvg-name="Doma" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/doma_tv_sk.jpg" group-title="Czech", Doma
-http://tv.share1.nu/live/erik612/MW502jcAWC/13821.ts
-#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nova_tv_hd_cz.jpg" group-title="Czech", Nova
-http://tv.share1.nu/live/erik612/MW502jcAWC/14431.ts
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo2_ce_hd.jpg" group-title="Czech", HBO 2
-http://tv.share1.nu/live/erik612/MW502jcAWC/15272.ts
-#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_comedy_ceu.jpg" group-title="Czech", HBO 3
-http://tv.share1.nu/live/erik612/MW502jcAWC/15082.ts
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_hu.jpg" group-title="Czech", HBO
-http://tv.share1.nu/live/erik612/MW502jcAWC/14122.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Czech", AMC
-http://tv.share1.nu/live/erik612/MW502jcAWC/17172.ts
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_black_us.jpg" group-title="Czech", AXN Black
-http://tv.share1.nu/live/erik612/MW502jcAWC/16664.ts
-#EXTINF:-1 tvg-id="AXNxxx" tvg-name="AXNxxx" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_cz.jpg" group-title="Czech", AXN Central Europe
-http://tv.share1.nu/live/erik612/MW502jcAWC/16672.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_cz.jpg" group-title="Czech", AXN Czech
-http://tv.share1.nu/live/erik612/MW502jcAWC/16691.ts
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_white_us.jpg" group-title="Czech", AXN White
-http://tv.share1.nu/live/erik612/MW502jcAWC/16654.ts
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" group-title="Czech", Animal Planet
-http://tv.share1.nu/live/erik612/MW502jcAWC/15262.ts
-#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport1_rs.jpg" group-title="Czech", Arena Sport 1 HD
-http://tv.share1.nu/live/erik612/MW502jcAWC/16021.ts
-#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arenasport1_rs.jpg" group-title="Czech", Arena Sport 1
-http://tv.share1.nu/live/erik612/MW502jcAWC/16931.ts
-#EXTINF:-1 tvg-id="Auto Motor und Sport Channel" tvg-name="Auto Motor und Sport Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/auto_motor_sport_channel.jpg" group-title="Czech", Auto Motor und Sport Channel
-http://tv.share1.nu/live/erik612/MW502jcAWC/16462.ts
-#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality.jpg" group-title="Czech", CBS Reality
-http://tv.share1.nu/live/erik612/MW502jcAWC/17642.ts
-#EXTINF:-1 tvg-id="CS Film" tvg-name="CS Film" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cs_film.jpg" group-title="Czech", CS Film
-http://tv.share1.nu/live/erik612/MW502jcAWC/13741.ts
-#EXTINF:-1 tvg-id="CT1" tvg-name="CT1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ceska_televize1.jpg" group-title="Czech", CT 1 
-http://tv.share1.nu/live/erik612/MW502jcAWC/13781.ts
-#EXTINF:-1 tvg-id="CT2" tvg-name="CT2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ceska_televize2.jpg" group-title="Czech", CT 2
-http://tv.share1.nu/live/erik612/MW502jcAWC/13861.ts
-#EXTINF:-1 tvg-id="CT4 Sport" tvg-name="CT4 Sport" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ceska_televize_sport.jpg" group-title="Czech", CT Sport
-http://tv.share1.nu/live/erik612/MW502jcAWC/16861.ts
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_ce.jpg" group-title="Czech", Cinemax
-http://tv.share1.nu/live/erik612/MW502jcAWC/15292.ts
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cinemax2_ce.jpg" group-title="Czech", Cinemax 2
-http://tv.share1.nu/live/erik612/MW502jcAWC/17732.ts
-#EXTINF:-1 tvg-id="DTX" tvg-name="DTX" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/05/Dtx-e1450778225712-1024x577.jpg/revision/latest/scale-to-width-down/320?cb=20160508180136" group-title="Czech", DTX
-http://tv.share1.nu/live/erik612/MW502jcAWC/15332.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_uk.jpg" group-title="Czech", Discovery
-http://tv.share1.nu/live/erik612/MW502jcAWC/17622.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_uk.jpg" group-title="Czech", Discovery Science
-http://tv.share1.nu/live/erik612/MW502jcAWC/15282.ts
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk.jpg" group-title="Czech", Disney Channel
-http://tv.share1.nu/live/erik612/MW502jcAWC/15252.ts
-#EXTINF:-1 tvg-id="Duck TV" tvg-name="Duck TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/duck_tv.jpg" group-title="Czech", Duck TV 
-http://tv.share1.nu/live/erik612/MW502jcAWC/17131.ts
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="Czech", Eurosport 1
-http://tv.share1.nu/live/erik612/MW502jcAWC/17602.ts
-#EXTINF:-1 tvg-id="Eurosport2.cz" tvg-name="Eurosport2.cz" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2.jpg" group-title="Czech", Eurosport 2
-http://tv.share1.nu/live/erik612/MW502jcAWC/15372.ts
-#EXTINF:-1 tvg-id="Film+" tvg-name="Film+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/film_plusz_hu.jpg" group-title="Czech", Film+
-http://tv.share1.nu/live/erik612/MW502jcAWC/14391.ts
-#EXTINF:-1 tvg-id="Filmbox" tvg-name="Filmbox" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/filmbox_hu.jpg" group-title="Czech", FilmBox 
-http://tv.share1.nu/live/erik612/MW502jcAWC/14052.ts
-#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="Filmbox Family" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/filmbox_family.jpg" group-title="Czech", Filmbox Family
-http://tv.share1.nu/live/erik612/MW502jcAWC/14112.ts
-#EXTINF:-1 tvg-id="Filmbox Plus" tvg-name="Filmbox Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/filmbox_plus_hu.jpg" group-title="Czech", Filmbox Plus
-http://tv.share1.nu/live/erik612/MW502jcAWC/14272.ts
-#EXTINF:-1 tvg-id="Fine Living" tvg-name="Fine Living" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fine_living_network_emea.jpg" group-title="Czech", Fine Living Network
-http://tv.share1.nu/live/erik612/MW502jcAWC/15672.ts
-#EXTINF:-1 tvg-id="Fishing and Hunting" tvg-name="Fishing and Hunting" tvg-logo="" group-title="Czech", Fishing and Hunting
-http://tv.share1.nu/live/erik612/MW502jcAWC/17062.ts
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_uk.jpg" group-title="Czech", Food Network
-http://tv.share1.nu/live/erik612/MW502jcAWC/14412.ts
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_uk.jpg" group-title="Czech", History 
-http://tv.share1.nu/live/erik612/MW502jcAWC/17242.ts
-#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="" group-title="Czech", Investigation Discovery 
-http://tv.share1.nu/live/erik612/MW502jcAWC/76612.ts
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_europe.jpg" group-title="Czech", MTV
-http://tv.share1.nu/live/erik612/MW502jcAWC/17433.ts
-#EXTINF:-1 tvg-id="Jim Jam" tvg-name="Jim Jam" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jim_jam_eu.jpg" group-title="Czech", Jim Jam
-http://tv.share1.nu/live/erik612/MW502jcAWC/15242.ts
-#EXTINF:-1 tvg-id="Megamax" tvg-name="Megamax" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/megamax_hu.jpg" group-title="Czech", Megamax
-http://tv.share1.nu/live/erik612/MW502jcAWC/17112.ts
-#EXTINF:-1 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/minimax_hu.jpg" group-title="Czech", Minimax 
-http://tv.share1.nu/live/erik612/MW502jcAWC/14472.ts
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_uk.jpg" group-title="Czech", National Geographic Wild
-http://tv.share1.nu/live/erik612/MW502jcAWC/15312.ts
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_uk.jpg" group-title="Czech", National Geographic Wild
-http://tv.share1.nu/live/erik612/MW502jcAWC/17142.ts
-#EXTINF:-1 tvg-id="Nova Action" tvg-name="Nova Action" tvg-logo="" group-title="Czech", Nova Action (CZE)
-http://tv.share1.nu/live/erik612/MW502jcAWC/13761.ts
-#EXTINF:-1 tvg-id="Nova Cinema" tvg-name="Nova Cinema" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nova_cinema.jpg" group-title="Czech", Nova Cinema
-http://tv.share1.nu/live/erik612/MW502jcAWC/13731.ts
-#EXTINF:-1 tvg-id="Nova Sport 1" tvg-name="Nova Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nova_sport_cz.jpg" group-title="Czech", Nova Sport 1
-http://tv.share1.nu/live/erik612/MW502jcAWC/14141.ts
-#EXTINF:-1 tvg-id="Ocko" tvg-name="Ocko" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocko.jpg" group-title="Czech", ��ko
-http://tv.share1.nu/live/erik612/MW502jcAWC/14501.ts
-#EXTINF:-1 tvg-id="Prima COOL" tvg-name="Prima COOL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/prima_cool.jpg" group-title="Czech", Prima COOL
-http://tv.share1.nu/live/erik612/MW502jcAWC/14511.ts
-#EXTINF:-1 tvg-id="Prima Comedy Central" tvg-name="Prima Comedy Central" tvg-logo="" group-title="Czech", Prima Comedy Central
-http://tv.share1.nu/live/erik612/MW502jcAWC/54511.ts
-#EXTINF:-1 tvg-id="Prima Family" tvg-name="Prima Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Prima_family_logo.svg" group-title="Czech", Prima Family
-http://tv.share1.nu/live/erik612/MW502jcAWC/13811.ts
-#EXTINF:-1 tvg-id="Prima LOVE" tvg-name="Prima LOVE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/prima_love_cz.jpg" group-title="Czech", Prima LOVE
-http://tv.share1.nu/live/erik612/MW502jcAWC/14521.ts
-#EXTINF:-1 tvg-id="Spektrum Home" tvg-name="Spektrum Home" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/spektrum_home.jpg" group-title="Czech", Spektrum Home
-http://tv.share1.nu/live/erik612/MW502jcAWC/14482.ts
-#EXTINF:-1 tvg-id="Spektrum" tvg-name="Spektrum" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/spektrum.jpg" group-title="Czech", Spektrum
-http://tv.share1.nu/live/erik612/MW502jcAWC/13832.ts
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_cz.jpg" group-title="Czech", Sport 1
-http://tv.share1.nu/live/erik612/MW502jcAWC/14401.ts
-#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport2_cz.jpg" group-title="Czech", Sport 2
-http://tv.share1.nu/live/erik612/MW502jcAWC/14241.ts
-#EXTINF:-1 tvg-id="Sport 5" tvg-name="Sport 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport5_cz.jpg" group-title="Czech", Sport 5
-http://tv.share1.nu/live/erik612/MW502jcAWC/17701.ts
-#EXTINF:-1 tvg-id="TA3" tvg-name="TA3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ta3_sk.jpg" group-title="Czech", TA3
-http://tv.share1.nu/live/erik612/MW502jcAWC/13801.ts
-#EXTINF:-1 tvg-id="TLC.cz" tvg-name="TLC.cz" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_uk.jpg" group-title="Czech", TLC 
-http://tv.share1.nu/live/erik612/MW502jcAWC/17612.ts
-#EXTINF:-1 tvg-id="Barrandov" tvg-name="Barrandov" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/barrandov_tv.jpg" group-title="Czech", Barrandov
-http://tv.share1.nu/live/erik612/MW502jcAWC/14181.ts
-#EXTINF:-1 tvg-id="Paprika" tvg-name="Paprika" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_paprika_ro.jpg" group-title="Czech", TV Paprika
-http://tv.share1.nu/live/erik612/MW502jcAWC/13842.ts
-#EXTINF:-1 tvg-id="Seznam.cz TV" tvg-name="Seznam.cz TV" tvg-logo="" group-title="Czech", Seznam.cz TV
-http://tv.share1.nu/live/erik612/MW502jcAWC/77031.ts
-#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/travel_channel_europe.jpg" group-title="Czech", Travel Channel
-http://tv.share1.nu/live/erik612/MW502jcAWC/17182.ts
+﻿#EXTM3U
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Jednotka" tvg-id="Jednotka" tvg-logo="https://tvhd.one/logo/stv1.png",Jednotka
+https://olam.tvhd.one/stv1_e1BcS83FWqkl1xQvya7AIoiE1MXSQErYV/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dvojka" tvg-id="Dvojka" tvg-logo="https://tvhd.one/logo/stv2.png",Dvojka
+https://olam.tvhd.one/stv2_R1FAWi8jDPcnzy8dbPEb0o6x2vzaeJQyZ/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markíza" tvg-id="Markíza" tvg-logo="https://tvhd.one/logo/markiza.png",Markíza
+https://olam.tvhd.one/markiza_3aAzs6lxKENKTk6LvaFQ2EYgG0Iuurtyh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markíza +1" tvg-id="markiza+1" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/markizaplus1hd.png",Markíza +1
+https://olam.tvhd.one/markizaplus1_i9Tm8Mb9WH1XZe5f8QivlsA4tP7ZMojN/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Doma" tvg-id="Doma" tvg-logo="https://tvhd.one/logo/doma.png",Doma
+https://olam.tvhd.one/doma_X90Kkr3PlEeOXSTLWs7wu8BAo9Sb6q3xX/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Joj" tvg-id="Joj" tvg-logo="https://tvhd.one/logo/joj.png",Joj
+https://olam.tvhd.one/joj_5rZOx7etv6VF3aLmntAnHBJdGVBSOsoRO/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ +1" tvg-id="joj+1" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/tvjojplus1hd.png",JOJ +1
+https://olam.tvhd.one/jojplus1_cvZyt5NDYiEGeLkTueBmSWDaTNro6Ox/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Plus" tvg-id="Plus" tvg-logo="https://tvhd.one/logo/jojplus.png",JOJ Plus
+https://olam.tvhd.one/jojplus_5QVginR5HapjlzSJPzdOsyXg8zYQbdXTq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Family" tvg-id="JOJ Family" tvg-logo="https://tvhd.one/logo/jojfamily.png",JOJ Family
+https://olam.tvhd.one/jojfamily_ccd56v8dx1j7xvo9hsf6nzbansi/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"WAU" tvg-id="Wau" tvg-logo="https://tvhd.one/logo/wau.png",WAU
+https://olam.tvhd.one/wau_dOMUrfM0TKc2IKLQk51E7AKnwpkOIMKJl/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima Cool" tvg-id="Prima Cool" tvg-logo="https://tvhd.one/logo/primacool.png",Prima COOL
+https://olam.tvhd.one/primacool_lykveh79h48qse9ad2tzec7030/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima Comedy Central" tvg-id="Prima Comedy Central" tvg-logo="https://tvhd.one/logo/primacomedycentral.png",Prima Comedy Central
+https://olam.tvhd.one/primacomedycentral_6iatsagr84aups5nth2dojcvub/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TA3" tvg-id="Ta3" tvg-logo="https://tvhd.one/logo/ta3.png",TA3
+https://olam.tvhd.one/ta3_5s6psw2r5faxuu6iy9qdtmubyu6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO" tvg-id="HBO HD" tvg-logo="https://tvhd.one/logo/hbo.png",HBO
+https://olam.tvhd.one/hbo_0rcxw4lo22g7jjswy2gltzdopq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO 2" tvg-id="HBO2 HD" tvg-logo="https://tvhd.one/logo/hbo2.png",HBO 2
+https://olam.tvhd.one/hbo2_4fx2po6a2zivvwk4imfup9ckqa/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO 3" tvg-id="HBO3 HD" tvg-logo="https://tvhd.one/logo/hbo3.png",HBO 3
+https://olam.tvhd.one/hbo3_0kWlQDT0dFwsUh3i/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Cinema" tvg-id="JOJ Cinema HD" tvg-logo="https://tvhd.one/logo/jojcinema.png",JOJ Cinema
+https://olam.tvhd.one/jojcinema_7l9rzu6olhwfvswtc0kiqclzwx/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Cinema" tvg-id="Nova Cinema HD" tvg-logo="https://tvhd.one/logo/novacinema.png",Nova Cinema
+https://olam.tvhd.one/novacinema_ud0wqw7cspufu0x42kxqwwbjud/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima MAX" tvg-id="Prima MAX HD" tvg-logo="https://tvhd.one/logo/primamax.png",Prima MAX
+https://olam.tvhd.one/primamax_cq4v9eyr7pk8anxg6xb1sgl1ur/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Cinemax" tvg-id="Cinemax HD" tvg-logo="https://tvhd.one/logo/cinemax.png",Cinemax
+https://olam.tvhd.one/cinemax_ynwov10q7axmsbhnirfhebsflr/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Cinemax 2" tvg-id="Cinemax2 HD" tvg-logo="https://tvhd.one/logo/cinemax2.png",Cinemax 2
+https://olam.tvhd.one/cinemax2_6i1a71hlvpps924lj1cijkhz3w/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film Plus" tvg-id="Film Plus" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/filmplus.png",Film+
+https://olam.tvhd.one/filmplus_2cejcwxjm5jacma7vwoecgr9rjh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AMC" tvg-id="AMC" tvg-logo="https://tvhd.one/logo/amc.png",AMC
+https://olam.tvhd.one/amc_u6f197v9b35oqicm216wibh01m/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"FilmBox" tvg-id="FilmBox" tvg-logo="https://tvhd.one/logo/filmbox.png",Filmbox
+https://olam.tvhd.one/filmbox_9sruuis6zb6vgn5s9t62quultti/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Family" tvg-id="FilmBox Family" tvg-logo="https://tvhd.one/logo/filmboxfamily.png",Filmbox Family
+https://olam.tvhd.one/filmboxfamily_nxaru0fsl44n3n94ow8srsvoy5t/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Plus" tvg-id="FilmBox Plus" tvg-logo="https://tvhd.one/logo/filmboxplus.png",Filmbox Plus
+https://olam.tvhd.one/filmboxplus_q0vhzfvllejgr3ha3d8921r790w/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Premium" tvg-id="FilmBox Premium HD" tvg-logo="https://tvhd.one/logo/filmboxpremium.png",Filmbox Premium
+https://olam.tvhd.one/filmboxpremium_umr46iaiqk9wwgslxp5pbztmf73/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Extra" tvg-id="FilmBox Extra HD" tvg-logo="https://tvhd.one/logo/filmboxextra.png",Filmbox Extra
+https://olam.tvhd.one/filmboxextra_dzz1o499k1rdj9civb1tc78q2gd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Arthouse" tvg-id="filmboxarthouse" tvg-logo="https://tvhd.one/logo/filmboxarthouse.png",Filmbox Arthouse
+https://olam.tvhd.one/filmboxarthouse_SwH970eeBYretMB97Ab6rmC04aoXfcI/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AXN" tvg-id="AXN" tvg-logo="https://tvhd.one/logo/axn.png",AXN
+https://olam.tvhd.one/axn_ocynl35a4yhm9eu6ngkwe2a0qneyrd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AXN White" tvg-id="AXN White" tvg-logo="https://tvhd.one/logo/axnwhite.png",AXN White
+https://olam.tvhd.one/axnwhite_58ix3qp40rjny5uer788kwwovd4ypr/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AXN Black" tvg-id="AXN Black" tvg-logo="https://tvhd.one/logo/axnblack.png",AXN Black
+https://olam.tvhd.one/axnblack_id4uiqvh7y4yy3f29u95vwbe5a3p2k/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film Europe" tvg-id="Film Europe" tvg-logo="https://tvhd.one/logo/filmeurope.png",Film Europe
+https://olam.tvhd.one/filmeurope_pqhozkw3j7flfvkccrg0osw6v23/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT Sport HD" tvg-id="ČT Sport HD" tvg-logo="https://tvhd.one/logo/ctsport.png",ČT Sport
+https://olam.tvhd.one/ctsport_i9y8ex7jk1rlx1zowt8xnze5hc/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dajto" tvg-id="dajto" tvg-logo="https://tvhd.one/logo/dajto.png",Dajto
+https://olam.tvhd.one/dajto_2QhLGoiB6fHajIlXXWGZj8AbDuEz5bt7Y/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 1" tvg-id="Nova Sport1 HD" tvg-logo="https://tvhd.one/logo/novasport1.png",Nova Sport 1
+https://olam.tvhd.one/novasport1_7x5uyujbuyq42ridtuxsxp8k2b/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 2" tvg-id="Nova Sport2 HD" tvg-logo="https://tvhd.one/logo/novasport2.png",Nova Sport 2
+https://olam.tvhd.one/novasport2_gwrqfvvvrsce5piqx74e17b05k/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 1" tvg-id="Sport1 HD" tvg-logo="https://tvhd.one/logo/sport1.png",Sport 1
+https://olam.tvhd.one/sport1_wupsni7ntn6qlqujlk38ayukdq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 2" tvg-id="Sport2 HD" tvg-logo="https://tvhd.one/logo/sport2.png",Sport 2
+https://olam.tvhd.one/sport2_h8bm5tub9eaho8k9xhrj8czyvi/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 3" tvg-id="Sport3 HD" tvg-logo="https://tvhd.one/logo/sport3.png",Sport 3
+https://olam.tvhd.one/sport3_n4tsyvfgfbuxbmpxpvx8lvh2f6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 5" tvg-id="Sport 5" tvg-logo="https://tvhd.one/logo/sport5.png",Sport 5
+https://olam.tvhd.one/sport5_iyw9faexrgecy87gipng4z6b0nb/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 1" tvg-id="Digi Sport 1 HD" tvg-logo="https://tvhd.one/logo/digisport1.png",DIGI Sport 1
+https://olam.tvhd.one/digisport1_8smkjk8i0e1yniGQ1TWYpN1rrTIPfKK/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 2" tvg-id="Digi Sport 2 HD" tvg-logo="https://tvhd.one/logo/digisport2.png",DIGI Sport 2
+https://olam.tvhd.one/digisport2_qD2fUgo8uwLal9Bmws7iO64xS5YQfbm/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 3" tvg-id="Digi Sport 3 HD" tvg-logo="https://tvhd.one/logo/digisport3.png",DIGI Sport 3
+https://olam.tvhd.one/digisport3_u8b619NpWnNrgBJXOoUtRNVlCUh9YSe/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 4" tvg-id="Digi Sport 4 HD" tvg-logo="https://tvhd.one/logo/digisport4.png",DIGI Sport 4
+https://olam.tvhd.one/digisport4_fs1dcbMxDiYA7OjQfFWqsEKyVFfqh3J/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 5" tvg-id="Digi Sport 5 HD" tvg-logo="https://tvhd.one/logo/digisport5.png",DIGI Sport 5
+https://olam.tvhd.one/digisport5_pnm6XfKOmkybQvTrkK8QvhOotF8lvCQ/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 1" tvg-id="orangesport1" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport.png",Orange Sport 1
+https://olam.tvhd.one/orangesport1_80fyz6iteorpacqcskr4nm2mk9n4rygh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 2" tvg-id="orangesport2" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport2.png",Orange Sport 2
+https://olam.tvhd.one/orangesport2_91rzi8fwyai8k9vabs9w0vvlm439pih0/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 3" tvg-id="orangesport3" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport3.png",Orange Sport 3
+https://olam.tvhd.one/orangesport3_menc9z3vvgpshj5l2z79dv38uieskd1d/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 4" tvg-id="orangesport4" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport4.png",Orange Sport 4
+https://olam.tvhd.one/orangesport4_rqzp63genz0ksltla08c7t128il9s6u6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2 Sport" tvg-id="O2 Sport HD" tvg-logo="https://tvhd.one/logo/o2sport.png",O2 Sport
+https://olam.tvhd.one/o2tvsport_edybr284k5kd4k7dq3rku2your/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2 Tenis" tvg-id="O2 Tenis HD" tvg-logo="https://tvhd.one/logo/o2tenis.png",O2 Tenis
+https://olam.tvhd.one/o2tvtenis_pk6mhz77pimtv2hcxzmz6f9w4t/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2 Fotbal" tvg-id="O2 Fotbal HD" tvg-logo="https://tvhd.one/logo/o2fotbal.png",O2 Fotbal
+https://olam.tvhd.one/o2tvfotbal_KFxW26DWFDAzHpam/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Eurosport 1" tvg-id="Eurosport1 HD" tvg-logo="https://tvhd.one/logo/eurosport1.png",Eurosport 1
+https://olam.tvhd.one/eurosport1_wafnewfe7myjtkeegq1socvk06d/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Eurosport 2" tvg-id="Eurosport2 HD" tvg-logo="https://tvhd.one/logo/eurosport2.png",Eurosport 2
+https://olam.tvhd.one/eurosport2_f93mr8vdu7on0b4umn2ej14z68m/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"NBC Golf" tvg-id="Golf Channel HD" tvg-logo="https://tvhd.one/logo/golfchannel.png",NBC Golf
+https://olam.tvhd.one/nbcgolf_xk1gtw4uadzl4vrqax5qjmr29x2/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arena Sport 1" tvg-id="Arena Sport1 HD" tvg-logo="https://tvhd.one/logo/arenasport1.png",Arena Sport 1
+https://olam.tvhd.one/arenasport1_e40npbnllg3ss82npnxc1mrtpretourq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arena Sport 2" tvg-id="Arena Sport2" tvg-logo="https://tvhd.one/logo/arenasport2.png",Arena Sport 2
+https://olam.tvhd.one/arenasport2_irhlxe1hoqu27be4qa01b6gn70lroass/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fast and Funbox" tvg-id="Fast FunBox HD" tvg-logo="https://tvhd.one/logo/fastandfunbox.png",Fast and Funbox
+https://olam.tvhd.one/fastandfunbox_QehVYepF5y0ToKxTGjMtUOchTMCxFl0/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fightbox" tvg-id="FightBox" tvg-logo="https://tvhd.one/logo/fightbox.png",Fightbox
+https://olam.tvhd.one/fightbox_x2t484h561qxdhqq0x9rpz3z003djfdl/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Extreme Sport Channel" tvg-id="Extreme Sports" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/extremesports.png",Extreme Sport Channel
+https://olam.tvhd.one/extremesportchannel_z620ste6rngbqtjarf194n35wnki239u/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spartak TV" tvg-id="spartaktv" tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2014/04/spartak_TV.jpg",Spartak TV
+https://olam.tvhd.one/spartaktv_ie3Coo3mEDRaBbXPDyBhzchoT1aQbEl/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Auto Motor und Sport HD" tvg-id="Auto Motor und Sport HD" tvg-logo="https://tvhd.one/logo/motorsport.png",MotorSport
+https://olam.tvhd.one/motorsport_kr2y9q0ym3vls76lfeasdr9blk6iyw0i/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Auto Motor Sport Channel" tvg-id="Auto Motor und Sport HD" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/automotorsporthd.png",Auto Motor Sport Channel
+https://olam.tvhd.one/automotorsportchannel_rbDlJvjjDNCvGnYkQBqULTps2jGT9Q7/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima Zoom HD" tvg-id="Prima Zoom HD" tvg-logo="https://tvhd.one/logo/primazoom.png",Prima ZOOM
+https://olam.tvhd.one/primazoom_8odagn631ae11zbkcw3jxu1891/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Channel" tvg-id="Discovery Channel" tvg-logo="https://tvhd.one/logo/discoverychannel.png",Discovery Channel
+https://olam.tvhd.one/discoverychannel_ots2lsc30z3r7sevyx94s31vm2/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Showcase HD" tvg-id="Discovery Showcase HD" tvg-logo="https://tvhd.one/logo/discoveryshowcase.png",Discovery Showcase
+https://olam.tvhd.one/discoveryshowcase_yw3jwaxvby6qd7ley7adrbhcnj/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Turbo Xtra" tvg-id="Discovery Turbo Xtra" tvg-logo="https://tvhd.one/logo/investigationdiscovery.png",Discovery ID Xtra
+https://olam.tvhd.one/discoveryidxtra_1n8603qxdk516h730104xlow9q/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Science" tvg-id="Discovery Science" tvg-logo="https://tvhd.one/logo/discoveryscience.png",Discovery Science
+https://olam.tvhd.one/discoveryscience_Lxu9gUxNmdWMKPX4QzK24EIJUVmqDj9/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Turbo Xtra" tvg-id="Discovery Turbo Xtra" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/dtx.png",Discovery Turbo Xtra
+https://olam.tvhd.one/discoveryturboxtra_cQkiMzJ4AW7clCwxhKKTma33G0JtqNl/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"National Geographic" tvg-id="National Geographic" tvg-logo="https://tvhd.one/logo/nationalgeographic.png",National Geographic
+https://olam.tvhd.one/nationalgeographic_949xywr2xpo4e8oa5wr09whtext/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"National Geographic Wild" tvg-id="National Geographic Wild" tvg-logo="https://tvhd.one/logo/natgeowild.png",NatGeo Wild
+https://olam.tvhd.one/natgeowild_dw65hl2mq595q7umo3ghbkelz76/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spektrum HD" tvg-id="Spektrum HD" tvg-logo="https://tvhd.one/logo/spektrum.png",Spektrum
+https://olam.tvhd.one/spektrum_rg5n0afix4tivd0s3b3pd9ddf6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spektrum Home" tvg-id="Spektrum Home" tvg-logo="https://tvhd.one/logo/spektrumhome.png",Spektrum Home
+https://olam.tvhd.one/spektrumhome_aftc66i4feg3fx9fqwe8ccxklm/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Animal Planet" tvg-id="Animal Planet" tvg-logo="https://tvhd.one/logo/animalplanet.png",Animal Planet
+https://olam.tvhd.one/animalplanet_atbyxcoa4z2rs16cmot5umtcem/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat Explore" tvg-id="Viasat Explore" tvg-logo="https://tvhd.one/logo/viasatexplore.png",Viasat Explore
+https://olam.tvhd.one/viasatexplore_e7i8gy5vnf2hjwi5e81unmeee6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat History" tvg-id="Viasat History" tvg-logo="https://tvhd.one/logo/viasathistory.png",Viasat History
+https://olam.tvhd.one/viasathistory_gjvfg9dycbl2syckq5s60t9peo/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat Nature" tvg-id="Viasat Nature" tvg-logo="https://tvhd.one/logo/viasatnature.png",Viasat Nature
+https://olam.tvhd.one/viasatnature_luCuTIboZmhqPvoH/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Food Network" tvg-id="Food Network" tvg-logo="https://tvhd.one/logo/foodnetwork.png",Food Network
+https://olam.tvhd.one/foodnetwork_3ppz187miz12v23p7zf41o0gg84/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"UP Network" tvg-id="Up Network" tvg-logo="https://tvhd.one/logo/upnetwork.png",UP Network
+https://olam.tvhd.one/upnetwork_3e65hdz4l5d0nu6zch67mnpi2q/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Epic Drama" tvg-id="Epic Drama HD" tvg-logo="https://tvhd.one/logo/epicdrama.png",Epic Drama
+https://olam.tvhd.one/epicdrama_qsjnc68071yzrsedq0r7e488ghm/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://tvhd.one/logo/nickelodeon.png",Nickelodeon
+https://olam.tvhd.one/nickelodeon_8igyvwig92f9oo1fv1lriwvpzu4/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"WAR" tvg-id="WAR" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/tvwar.png",WAR TV
+https://olam.tvhd.one/wartv_YqX1UcpfnNMxg4rYpt7sVcFFgl6bH1L/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markíza International" tvg-id="Markíza International" tvg-logo="https://tvhd.one/logo/markizainternational.png",Markíza International
+https://olam.tvhd.one/markizainternational_3Z7AKoHZ9FXjpVxr71ioAQXg6kwvzHbVR/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT1" tvg-id="ČT1" tvg-logo="https://tvhd.one/logo/ct1.png",ČT 1
+https://olam.tvhd.one/ct1_0407e8pj17po6ww78co4nyvfus/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT2" tvg-id="ČT2" tvg-logo="https://tvhd.one/logo/ct2.png",ČT 2
+https://olam.tvhd.one/ct2_dftkn3wew35jtfie4ncq4zj9hb/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mňam TV" tvg-id="Mňam TV" tvg-logo="https://tvhd.one/logo/mnamtv.png",Mňam TV
+https://olam.tvhd.one/mnamtv_498mkdg491p5t6scnjvlgc94fec/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TV Paprika" tvg-id="TV Paprika" tvg-logo="https://tvhd.one/logo/tvpaprika.png",TV Paprika
+https://olam.tvhd.one/tvpaprika_ikc00z59na6dd6mf1cacjozmdjt/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Piánko TV" tvg-id="Piánko TV" tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2016/04/pianko.jpg",Piánko TV
+https://olam.tvhd.one/pianko_cjywjuzttgyjicwavqcdozwkiifozazgjeglfejwpm/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT 1 Sever" tvg-id="ČT 1 Sever" tvg-logo="https://tvhd.one/logo/ct1sever.png",ČT 1 Sever
+https://olam.tvhd.one/ct1sever_nkbnk4yl7c8ds0ka3vsr1htiqmy/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT 1 Jih" tvg-id="ČT 1 Jih" tvg-logo="https://tvhd.one/logo/ct1jih.png",ČT 1 Jih
+https://olam.tvhd.one/ct1jih_2z0tbvdldbtrlxcbw4o5irng5xn/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT24" tvg-id="ČT24" tvg-logo="https://tvhd.one/logo/ct24.png",ČT 24
+https://olam.tvhd.one/ct24_3sbcumrjaai9ktshd94kx0lej0/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT :D HD / ČT Art HD" tvg-id="ČT :D HD / ČT Art HD" tvg-logo="https://tvhd.one/logo/ctart.png",ČT :D HD / ČT Art HD
+https://olam.tvhd.one/ctart_wblfme4hukqgi9y7nan8tq8y3n/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova" tvg-id="Nova" tvg-logo="https://tvhd.one/logo/nova.png",Nova
+https://olam.tvhd.one/nova_bhnhp3e5k25dqzl38nle3chba3/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova 2" tvg-id="Nova2" tvg-logo="https://tvhd.one/logo/nova2.png",Nova 2
+https://olam.tvhd.one/nova2_a36eilni0gyqahd9sgk7caenqr/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova International" tvg-id="Nova International" tvg-logo="https://tvhd.one/logo/novainternational.png",Nova International
+https://olam.tvhd.one/novainternational_iZft45NS7QKDLbmrU8U9LGZ5J7b0zo0/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Action" tvg-id="Nova Action" tvg-logo="https://tvhd.one/logo/novaaction.png",Nova Action
+https://olam.tvhd.one/novaaction_f9fyezwhyy56dyvbqkccol7myk/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Gold" tvg-id="Nova Gold" tvg-logo="https://tvhd.one/logo/novagold.png",Nova Gold
+https://olam.tvhd.one/novagold_qk33j6bat5r0gwk4iaj60n1is5/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VOYO Cinema" tvg-id="VOYO Cinema" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple/v4/d4/19/c5/d419c5d6-3a9f-6de3-add9-7121dc62719b/mzl.ydofjisf.png/0x0ss-85.jpg",Nova Voyo
+https://olam.tvhd.one/voyo_61aj2kzysjtpkeaqvwnj9fgme1s66f54/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima" tvg-id="Prima" tvg-logo="https://tvhd.one/logo/prima.png",Prima
+https://olam.tvhd.one/prima_75x1940dv8umdu6x0yukvgn4few/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima PLUS" tvg-id="Prima PLUS" tvg-logo="https://tvhd.one/logo/primaplus.png",Prima PLUS
+https://olam.tvhd.one/primaplus_8g4zgvpadqe3v9kaktoos0b338/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima Love" tvg-id="Prima Love" tvg-logo="https://tvhd.one/logo/primalove.png",Prima LOVE
+https://olam.tvhd.one/primalove_l6c910ac4luzm1supkd8pxjb7q/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima Krimi" tvg-id="Prima Krimi" tvg-logo="https://tvhd.one/logo/primakrimi.png",Prima KRIMI
+https://olam.tvhd.one/primakrimi_5isbut83lvaym941ht7934sarz/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Televize Seznam" tvg-id="Televize Seznam" tvg-logo="https://tvhd.one/logo/seznamtv.png",Seznam TV
+https://olam.tvhd.one/seznamtv_bgi9z7h9oel82sb3147ab6rxnpk/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Barrandov" tvg-id="Barrandov" tvg-logo="https://tvhd.one/logo/barrandov.png",Barrandov
+https://olam.tvhd.one/barrandov_qp6wtvkgo0mhae2ub0qvnbzgvpk/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Kino Barrandov HD" tvg-id="Kino Barrandov HD" tvg-logo="https://tvhd.one/logo/barrandovkino.png",Barrandov Kino
+https://olam.tvhd.one/barrandovkino_o5x2ehpzjpsy43og66960o3t66zld362/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Barrandov Plus" tvg-id="Barrandov Plus" tvg-logo="https://tvhd.one/logo/barrandovplus.png",Barrandov Plus
+https://olam.tvhd.one/barrandovplus_13hm3e62kvq2xtof2rj6eur1s9j2759u/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Barrandov Family" tvg-id="Barrandov Family" tvg-logo="https://tvhd.one/logo/barrandovfamily.png",Barrandov Family
+https://olam.tvhd.one/barrandovfamily_q1nxv8sc07nxoggwxx36m6s1vq5/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CS Film CS Mini Film Horor" tvg-id="CS Mini + CS Film + Horor Film" tvg-logo="https://tvhd.one/logo/csfilmcsminifilmhoror.png",CS Film CS Mini Film Horor
+https://olam.tvhd.one/csfilm_z4TtanFbWVrPtMQvtgCOKA0N4T/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Československo / Be2Can HD" tvg-id="Československo / Be2Can HD" tvg-logo="https://tvhd.one/logo/ceskoslovenskohd.png",Československo
+https://olam.tvhd.one/ceskoslovensko_aernsyjaugtthuquf6cfpw1cc5adg0ma/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fishing and Hunting" tvg-id="Fishing and Hunting" tvg-logo="https://tvhd.one/logo/fishingandhunting.png",Fishing and Hunting
+https://olam.tvhd.one/fishingandhunting_l6tm8moxxw90zgtpp5hjf2cx4fd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TravelXP" tvg-id="TravelXP HD" tvg-logo="https://tvhd.one/logo/travelxp.png",TravelXP
+https://olam.tvhd.one/travelxp_3TEnhTuR9UVA0GC1x9Ncw65Niam0j4Dbe/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Kino Svět" tvg-id="Kino Svět" tvg-logo="https://tvhd.one/logo/kinosvet.png",Kino Svět
+https://olam.tvhd.one/kinosvet_ikgnqJAKqZdmLXv9o7eynQnBIntNmPV/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TLC" tvg-id="TLC" tvg-logo="https://tvhd.one/logo/tlc.png",TLC
+https://olam.tvhd.one/tlc_xpghpfpf83kw4scvek0zuosvy7e/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Hobby TV" tvg-id="Hobby TV" tvg-logo="https://tvhd.one/logo/hobbytv.png",Hobby TV
+https://olam.tvhd.one/hobbytv_bTYl3q9UpylEuwekol8lHdHdRgr8WeM/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Travel Channel" tvg-id="travelchannel" tvg-logo="https://tvhd.one/logo/travelchannel.png",Travel Channel
+https://olam.tvhd.one/travelchannel_DBd7OdlcRdWdMEnkugSsjWTaGn4GFkY/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Cartoon Network" tvg-id="Cartoon Network" tvg-logo="https://tvhd.one/logo/cartoonnetwork.png",Cartoon Network
+https://olam.tvhd.one/cartoonnetwork_vubxytr5l2umjzkxz5g5c0taegnpnsdr3eq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Disney Channel" tvg-id="Disney Channel" tvg-logo="https://tvhd.one/logo/disneychannel.png",Disney Channel
+https://olam.tvhd.one/disneychannel_329xxy1rl47emc9shiact90gwad/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Disney Junior" tvg-id="Disney Junior" tvg-logo="https://tvhd.one/logo/disneyjunior.png",Disney Junior
+https://olam.tvhd.one/disneyjunior_tiqwgXN9lkrKsKOLXdI7ZIHDoPcvOIg/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Duck TV" tvg-id="Duck TV" tvg-logo="https://tvhd.one/logo/ducktv.png",Duck TV
+https://olam.tvhd.one/ducktv_tyzzf3y1xzp36dqgjrv28y1zuuy/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JimJam" tvg-id="JimJam" tvg-logo="https://tvhd.one/logo/jimjam.png",JimJam
+https://olam.tvhd.one/jimjam_n40wjlry7ov8k138c81wz00ex1d/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Baby TV" tvg-id="babytv" tvg-logo="https://tvhd.one/logo/babytv.png",Baby TV
+https://olam.tvhd.one/babytv_YhfHptxyy8WYkEC7U94RFT6Z9l7Ub/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RiK" tvg-id="RiK" tvg-logo="https://tvhd.one/logo/rik.png",Rik
+https://olam.tvhd.one/rik_sq30urkbgmmomv0l0ed01d0at63/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Minimax" tvg-id="Minimax" tvg-logo="https://tvhd.one/logo/minimax.png",Minimax
+https://olam.tvhd.one/minimax_gkdhpcz67vde99ux846qfy2nt54/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Megamax" tvg-id="Megamax" tvg-logo="https://tvhd.one/logo/megamax.png",Megamax
+https://olam.tvhd.one/megamax_5phzjmnuv0t7bv9ewm8df99yri3/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Tuty" tvg-id="Tuty" tvg-logo="https://tvhd.one/logo/tuty.png",Tuty
+https://olam.tvhd.one/tuty_gqriigwtbshszwxibqvtxipibeuyymzaqbbdfthndt/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nick Jr" tvg-id="Nick Jr." tvg-logo="https://tvhd.one/logo/nickjunior.png",Nick Junior
+https://olam.tvhd.one/nickjunior_k3u4jpbtw24zxeg2vc4hvl5m5lg/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Canal J" tvg-id="canalj" tvg-logo="https://tvhd.one/logo/canalj.png",Canal J
+https://olam.tvhd.one/canalj_MOYWtd03Xwov7AXrQ1YoNkV4FgdtUeX/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Gulli" tvg-id="gulli" tvg-logo="https://tvhd.one/logo/gulli.png",Gulli
+https://olam.tvhd.one/gullifr_stsdmeeivypfxpwwvuoikyapkwvgtzgucnxm/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Boing" tvg-id="boing" tvg-logo="https://tvhd.one/logo/boing.png",Boing
+https://olam.tvhd.one/boing_enxoklvvkqqvfxwzbieqlulcxvojlae/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Toggo Plus" tvg-id="toggoplus" tvg-logo="https://tvhd.one/logo/toggoplus.png",Toggo Plus
+https://olam.tvhd.one/toggoplus_fUTdpiLpJHtmQIRlhxvLq47h9grFC6f/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"KiKa" tvg-id="KiKa" tvg-logo="https://tvhd.one/logo/kika.png",KiKa
+https://olam.tvhd.one/kika_in8lcexpdt1w6jq4nxs6eynvhrvemud64g5/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Boomerang" tvg-id="Boomerang" tvg-logo="https://tvhd.one/logo/boomerang.png",Boomerang
+https://olam.tvhd.one/boomerang_txqcvtb9nibf70z83ck0nr96kqd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sundance Channel" tvg-id="sundancechannel" tvg-logo="https://tvhd.one/logo/sundancechannel.png",Sundance Channel
+https://olam.tvhd.one/sundancechannel_Xj8kf5LBPtIQ9nNEzFd9IRx1HBhNHwY/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Redbull TV" tvg-id="redbulltv" tvg-logo="https://tvhd.one/logo/redbulltv.png",Redbull TV
+https://olam.tvhd.one/redbull_ojaiisqyupybrtsurgshlerjcgmmebmbviklzqxyft/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"BBC One" tvg-id="bbcone" tvg-logo="https://tvhd.one/logo/bbcone.png",BBC One
+https://olam.tvhd.one/bbcone_GmDB2yGxz03lao3eZvfmJICnZe/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"BBC Two" tvg-id="bbctwo" tvg-logo="https://tvhd.one/logo/bbctwo.png",BBC Two
+https://olam.tvhd.one/bbctwo_9LVKVTh4duYnj4TbWOagj2xfkn/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"NHK World" tvg-id="nhkworld" tvg-logo="http://www.jffsf.org/2018/wp-content/uploads/2018/08/nhkworld-logo-square-web.jpg",NHK World
+https://olam.tvhd.one/nhkworld_jqv9Yf8u5GHaOLMt6kQ80AZXYbyUJGQ/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"BBC World News" tvg-id="bbcworldnews" tvg-logo="https://tvhd.one/logo/bbcworldnews.png",BBC World News
+https://olam.tvhd.one/bbcworldnews_h5twlp53bpliow9vi2qzobwa11h/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CBBC" tvg-id="cbbc" tvg-logo="https://tvhd.one/logo/cbbc.png",CBBC
+https://olam.tvhd.one/cbbc_g6OWDpjNxYgvgBuTmJpG0vlaXA/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"itv" tvg-id="itv" tvg-logo="https://tvhd.one/logo/itv.png",itv
+https://olam.tvhd.one/itv_DeHDDf1NnyWH3i36rvDScRWJZ7/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"itv 2" tvg-id="itv2" tvg-logo="https://tvhd.one/logo/itv2.png",itv 2
+https://olam.tvhd.one/itv2_BhJqkKQzzyC7wB8DCPZy5F30E2/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"itv 3" tvg-id="itv3" tvg-logo="https://tvhd.one/logo/itv3.png",itv 3
+https://olam.tvhd.one/itv3_luxsbhytlqgpcbcsfjvtydwrjbphgbs/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"itv 4" tvg-id="itv4" tvg-logo="https://tvhd.one/logo/itv4.png",itv 4
+https://olam.tvhd.one/itv4_pfbqrlbedoobysnxrqvuxetsiwjabhd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Pick TV" tvg-id="picktv" tvg-logo="https://tvhd.one/logo/picktv.png",Pick TV
+https://olam.tvhd.one/picktv_K6KHCP6q405AeQlN5Furegkp8f/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Channel 4" tvg-id="channel4" tvg-logo="https://tvhd.one/logo/channel4.png",Channel 4
+https://olam.tvhd.one/channel4_P9csLfg2ZcyM2M205fc9JPQsyz/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"4 More" tvg-id="4more" tvg-logo="https://tvhd.one/logo/4more.png",4 More
+https://olam.tvhd.one/4more_ikhtinwqgleshpxpahkddwjzuaqwkqa/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"More 4" tvg-id="more4" tvg-logo="https://tvhd.one/logo/more4.png",More 4
+https://olam.tvhd.one/more4_SKIXIWIZZDYpkvqvCX57scdVDW/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"E4" tvg-id="e4" tvg-logo="https://tvhd.one/logo/e4.png",E4
+https://olam.tvhd.one/e4_rynpeuwpbfzmgkuimxxfjnzsigjxfca/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Docubox" tvg-id="docubox" tvg-logo="https://tvhd.one/logo/docubox.png",Docubox
+https://olam.tvhd.one/docubox_2d7tnwu3q5xbwgktr7ughd6m6vp7o7ds/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Outdoor Channel" tvg-id="Outdoor Channel" tvg-logo="https://tvhd.one/logo/outdoorchannel.png",Outdoor Channel
+https://olam.tvhd.one/outdoorchannel_prlc8uia3nvbo2ox8omzlewaz5chygnl/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DOQ" tvg-id="doq" tvg-logo="https://tvhd.one/logo/doq.png",DOQ
+https://olam.tvhd.one/doq_vgbhotu0nvurn5zuabmur3kka6z7vfv2/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Russian Travel Guide" tvg-id="russiantravelguide" tvg-logo="https://tvhd.one/logo/russiantravelguide.png",Russian Travel Guide
+https://olam.tvhd.one/russiantravelguide_cruTYLex32kz3HUNwaWlJoBPArfnHMy/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nautical Channel" tvg-id="Nautical Channel" tvg-logo="https://tvhd.one/logo/nauticalchannel.png",Nautical Channel
+https://olam.tvhd.one/nauticalchannel_mgsz9zq52lhmpm2281d56l83o880x19ir5l/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"FINE LIVING" tvg-id="fineliving" tvg-logo="https://tvhd.one/logo/fineliving.png",FINE LIVING
+https://olam.tvhd.one/fineliving_UP6bK40bWXFfV4Y9oe4e7vf0AUXSpqk/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"English Club TV" tvg-id="englishclubtv" tvg-logo="https://tvhd.one/logo/englishclubtv.png",English Club TV
+https://olam.tvhd.one/englishclubtv_nFdCxbaTmI7chn8KRDlI3Xn56TznaGF/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"History" tvg-id="history" tvg-logo="https://tvhd.one/logo/history.png",History
+https://olam.tvhd.one/history_wCPWbKHqylzumHBch5KUkTHd4BY5EwV/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Crime and Investigation" tvg-id="Crime and Investigation" tvg-logo="https://tvhd.one/logo/crimeandinvestigation.png",Crime and Investigation
+https://olam.tvhd.one/crimeandinvestigation_PdtQwMz9X8O6ivWWMUI2fZvUAWEpyrK/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"V1" tvg-id="v1" tvg-logo="https://tvhd.one/logo/v1.png",V1
+https://olam.tvhd.one/v1_ctokpsxykcixylxtdynfmqvmlchsqidxxckvuwehuz/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Deutche Welle" tvg-id="deutchewelle" tvg-logo="https://tvhd.one/logo/deutchewelle.png",Deutche Welle
+https://olam.tvhd.one/deutschewellegermany_zmhdlqgcnfbfhrdeulvtujuiqtugavnqgpodpngiqc/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Das Eins Germany" tvg-id="daseinsgermany" tvg-logo="https://tvhd.one/logo/daseinsgermany.png",Das Eins Germany
+https://olam.tvhd.one/daseinsgermany_oyvx3bp1resjeedovjimpa4imkk3751/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Das Erste Germany" tvg-id="daserstegermany" tvg-logo="https://tvhd.one/logo/daserstegermany.png",Das Erste Germany
+https://olam.tvhd.one/daserstegermany_hj1l962zidraw9jyn7e0szl7auqxvtd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"One 1 Germany" tvg-id="one1germany" tvg-logo="https://tvhd.one/logo/one1germany.png",One 1 Germany
+https://olam.tvhd.one/one1germany_32awjjjxor77eunlnblv05bs0tpqze5/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ORF 1 Germany" tvg-id="orf1germany" tvg-logo="https://tvhd.one/logo/orf1germany.png",ORF 1 Germany
+https://olam.tvhd.one/orf1germany_f2l23tefhznnizolbqwue19r27e0gpo/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ORF 2 Germany" tvg-id="orf2germany" tvg-logo="https://tvhd.one/logo/orf2germany.png",ORF 2 Germany
+https://olam.tvhd.one/orf2germany_jmyz3egv0h1ongqk1ht7qbiw3urdqox/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RTL Germany" tvg-id="rtlgermany" tvg-logo="https://tvhd.one/logo/rtlgermany.png",RTL Germany
+https://olam.tvhd.one/rtlgermany_anqnizy5wsuhoezvcq7gnmp4v1xey1g/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RTL 2 Germany" tvg-id="rtl2germany" tvg-logo="https://tvhd.one/logo/rtl2germany.png",RTL 2 Germany
+https://olam.tvhd.one/rtl2germany_xt08dl7gkyhkzepcbw5pa3sjczb12fl/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sat.1 Germany" tvg-id="sat.1germany" tvg-logo="https://tvhd.one/logo/sat.1germany.png",Sat.1 Germany
+https://olam.tvhd.one/sat1germany_J72PGnl1NSzf4LC8CAg9GILXiy/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"3sat Germany" tvg-id="3satgermany" tvg-logo="https://tvhd.one/logo/3satgermany.png",3sat Germany
+https://olam.tvhd.one/3satgermany_f5mflp6zdyhtv1ucq30vscsxekzvmzz/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VOX Germany" tvg-id="voxgermany" tvg-logo="https://tvhd.one/logo/voxgermany.png",VOX Germany
+https://olam.tvhd.one/voxgermany_on5vt5tge7y2s2t24kb0i54lgv0sa7b/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sixx Germany" tvg-id="sixxgermany" tvg-logo="https://tvhd.one/logo/sixxgermany.png",Sixx Germany
+https://olam.tvhd.one/sixxgermany_8bp2x7jgqz48kg3n0o04u151z257qme/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ZDF Germany" tvg-id="zdfgermany" tvg-logo="https://tvhd.one/logo/zdfgermany.png",ZDF Germany
+https://olam.tvhd.one/zdfgermany_0tj8cuk6hjr4r96bago9o8m24hdbgdf/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ProSieben Germany" tvg-id="prosiebengermany" tvg-logo="https://tvhd.one/logo/prosiebengermany.png",ProSieben Germany
+https://olam.tvhd.one/prosiebengermany_UYS9GCHBptsFi2v3aLv4NgOPWj/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Welt Germany" tvg-id="weltgermany" tvg-logo="https://tvhd.one/logo/weltgermany.png",Welt Germany
+https://olam.tvhd.one/weltgermany_ovxn9dgq8w7kzh9zqw15e87142ydip5/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Kabel1 Germany" tvg-id="kabel1germany" tvg-logo="https://tvhd.one/logo/kabel1germany.png",Kabel1 Germany
+https://olam.tvhd.one/kabel1germany_lfvp2p19w00ln11koo4ef4hh8rqihgi/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"PRO 7 Germany" tvg-id="pro7germany" tvg-logo="https://tvhd.one/logo/pro7germany.png",PRO 7 Germany
+https://olam.tvhd.one/pro7germany_zz1d3x4ojqpxdyskbjjys5sveq6l7tjw2tw8quffpxy/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Rbb Germany" tvg-id="rbbgermany" tvg-logo="https://tvhd.one/logo/rbbgermany.png",Rbb Germany
+https://olam.tvhd.one/rbbgermany_1xgn42dmu0bod4j403zsg3ayite70my/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"BR Germany" tvg-id="brgermany" tvg-logo="https://tvhd.one/logo/brgermany.png",BR Germany
+https://olam.tvhd.one/brgermany_vfbcazln2qml7ls3wik289zp2bqbba6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Tele5 Germany" tvg-id="tele5germany" tvg-logo="https://tvhd.one/logo/tele5germany.png",Tele5 Germany
+https://olam.tvhd.one/tele5germany_41qi7sbh2g9iaek64ux3na4n6mgkw1s/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ric Germany" tvg-id="ricgermany" tvg-logo="https://tvhd.one/logo/ricgermany.png",Ric Germany
+https://olam.tvhd.one/ricgermany_8sq4lny9tc9v5bn25t411uyg15a9nmh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"BR Alpha Germany" tvg-id="bralphagermany" tvg-logo="https://tvhd.one/logo/bralphagermany.png",BR Alpha Germany
+https://olam.tvhd.one/bralphagermany_znebbir0hl0efpx1c1kj05bpq9z3wri/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arte Germany" tvg-id="artegermany" tvg-logo="https://tvhd.one/logo/artegermany.png",Arte Germany
+https://olam.tvhd.one/artegermany_qkr0gietdphrcylu90incbti5aq2cx6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ard 1 Germany" tvg-id="ard1germany" tvg-logo="https://tvhd.one/logo/ard1germany.png",Ard 1 Germany
+https://olam.tvhd.one/ard1germany_wb594qh08lp3bh3fbppncysangbhmkq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"4+ TV Germany" tvg-id="4+tvgermany" tvg-logo="https://tvhd.one/logo/4+tvgermany.png",4+ TV Germany
+https://olam.tvhd.one/4plustvgermany_mo6vpvvl6wgz9fy2ka1gptkt9ngjeh7/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Comedy Central Germany" tvg-id="comedycentralgermany" tvg-logo="https://tvhd.one/logo/comedycentralgermany.png",Comedy Central Germany
+https://olam.tvhd.one/comedycentralgermany_ivlqgwpqktk40th2jmi9l6504aoaklp/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DMAX Germany" tvg-id="dmaxgermany" tvg-logo="https://tvhd.one/logo/dmaxgermany.png",DMAX Germany
+https://olam.tvhd.one/dmaxgermany_0nieavzb3gyqvcxz0akgn6escpevtha/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Bibel TV Germany" tvg-id="bibeltvgermany" tvg-logo="https://tvhd.one/logo/bibeltvgermany.png",Bibel TV Germany
+https://olam.tvhd.one/bibeltvgermany_0jiy87sj1w7mjab9z0zxl6ms9shemcu/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HR Fernsehen Germany" tvg-id="hrfernsehengermany" tvg-logo="https://tvhd.one/logo/hrfernsehengermany.png",HR Fernsehen Germany
+https://olam.tvhd.one/hrfernsehengermany_lixqh0e6fshstrb2ann5ry97bunx38d/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"KTV Germany" tvg-id="ktvgermany" tvg-logo="https://tvhd.one/logo/ktvgermany.png",KTV Germany
+https://olam.tvhd.one/ktvgermany_en5hh86scx6vresr9snqah1xqku81wn/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"mdr Germany" tvg-id="mdrgermany" tvg-logo="https://tvhd.one/logo/mdrgermany.png",mdr Germany
+https://olam.tvhd.one/mdrgermany_enl21g4pu05ixk7esdtpu4ovhuv5r50/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nickelodeon Germany" tvg-id="nickelodeongermany" tvg-logo="https://tvhd.one/logo/nickelodeongermany.png",Nickelodeon Germany
+https://olam.tvhd.one/nickelodeongermany_2htplm875sunsks0o1bhapvzoc2bvx0/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ntv Germany" tvg-id="ntvgermany" tvg-logo="https://tvhd.one/logo/ntvgermany.png",ntv Germany
+https://olam.tvhd.one/ntvgermany_1r54qq8v78v18nnrhbtsnyxo4l3ya51/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RBB Berlin Germany" tvg-id="rbbberlingermany" tvg-logo="https://tvhd.one/logo/rbbberlingermany.png",RBB Berlin Germany
+https://olam.tvhd.one/rbbberlingermany_n5mchoutbqweqj5jgmuz51fnav9a2ju/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Servus TV Germany" tvg-id="servustvgermany" tvg-logo="https://tvhd.one/logo/servustvgermany.png",Servus TV Germany
+https://olam.tvhd.one/servustvgermany_mgf8lkahybvv5wqpf84yvottyclzac7/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 1 Germany" tvg-id="sport1germany" tvg-logo="https://tvhd.one/logo/sport1germany.png",Sport 1 Germany
+https://olam.tvhd.one/sport1germany_ch4lzulmbf88m8ekz2s803gmcgrr1hi/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"SR Fernsehen Germany" tvg-id="srfernsehengermany" tvg-logo="https://tvhd.one/logo/srfernsehengermany.png",SR Fernsehen Germany
+https://olam.tvhd.one/srfernsehengermany_ycfgyp9iefhihof9u7545hbabrffu59/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Tagesschau 24 Germany" tvg-id="tagesschau24germany" tvg-logo="https://tvhd.one/logo/tagesschau24germany.png",Tagesschau 24 Germany
+https://olam.tvhd.one/tagesschau24germany_kvfea4nzn2raf3lb7vslijzora08dyh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TV O Germany" tvg-id="tvogermany" tvg-logo="https://tvhd.one/logo/tvogermany.png",TV O Germany
+https://olam.tvhd.one/tvogermany_q7n584nyhqk6ch03vy49ha83e2nex90/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Welt der Wunder Germany" tvg-id="weltderwundergermany" tvg-logo="https://tvhd.one/logo/weltderwundergermany.png",Welt der Wunder Germany
+https://olam.tvhd.one/weltderwundergermany_zaak6sou816yf1db2mc22w1e8nrwy7l/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Toggo Super RTL Germany" tvg-id="toggosuperrtlgermany" tvg-logo="https://tvhd.one/logo/toggosuperrtlgermany.png",Toggo Super RTL Germany
+https://olam.tvhd.one/toggosuperrtlgermany_1n0bo84ilnrzatvty6iqrejpopc0ros/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Anixe Germany" tvg-id="anixegermany" tvg-logo="https://tvhd.one/logo/anixegermany.png",Anixe Germany
+https://olam.tvhd.one/anixegermany_i49trahg7dgnqtamfxuglte30mhdhq4/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Disney Channel Deutschland" tvg-id="disneychanneldeutschland" tvg-logo="https://tvhd.one/logo/disneychanneldeutschland.png",Disney Channel Deutschland
+https://olam.tvhd.one/disneychannelgermany_E6ZFALEbKpv12zSUMNdmSrPdG5Z16uQ/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"SRF 1 Switzerland" tvg-id="srf1switzerland" tvg-logo="https://tvhd.one/logo/srf1switzerland.png",SRF 1 Switzerland
+https://olam.tvhd.one/srf1swiss_5iz5tmdzkrgpplhiwodw4gwrzcwlfmh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"SRF 2 Switzerland" tvg-id="srf2switzerland" tvg-logo="https://tvhd.one/logo/srf2switzerland.png",SRF 2 Switzerland
+https://olam.tvhd.one/srf2swiss_nrjfq7zhq6027pljcec65tlcgar9wmu/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"SRF Info Switzerland" tvg-id="srfinfoswitzerland" tvg-logo="https://tvhd.one/logo/srfinfoswitzerland.png",SRF Info Switzerland
+https://olam.tvhd.one/srfinfoswiss_9v6njexcr22uq4shsnk4hyv6j7b0jls/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Swiss 1 Switzerland" tvg-id="swiss1switzerland" tvg-logo="https://tvhd.one/logo/swiss1switzerland.png",Swiss 1 Switzerland
+https://olam.tvhd.one/swiss1_ppilvsyee7jumuo7kgfynm3sjgtn5ah/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Juwelo Switzerland" tvg-id="juweloswitzerland" tvg-logo="https://tvhd.one/logo/juweloswitzerland.png",Juwelo Switzerland
+https://olam.tvhd.one/juweloswiss_8w1ptfagn1081bjj82gp2ipmv0fzjf8/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RSI La 1 Switzerland" tvg-id="rsila1switzerland" tvg-logo="https://tvhd.one/logo/rsila1switzerland.png",RSI La 1 Switzerland
+https://olam.tvhd.one/rsila1swiss_ygwnxu9sjd41bfoi05xakjskv0n7080/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RSI La 2 Switzerland" tvg-id="rsila2switzerland" tvg-logo="https://tvhd.one/logo/rsila2switzerland.png",RSI La 2 Switzerland
+https://olam.tvhd.one/rsila2swiss_2h36zv5z19v83vm7btqi4fyu6ufcwdq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RTL Switzerland" tvg-id="rtlswitzerland" tvg-logo="https://tvhd.one/logo/rtlswitzerland.png",RTL Switzerland
+https://olam.tvhd.one/rtlswiss_17v7ped3x7iv59wfgp6ea64u5b0bqm0/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RTS Un Switzerland" tvg-id="rtsunswitzerland" tvg-logo="https://tvhd.one/logo/rtsunswitzerland.png",RTS Un Switzerland
+https://olam.tvhd.one/rtsunswiss_wnzje9hxie24do2brf6d92mo54sqnt0/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RTS Deux Switzerland" tvg-id="rtsdeuxswitzerland" tvg-logo="https://tvhd.one/logo/rtsdeuxswitzerland.png",RTS Deux Switzerland
+https://olam.tvhd.one/rtsdeuxswiss_7xtjncws64r4fxse8lxbfyh0dfxgzyk/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TeleBielingue Switzerland" tvg-id="telebielingueswitzerland" tvg-logo="https://tvhd.one/logo/telebielingueswitzerland.png",TeleBielingue Switzerland
+https://olam.tvhd.one/telebielingueswiss_gszq9603opoyyijk3m9juvberisnpzu/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TeleZ Switzerland" tvg-id="telezswitzerland" tvg-logo="https://tvhd.one/logo/telezswitzerland.png",TeleZ Switzerland
+https://olam.tvhd.one/telezswiss_9yupmux32vn8lucqkhmc4b5jyrwiif9/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Direct 2 France" tvg-id="direct2france" tvg-logo="https://tvhd.one/logo/direct2france.png",Direct 2 France
+https://olam.tvhd.one/direct2france_23sldniazmzjf6z6ke1jtk8hwtpejqs/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Direct 3 France" tvg-id="direct3france" tvg-logo="https://tvhd.one/logo/direct3france.png",Direct 3 France
+https://olam.tvhd.one/direct3france_ii0cwobeq0m539dcl4ypkliuv6mdf8p/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Direct 4 France" tvg-id="direct4france" tvg-logo="https://tvhd.one/logo/direct4france.png",Direct 4 France
+https://olam.tvhd.one/direct4france_4b0laohphrrh3agdkgn4xuigjg5ynlz/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Direct 5 France" tvg-id="direct5france" tvg-logo="https://tvhd.one/logo/direct5france.png",Direct 5 France
+https://olam.tvhd.one/direct5france_xjt9gqsban1w9r7i7ecptp5bcm0ew7g/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"BFM TV France" tvg-id="bfmtvfrance" tvg-logo="https://tvhd.one/logo/bfmtvfrance.png",BFM TV France
+https://olam.tvhd.one/bfmtvfrance_nrlm8vs5gt6hvpcs6a0v1m1chp1elgd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TFX France" tvg-id="tfxfrance" tvg-logo="https://tvhd.one/logo/tfxfrance.png",TFX France
+https://olam.tvhd.one/tfxfrance_xnvhza4o1lpfnv6x0xwdp9dsyz8e2hl/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TMC France" tvg-id="tmcfrance" tvg-logo="https://tvhd.one/logo/tmcfrance.png",TMC France
+https://olam.tvhd.one/tmcfrance_70cimuyql0d36ty2ek21iw0y6x2k6wa/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"W9 France" tvg-id="w9france" tvg-logo="https://tvhd.one/logo/w9france.png",W9 France
+https://olam.tvhd.one/w9france_dhfcemytf3vslwwx9p9mplftjsb7wi6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"C 8 France" tvg-id="c8france" tvg-logo="https://tvhd.one/logo/c8france.png",C 8 France
+https://olam.tvhd.one/c8france_iaicg3ligtgl0ogpjhmawigjg6vgm10/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"C Star France" tvg-id="cstarfrance" tvg-logo="https://tvhd.one/logo/cstarfrance.png",C Star France
+https://olam.tvhd.one/cstarfrance_1il7l0qik18xcapvk6zh16yyi6bmnws/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Canal 9 France" tvg-id="canal9france" tvg-logo="https://tvhd.one/logo/canal9france.png",Canal 9 France
+https://olam.tvhd.one/canal9france_04w19comgr3wyyyo81odhzgqkaieiu1/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"France O France" tvg-id="franceofrance" tvg-logo="https://tvhd.one/logo/franceofrance.png",France O France
+https://olam.tvhd.one/franceofrance_gohcxvx9ex5wojearfypncep16rj352/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"NRJ Hits France" tvg-id="nrjhitsfrance" tvg-logo="https://tvhd.one/logo/nrjhitsfrance.png",NRJ Hits France
+https://olam.tvhd.one/nrjhitsfrance_ac5ua80facm9gsika2yyvayartjgf41/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TV8 Mont Blanc France" tvg-id="tv8montblancfrance" tvg-logo="https://tvhd.one/logo/tv8montblancfrance.png",TV8 Mont Blanc France
+https://olam.tvhd.one/tv8montblancfrance_y42zwv42twgcyr3zzzm3y6aovg0n361/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"M1 Hungary" tvg-id="m1hungary" tvg-logo="https://tvhd.one/logo/m1hungary.png",M1 Hungary
+https://olam.tvhd.one/m1hungary_FJjBpzDJAYwcgqCgOrieBkcyix/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"M2 Hungary" tvg-id="m2hungary" tvg-logo="https://tvhd.one/logo/m2hungary.png",M2 Hungary
+https://olam.tvhd.one/m2hungary_gFgu3vLg0zfkihQglMmRHS5XfG/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"M3 Hungary" tvg-id="m3hungary" tvg-logo="https://tvhd.one/logo/m3hungary.png",M3 Hungary
+https://olam.tvhd.one/m3hungary_Vk4iLll4JaSj6u8KmRrZuwr7Z4/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"M4 Sport Hungary" tvg-id="m4sporthungary" tvg-logo="https://tvhd.one/logo/m4sporthungary.png",M4 Sport Hungary
+https://olam.tvhd.one/m4sporthungary_khxsWFtfvCera7RYEZoO8M0KtS/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"M5 Hungary" tvg-id="m5hungary" tvg-logo="https://tvhd.one/logo/m5hungary.png",M5 Hungary
+https://olam.tvhd.one/m5hungary_bg1OV86O93DXcw7yo0HTMHpIOn/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Duna Hungary" tvg-id="dunahungary" tvg-logo="https://tvhd.one/logo/dunahungary.png",Duna Hungary
+https://olam.tvhd.one/dunahungary_ZWfLhOSQLdYfUlKZ7WygKxmOXF/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Duna World Hungary" tvg-id="dunaworldhungary" tvg-logo="https://tvhd.one/logo/dunaworldhungary.png",Duna World Hungary
+https://olam.tvhd.one/dunaworldhungary_546exRvkDwMypQJjeSG9PiDjti/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TV2 Hungary" tvg-id="tv2hungary" tvg-logo="https://tvhd.one/logo/tv2hungary.png",TV2 Hungary
+https://olam.tvhd.one/tv2hungary_kAX2ueiMC5FC6NAvVpCM9srTDe/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TV2 Super Hungary" tvg-id="tv2superhungary" tvg-logo="https://tvhd.one/logo/tv2superhungary.png",TV2 Super Hungary
+https://olam.tvhd.one/tv2superhungary_mF2phDr1NapUzSi2Jf1ONcVBIZ/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RTL2 Hungary" tvg-id="rtl2hungary" tvg-logo="https://tvhd.one/logo/rtl2hungary.png",RTL2 Hungary
+https://olam.tvhd.one/rtl2hungary_Rptbe6sX6plKXYzzyVcnFxVz8h/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mozi+ Hungary" tvg-id="mozi+hungary" tvg-logo="https://tvhd.one/logo/mozi+hungary.png",Mozi+ Hungary
+https://olam.tvhd.one/moziplushungary_ordJBeT4D4kpNcdjVhUeMeuSEd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film+ Hungary" tvg-id="film+hungary" tvg-logo="https://tvhd.one/logo/film+hungary.png",Film+ Hungary
+https://olam.tvhd.one/filmplushungary_qcp3Tyj4GHA1pY3xAwg4w9z74d/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sorozat+ Hungary" tvg-id="sorozat+hungary" tvg-logo="https://tvhd.one/logo/sorozat+hungary.png",Sorozat+ Hungary
+https://olam.tvhd.one/sorozatplushungary_gxr3GYW4T4DWKl46Z1bnFb3sJ3/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CoolTV Hungary" tvg-id="cooltvhungary" tvg-logo="https://tvhd.one/logo/cooltvhungary.png",CoolTV Hungary
+https://olam.tvhd.one/cooltvhungary_vYH1RYvTvlw7HRh5IGdVxIZr7L/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spiler1 Hungary" tvg-id="spiler1hungary" tvg-logo="https://tvhd.one/logo/spiler1hungary.png",Spiler1 Hungary
+https://olam.tvhd.one/spiler1hungary_D2boEdsQNYDdIcZMbkvKDzrFSk/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"KiwiTV Hungary" tvg-id="kiwitvhungary" tvg-logo="https://tvhd.one/logo/kiwitvhungary.png",KiwiTV Hungary
+https://olam.tvhd.one/kiwitvhungary_dsHxS3TZuotP1JdpKjBsKa0dJt/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"LiChiTV Hungary" tvg-id="lichitvhungary" tvg-logo="https://tvhd.one/logo/lichitvhungary.png",LiChiTV Hungary
+https://olam.tvhd.one/lichitvhungary_BjVTQR0PglrrGj25e0T31vy1se/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Humor+ Hungary" tvg-id="humor+hungary" tvg-logo="https://tvhd.one/logo/humor+hungary.png",Humor+ Hungary
+https://olam.tvhd.one/humorplushungary_2aH9Iup3KCfMPiAFJctTSdZvSh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Zenebutik Hungary" tvg-id="zenebutikhungary" tvg-logo="https://tvhd.one/logo/zenebutikhungary.png",Zenebutik Hungary
+https://olam.tvhd.one/zenebutikhungary_0oDSewDpq9Wjk9SivoZ4nhDtmU/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"SlagerTV Hungary" tvg-id="slagertvhungary" tvg-logo="https://tvhd.one/logo/slagertvhungary.png",SlagerTV Hungary
+https://olam.tvhd.one/slagertvhungary_PCQejdRzE1CBqu0FRCjclmo06M/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI World Hungary" tvg-id="digiworldhungary" tvg-logo="https://tvhd.one/logo/digiworldhungary.png",DIGI World Hungary
+https://olam.tvhd.one/digiworldhungary_57M3NE73hTWBZYuoDZG4Oh9U8i/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Life Hungary" tvg-id="digilifehungary" tvg-logo="https://tvhd.one/logo/digilifehungary.png",DIGI Life Hungary
+https://olam.tvhd.one/digilifehungary_3QAPawnDvYDMF4ivVe5B1vQswN/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Animal World Hungary" tvg-id="digianimalworldhungary" tvg-logo="https://tvhd.one/logo/digianimalworldhungary.png",DIGI Animal World Hungary
+https://olam.tvhd.one/digianimalworld_STYcNGfJLO4r5nbldqFBB38nz3/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 1 Hungary" tvg-id="digisport1hungary" tvg-logo="https://tvhd.one/logo/digisport1hungary.png",DIGI Sport 1 Hungary
+https://olam.tvhd.one/digisport1hungary_66i53NhpwG8ZSTkoFCtCnFCJ9g/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 2 Hungary" tvg-id="digisport2hungary" tvg-logo="https://tvhd.one/logo/digisport2hungary.png",DIGI Sport 2 Hungary
+https://olam.tvhd.one/digisport2hungary_vyv0M9Ti4xKkw9YeNlfg7lqyMm/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport1 Hungary" tvg-id="sport1hungary" tvg-logo="https://tvhd.one/logo/sport1hungary.png",Sport1 Hungary
+https://olam.tvhd.one/sport1hungary_1AQCYK7pu7KWCRfeFIorKx8bnN/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport2 Hungary" tvg-id="sport2hungary" tvg-logo="https://tvhd.one/logo/sport2hungary.png",Sport2 Hungary
+https://olam.tvhd.one/sport2hungary_afdgQzgLNOGM9dbE5ANVYocEwo/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"BonumTV Hungary" tvg-id="bonumtvhungary" tvg-logo="https://tvhd.one/logo/bonumtvhungary.png",BonumTV Hungary
+https://olam.tvhd.one/bonumtvhungary_TjLFFCkXuc19QafQ4hn3VRKVo2/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RTL Klub Hungary" tvg-id="rtlklubhungary" tvg-logo="https://tvhd.one/logo/rtlklubhungary.png",RTL Klub Hungary
+https://olam.tvhd.one/rtlklubhungary_jPa9xb50Ve114d9FrdA6ZwYgAV/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Paramount Channel Hungary" tvg-id="paramountchannelhungary" tvg-logo="https://tvhd.one/logo/paramountchannelhungary.png",Paramount Channel Hungary
+https://olam.tvhd.one/paramountchannelhungary_RJmoGo3rgX6P4QCtrES8HEPyMT/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fem3 Hungary" tvg-id="fem3hungary" tvg-logo="https://tvhd.one/logo/fem3hungary.png",Fem3 Hungary
+https://olam.tvhd.one/fem3hungary_dWyn9oS5hP217fE4E8pOhig8eY/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ozone Hungary" tvg-id="ozonehungary" tvg-logo="https://tvhd.one/logo/ozonehungary.png",Ozone Hungary
+https://olam.tvhd.one/ozonehungary_hoUMTNStZWNARBGXDXQIk9Y3fm/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"LifeTV Hungary" tvg-id="lifetvhungary" tvg-logo="https://tvhd.one/logo/lifetvhungary.png",LifeTV Hungary
+https://olam.tvhd.one/lifehungary_b6287lvu9SO2yAc46pasBrfiP7/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Minimax Hungary" tvg-id="minimaxhungary" tvg-logo="https://tvhd.one/logo/minimaxhungary.png",Minimax Hungary
+https://olam.tvhd.one/minimaxhungary_P3HjjjZ1KTcvPAfwGEwB9oA3Ba/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Megamax Hungary" tvg-id="megamaxhungary" tvg-logo="https://tvhd.one/logo/megamaxhungary.png",Megamax Hungary
+https://olam.tvhd.one/megamaxhungary_MVTBryVXqi1VUdvfXsUx0GCcyF/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nickelodeon Hungary" tvg-id="nickelodeonhungary" tvg-logo="https://tvhd.one/logo/nickelodeonhungary.png",Nickelodeon Hungary
+https://olam.tvhd.one/nickelodeonhungary_6xWigR3BSEBuciSB9STRw8qqnp/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"NickJr. Hungary" tvg-id="nickjr.hungary" tvg-logo="https://tvhd.one/logo/nickjr.hungary.png",NickJr. Hungary
+https://olam.tvhd.one/nickjrhungary_Y6XE47AHe69lgSIUAHFf6nFzNk/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ATV Hungary" tvg-id="atvhungary" tvg-logo="https://tvhd.one/logo/atvhungary.png",ATV Hungary
+https://olam.tvhd.one/atvhungary_Ngw7sGU1yXr0ocK0mVXQpKjej6/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TV4 Hungary" tvg-id="tv4hungary" tvg-logo="https://tvhd.one/logo/tv4hungary.png",TV4 Hungary
+https://olam.tvhd.one/tv4hungary_7vVFr0A2xkGDHRZqHPvQXjKXD2/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prime Hungary" tvg-id="primehungary" tvg-logo="https://tvhd.one/logo/primehungary.png",Prime Hungary
+https://olam.tvhd.one/primehungary_8uFxQcJxLS6NcJcNmre2jrpeYu/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"FilmMania Hungary" tvg-id="filmmaniahungary" tvg-logo="https://tvhd.one/logo/filmmaniahungary.png",FilmMania Hungary
+https://olam.tvhd.one/filmmaniahungary_UMdBHUrYEZ8x6T9GM1J2UJnSoL/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spektrum Hungary" tvg-id="spektrumhungary" tvg-logo="https://tvhd.one/logo/spektrumhungary.png",Spektrum Hungary
+https://olam.tvhd.one/spektrumhungary_B32ENt2Qi55k9BNn3rtCV5OqfE/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Comedy Central Family Hungary" tvg-id="comedycentralfamilyhungary" tvg-logo="https://tvhd.one/logo/comedycentralfamilyhungary.png",Comedy Central Family Hungary
+https://olam.tvhd.one/comedycentralfamilyhungary_I5OPsmef6x5CnIq1arkj0X3pHq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Comedy Central Hungary" tvg-id="comedycentralhungary" tvg-logo="https://tvhd.one/logo/comedycentralhungary.png",Comedy Central Hungary
+https://olam.tvhd.one/comedycentralhungary_ODZRjfZGeoevv2cOqiefYWS925/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fishing & Hunting Hungary" tvg-id="fishing&huntinghungary" tvg-logo="https://tvhd.one/logo/fishing&huntinghungary.png",Fishing & Hunting Hungary
+https://olam.tvhd.one/fishingandhuntinghungary_1ogwuoh9lb8DFbaZKdKVPDy22a/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"History Channel Hungary" tvg-id="historychannelhungary" tvg-logo="https://tvhd.one/logo/historychannelhungary.png",History Channel Hungary
+https://olam.tvhd.one/historychannelhungary_Jv9NOGug178O56paQf7gYXvQkD/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat3 Hungary" tvg-id="viasat3hungary" tvg-logo="https://tvhd.one/logo/viasat3hungary.png",Viasat3 Hungary
+https://olam.tvhd.one/viasat3hungary_PXvCBLQ2vvfy6L5vc9QayN6hKC/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat6 Hungary" tvg-id="viasat6hungary" tvg-logo="https://tvhd.one/logo/viasat6hungary.png",Viasat6 Hungary
+https://olam.tvhd.one/viasat6hungary_DsOhO6g4A8PJ0pyOQu1BEepowJ/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat Explore Hungary" tvg-id="viasatexplorehungary" tvg-logo="https://tvhd.one/logo/viasatexplorehungary.png",Viasat Explore Hungary
+https://olam.tvhd.one/viasatexplorehungary_xIXpQYm0WQKaa46Refk8tvRV6l/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat History Hungary" tvg-id="viasathistoryhungary" tvg-logo="https://tvhd.one/logo/viasathistoryhungary.png",Viasat History Hungary
+https://olam.tvhd.one/viasathistoryhungary_Ds7QDIqLysbku3krrkocz2KGZL/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat Nature Hungary" tvg-id="viasatnaturehungary" tvg-logo="https://tvhd.one/logo/viasatnaturehungary.png",Viasat Nature Hungary
+https://olam.tvhd.one/viasatnaturehungary_kqmuzC1hlVGrdpIU6JQmRCkWJY/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"hirTV Hungary" tvg-id="hirtvhungary" tvg-logo="https://tvhd.one/logo/hirtvhungary.png",hirTV Hungary
+https://olam.tvhd.one/hirtvhungary_l9kMfRrElgUsfteDx4Ueu8mu2R/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Muzsika TV Hungary" tvg-id="muzsikatvhungary" tvg-logo="https://tvhd.one/logo/muzsikatvhungary.png",Muzsika TV Hungary
+https://olam.tvhd.one/muzsikatvhungary_ksccbdn7zPgPxO2Hos5qdysuzh/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VH1 Classic Hungary" tvg-id="vh1classichungary" tvg-logo="https://tvhd.one/logo/vh1classichungary.png",VH1 Classic Hungary
+https://olam.tvhd.one/vh1classic_Rr2bSyPiR1sxfBB3EHMfGbJXeA/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Hungary" tvg-id="mtvhungary" tvg-logo="https://tvhd.one/logo/mtvhungary.png",MTV Hungary
+https://olam.tvhd.one/mtveurope_1aiXeKW5ensFnY8OKCL8FN9kD1/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Hits Hungary" tvg-id="mtvhitshungary" tvg-logo="https://tvhd.one/logo/mtvhitshungary.png",MTV Hits Hungary
+https://olam.tvhd.one/mtvhits_yPZbeaZSBHnZ6mROJMfax7Jr2T/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Dance Hungary" tvg-id="mtvdancehungary" tvg-logo="https://tvhd.one/logo/mtvdancehungary.png",MTV Dance Hungary
+https://olam.tvhd.one/mtvdance_yYZyKrqzGRBNrT5or1PtNh6TAm/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HIT Music Channel Hungary" tvg-id="hitmusicchannelhungary" tvg-logo="https://tvhd.one/logo/hitmusicchannelhungary.png",HIT Music Channel Hungary
+https://olam.tvhd.one/hitmusichannelhungary_ukSeiDdKSBcJ5qC7vAAoQuLSEF/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"1 Music Channel Hungary" tvg-id="1musicchannelhungary" tvg-logo="https://tvhd.one/logo/1musicchannelhungary.png",1 Music Channel Hungary
+https://olam.tvhd.one/1musicchannelhungary_sPRZQpaGllt1JORqYoEGRNOM6k/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Al Jazeera" tvg-id="aljazeera" tvg-logo="https://tvhd.one/logo/aljazeera.png",Al Jazeera
+https://olam.tvhd.one/aljazeera_OZkrIOxByPyfv1dc7Hdk1CLMZjTMsBJm7xA73jq/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CGTN" tvg-id="cgtn" tvg-logo="https://tvhd.one/logo/cgtn.png",CGTN
+https://olam.tvhd.one/cgtn_OTbV8qKWvK98HiCGwM94QHwhsfNaz65/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CGTN Documentary" tvg-id="cgtndocumentary" tvg-logo="https://tvhd.one/logo/cgtndocumentary.png",CGTN Documentary
+https://olam.tvhd.one/cgtndocumentary_GAkTlrb0RaYLZcpZqAf1Sq5KPee3ffF/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CGTN Russkij" tvg-id="cgtnrusskij" tvg-logo="https://tvhd.one/logo/cgtnrusskij.png",CGTN Russkij
+https://olam.tvhd.one/cgtnruisskij_2rxaDMBZf8gquqYXGf7IuvZG5X0DYYv/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CGTN Arabic" tvg-id="cgtnarabic" tvg-logo="https://tvhd.one/logo/cgtnarabic.png",CGTN Arabic
+https://olam.tvhd.one/cgtnarabic_pzkWYYZke6td5RFV8P0eNOPLty95isb/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CGTN Espanol" tvg-id="cgtnespanol" tvg-logo="https://tvhd.one/logo/cgtnespanol.png",CGTN Espanol
+https://olam.tvhd.one/cgtnespanol_mvuzUTvKqDLhmtz4FrNz44I9IDFS30h/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CGTN Francais" tvg-id="cgtnfrancais" tvg-logo="https://tvhd.one/logo/cgtnfrancais.png",CGTN Francais
+https://olam.tvhd.one/cgtnfrancais_8Ys2b2mu3gWNGraDhAQfC5k3ddIIe7f/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"France 24" tvg-id="france24" tvg-logo="https://tvhd.one/logo/france24.png",France 24
+https://olam.tvhd.one/france24_hqrwyjjidtjcgjecclnqhqnjjgvyfdzscncmjbyxvz/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CNN" tvg-id="cnn" tvg-logo="https://tvhd.one/logo/cnn.png",CNN
+https://olam.tvhd.one/cnn_mofjffdekbnqhtjmwemgsoysfkguammdekjnilwzyp/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Bloomberg" tvg-id="bloomberg" tvg-logo="https://tvhd.one/logo/bloomberg.png",Bloomberg
+https://olam.tvhd.one/bloomberg_jkfqssgkryplzehgfxfuqrvttwmsbqjipoadcnaymg/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Relax" tvg-id="Relax" tvg-logo="https://tvhd.one/logo/relax.png",Relax
+https://olam.tvhd.one/relax_pufcmedfbbjisodlmziinghkgbuadgknqxipxktaga/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TV LUX" tvg-id="TV Lux" tvg-logo="https://tvhd.one/logo/tvlux.png",TV LUX
+https://olam.tvhd.one/tvlux_kisixhinvmkozfvfplxvievquqsaurlycffdoaznsr/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashion One" tvg-id="fashionone" tvg-logo="https://tvhd.one/logo/fashionone.png",Fashion One
+https://olam.tvhd.one/fashionone_vqopswdihqvqsearwlkpqibxizbzxodltoomrkjdpb/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashion TV" tvg-id="Fashion TV" tvg-logo="https://tvhd.one/logo/fashiontv.png",Fashion TV
+https://olam.tvhd.one/fashiontv_xrukhrjkfadzqhsfcxiatjringrngkosioaxgzrypz/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashionbox" tvg-id="fashionbox" tvg-logo="https://tvhd.one/logo/fashionbox.png",Fashionbox
+https://olam.tvhd.one/fashionbox_tesky6bhad83zjorln10lglvvs9lw55h/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Extasy / Leo TV" tvg-id="Extasy / Leo TV" tvg-logo="https://tvhd.one/logo/leotv.png",Extasy / Leo TV
+https://olam.tvhd.one/leotv_fIi2jZwsQVq4ThRCA3I87DbSiUEe3aP/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"NOE TV" tvg-id="Noe TV" tvg-logo="https://tvhd.one/logo/noetv.png",NOE TV
+https://olam.tvhd.one/noetv_kzmzgdphjrstzcevwkvvejuxervwkyvdhvtgdqitah/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Private TV" tvg-id="Private TV" tvg-logo="https://tvhd.one/logo/privatetv.png",Private TV
+https://olam.tvhd.one/privatetv_eyw0q3yv5h40w2855e5s6623nmvrwlk9/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dusk!" tvg-id="Dusk!" tvg-logo="https://tvhd.one/logo/dusk!tv.png",Dusk! TV
+https://olam.tvhd.one/dusktv_ADzhdYMRZBTpWmVlaye3C0Ex0suB4X1/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Reality Kings TV" tvg-id="Reality Kings TV" tvg-logo="https://tvhd.one/logo/realitykings.png",Reality Kings
+https://olam.tvhd.one/realitykings_xkAfkP7381n8P4iNsyes8AojGw0sgu7/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Erox HD" tvg-id="Erox HD" tvg-logo="https://tvhd.one/logo/erox.png",Erox
+https://olam.tvhd.one/erox_smsq4z3m9cdz564l107xb2nhardaf2z8/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"EroXXX HD" tvg-id="EroXXX HD" tvg-logo="https://tvhd.one/logo/eroxxx.png",Eroxxx
+https://olam.tvhd.one/eroxxx_1qa03bm3bb2u5zw1eujgvsfyn6c1azbn/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Extasy HD" tvg-id="Extasy HD" tvg-logo="https://tvhd.one/logo/extasy.png",Extasy
+https://olam.tvhd.one/extasytv_5i85y80mkcgnn41y2tx50h3vsjz19ej1/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Brazzers TV" tvg-id="Brazzers TV" tvg-logo="https://tvhd.one/logo/brazzers.png",Brazzers
+https://olam.tvhd.one/brazzers_nfq82ioxtazyhf89r0m5t7kh5t9k0h8n1ym/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dorcel" tvg-id="Dorcel" tvg-logo="https://tvhd.one/logo/dorcel.png",Dorcel
+https://olam.tvhd.one/dorcel_wQKWn1Nw5lEziynYb4F7H5daxryxMJF/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Hustler TV" tvg-id="Hustler TV" tvg-logo="https://tvhd.one/logo/hustler.png",Hustler
+https://olam.tvhd.one/hustler_cyshuu0ql50nycujpp1zjsekooysr8rdebv/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RFM TV" tvg-id="rfmtv" tvg-logo="https://tvhd.one/logo/rfmtv.png",RFM TV
+https://olam.tvhd.one/rfmtv_yjQjFAZyXnqja8rltoJnu1rKIDoQnKs/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MCM TOP" tvg-id="mcmtop" tvg-logo="https://tvhd.one/logo/mcmtop.png",MCM TOP
+https://olam.tvhd.one/mcmtop_MQODDV3BYg0oOXJVjGOc7vhTaCIIqFG/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Xite" tvg-id="xite" tvg-logo="https://tvhd.one/logo/xite.png",Xite
+https://olam.tvhd.one/xite_lwflwervbosptfjgrvmvnxkgorpbabfqotuwmydwwg/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"360 Tune Box" tvg-id="360tunebox" tvg-logo="https://tvhd.one/logo/360tunebox.png",360 Tune Box
+https://olam.tvhd.one/360tunebox_qpymo6rgnnzmfz2sms7ju6tw6qm5sa9f/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"iConcerts" tvg-id="iconcerts" tvg-logo="https://tvhd.one/logo/iconcerts.png",iConcerts
+https://olam.tvhd.one/iconcerts_2831vzm38tavxy7svui9by1o3dcrzlfq/video.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Brava" tvg-id="brava" tvg-logo="https://tvhd.one/logo/brava.png",Brava
+https://olam.tvhd.one/brava_BWDmporzHMGw2IwQpaogmMUYGZVtuv5V7dIVGd0/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mezzo" tvg-id="mezzo" tvg-logo="https://tvhd.one/logo/mezzo.png",Mezzo
+https://olam.tvhd.one/mezzo_rxowqqiqmdlbdxptgaslgthcihnuwifhfzvmjacxhg/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Deluxe Music" tvg-id="DeLuxe Music" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/deluxemusic.png",Deluxe Music
+https://olam.tvhd.one/deluxemusic_3jlygg2jwfkjgd1w85bwqay6wca1enl8woi/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VH1" tvg-id="vh1" tvg-logo="https://tvhd.one/logo/vh1.png",VH1
+https://olam.tvhd.one/vh1_ajysvonapemfketpjeucdnhwkbxetcqquolvfwrhlp/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VH1 Classic" tvg-id="VH1 Classic" tvg-logo="https://tvhd.one/logo/vh1classic.png",VH1 Classic
+https://olam.tvhd.one/vh1classic_PV5HDeiwHudyqtqmVjc5zEsZsG3hVB4/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Rebel" tvg-id="Rebel" tvg-logo="https://tvhd.one/logo/rebel.png",Rebel
+https://olam.tvhd.one/rebel_fsawdtlplnqkmcgpwhgnqjvsnechswahzmncckokhy/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Óčko TV" tvg-id="Óčko TV" tvg-logo="https://tvhd.one/logo/ocko.png",Óčko TV
+https://olam.tvhd.one/ocko_zoqzoewglqofgrosxvotknfpzeopwecriwyrignnmd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Óčko Star" tvg-id="Óčko Star" tvg-logo="https://tvhd.one/logo/ockostar.png",Óčko Star
+https://olam.tvhd.one/ockogold_1QaSKbx7Mej6BOhtVdsjRu0gRCmzhzU/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Óčko Expres" tvg-id="Óčko Expres" tvg-logo="https://tvhd.one/logo/ockoexpres.png",Óčko Expres
+https://olam.tvhd.one/ockoexpres_EvLVVHSEx7jwLr4MO2Rlkp2xxmez4Wt/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Europe" tvg-id="MTV Europe" tvg-logo="https://tvhd.one/logo/mtveurope.png",MTV Europe
+https://olam.tvhd.one/mtveurope_1aiXeKW5ensFnY8OKCL8FN9kD1/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Dance" tvg-id="MTV Dance" tvg-logo="https://tvhd.one/logo/mtvdance.png",MTV Dance
+https://olam.tvhd.one/mtvdance_yYZyKrqzGRBNrT5or1PtNh6TAm/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Hits" tvg-id="MTV Hits" tvg-logo="https://tvhd.one/logo/mtvhits.png",MTV Hits
+https://olam.tvhd.one/mtvhits_yPZbeaZSBHnZ6mROJMfax7Jr2T/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Rocks" tvg-id="MTV Rocks" tvg-logo="https://tvhd.one/logo/mtvrocks.png",MTV Rocks
+https://olam.tvhd.one/mtvrocks_o6RIxLvRj5UytYkH5K5EiHvz2lYdFVV/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Music Box" tvg-id="musicbox" tvg-logo="https://tvhd.one/logo/musicbox.png",Music Box
+https://olam.tvhd.one/musicbox_pPuejzR5ClPXGyHRlVE33zlCT0r3K3c/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Slušnej kanál" tvg-id="Slušnej kanál" tvg-logo="https://tvhd.one/logo/slusnejkanal.png",Slušnej kanál
+https://olam.tvhd.one/slusnejkanal_pNRZI8M8UK6DgtUHWCEKG5lqUwV2kcZ/playlist.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Retro Music" tvg-id="Retro Music" tvg-logo="https://tvhd.one/logo/retro.png",Retro
+https://olam.tvhd.one/retro_gtrnslqbfdgkvtjvoifellkncybpflmrcrrftmdajd/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Šlágr TV" tvg-id="Šlágr TV" tvg-logo="https://tvhd.one/logo/slagrtv.png",Šlágr TV
+https://olam.tvhd.one/slagrtv_lzvvcpoqndyvspwibfgecfygcvusmmqqiwdhgkaffn/index.m3u8?token=tvhdone_bjtfZzvVq
