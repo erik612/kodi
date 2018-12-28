@@ -19,7 +19,7 @@ https://olam.tvhd.one/jojplus_5QVginR5HapjlzSJPzdOsyXg8zYQbdXTq/index.m3u8?token
 https://olam.tvhd.one/jojfamily_ccd56v8dx1j7xvo9hsf6nzbansi/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"WAU" tvg-id="WAU" tvg-logo="https://tvhd.one/logo/wau.png",WAU
 https://olam.tvhd.one/wau_dOMUrfM0TKc2IKLQk51E7AKnwpkOIMKJl/index.m3u8?token=tvhdone_olZ1qDaC
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashion One" tvg-id="Fashion One" tvg-logo="https://tvhd.one/logo/fashionone.png",Fashion One
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashion One" tvg-id="Fashion One" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/fashionone.png",Fashion One
 https://olam.tvhd.one/fashionone_vqopswdihqvqsearwlkpqibxizbzxodltoomrkjdpb/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashion TV" tvg-id="Fashion TV" tvg-logo="https://tvhd.one/logo/fashiontv.png",Fashion TV
 https://olam.tvhd.one/fashiontv_xrukhrjkfadzqhsfcxiatjringrngkosioaxgzrypz/index.m3u8?token=tvhdone_olZ1qDaC
@@ -185,7 +185,7 @@ https://olam.tvhd.one/ct2_dftkn3wew35jtfie4ncq4zj9hb/index.m3u8?token=tvhdone_ol
 https://olam.tvhd.one/mnamtv_498mkdg491p5t6scnjvlgc94fec/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Paprika" tvg-id="Paprika" tvg-logo="https://tvhd.one/logo/tvpaprika.png",TV Paprika
 https://olam.tvhd.one/tvpaprika_ikc00z59na6dd6mf1cacjozmdjt/index.m3u8?token=tvhdone_olZ1qDaC
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Piánko TV" tvg-id="Piánko TV" tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2016/04/pianko.jpg",Piánko TV
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Piánko TV" tvg-id="Piánko TV" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/pianko.png",Piánko TV
 https://olam.tvhd.one/pianko_cjywjuzttgyjicwavqcdozwkiifozazgjeglfejwpm/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT 1 Sever" tvg-id="ČT 1 Sever" tvg-logo="https://tvhd.one/logo/ct1sever.png",ČT 1 Sever
 https://olam.tvhd.one/ct1sever_nkbnk4yl7c8ds0ka3vsr1htiqmy/index.m3u8?token=tvhdone_olZ1qDaC
@@ -205,7 +205,7 @@ https://olam.tvhd.one/novainternational_iZft45NS7QKDLbmrU8U9LGZ5J7b0zo0/playlist
 https://olam.tvhd.one/novaaction_f9fyezwhyy56dyvbqkccol7myk/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Gold" tvg-id="Nova Gold" tvg-logo="https://tvhd.one/logo/novagold.png",Nova Gold
 https://olam.tvhd.one/novagold_qk33j6bat5r0gwk4iaj60n1is5/index.m3u8?token=tvhdone_olZ1qDaC
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VOYO" tvg-id="VOYO" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple/v4/d4/19/c5/d419c5d6-3a9f-6de3-add9-7121dc62719b/mzl.ydofjisf.png/0x0ss-85.jpg",Voyo
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VOYO" tvg-id="VOYO" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/voyo2.jpg",Voyo
 https://olam.tvhd.one/voyo_61aj2kzysjtpkeaqvwnj9fgme1s66f54/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima" tvg-id="Prima" tvg-logo="https://tvhd.one/logo/prima.png",Prima
 https://olam.tvhd.one/prima_75x1940dv8umdu6x0yukvgn4few/index.m3u8?token=tvhdone_olZ1qDaC
@@ -639,7 +639,7 @@ https://olam.tvhd.one/iconcerts_2831vzm38tavxy7svui9by1o3dcrzlfq/video.m3u8?toke
 https://olam.tvhd.one/brava_BWDmporzHMGw2IwQpaogmMUYGZVtuv5V7dIVGd0/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mezzo" tvg-id="mezzo" tvg-logo="https://tvhd.one/logo/mezzo.png",Mezzo
 https://olam.tvhd.one/mezzo_rxowqqiqmdlbdxptgaslgthcihnuwifhfzvmjacxhg/index.m3u8?token=tvhdone_olZ1qDaC
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Deluxe Music" tvg-id="DeLuxe Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeluxeMusic2013.svg/1200px-DeluxeMusic2013.svg.png",Deluxe Music
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Deluxe Music" tvg-id="DeLuxe Music" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/deluxemusic.png",Deluxe Music
 https://olam.tvhd.one/deluxemusic_3jlygg2jwfkjgd1w85bwqay6wca1enl8woi/index.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VH1" tvg-id="VH1" tvg-logo="https://tvhd.one/logo/vh1.png",VH1
 https://olam.tvhd.one/vh1_ajysvonapemfketpjeucdnhwkbxetcqquolvfwrhlp/index.m3u8?token=tvhdone_olZ1qDaC
@@ -661,7 +661,7 @@ https://olam.tvhd.one/mtvdance_yYZyKrqzGRBNrT5or1PtNh6TAm/playlist.m3u8?token=tv
 https://olam.tvhd.one/mtvhits_yPZbeaZSBHnZ6mROJMfax7Jr2T/playlist.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Rocks" tvg-id="MTV Rocks" tvg-logo="https://tvhd.one/logo/mtvrocks.png",MTV Rocks
 https://olam.tvhd.one/mtvrocks_o6RIxLvRj5UytYkH5K5EiHvz2lYdFVV/playlist.m3u8?token=tvhdone_olZ1qDaC
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Music Box" tvg-id="Music Box" tvg-logo="https://tvhd.one/logo/musicbox.png",Music Box
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Music Box" tvg-id="Music Box" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/musicbox.png",Music Box
 https://olam.tvhd.one/musicbox_pPuejzR5ClPXGyHRlVE33zlCT0r3K3c/playlist.m3u8?token=tvhdone_olZ1qDaC
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Slusnej kanal" tvg-id="Slusnej kanal" tvg-logo="https://tvhd.one/logo/slusnejkanal.png",Slušnej kanál
 https://olam.tvhd.one/slusnejkanal_pNRZI8M8UK6DgtUHWCEKG5lqUwV2kcZ/playlist.m3u8?token=tvhdone_olZ1qDaC
