@@ -165,8 +165,6 @@ https://olam.tvhd.one/viasatnature_luCuTIboZmhqPvoH/index.m3u8?token=tvhdone_bjt
 http://kuru.tvhd.one/upnetwork/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Epic Drama" tvg-id="Epic Drama" tvg-logo="https://tvhd.one/logo/epicdrama.png",Epic Drama
 http://kuru.tvhd.one/epicdrama/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://tvhd.one/logo/nickelodeon.png",Nickelodeon
-http://kuru.tvhd.one/nickelodeon/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"WAR" tvg-id="WAR" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/tvwar.png",WAR TV
 https://olam.tvhd.one/wartv_YqX1UcpfnNMxg4rYpt7sVcFFgl6bH1L/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT1" tvg-id="CT1" tvg-logo="https://tvhd.one/logo/ct1.png",ČT 1
@@ -257,6 +255,8 @@ http://kuru.tvhd.one/megamax/bjtfZzvVq/playlist.m3u8
 https://olam.tvhd.one/tuty_gqriigwtbshszwxibqvtxipibeuyymzaqbbdfthndt/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nick Jr." tvg-id="Nick Jr." tvg-logo="https://tvhd.one/logo/nickjunior.png",Nick Junior
 http://kuru.tvhd.one/nickjunior/bjtfZzvVq/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://tvhd.one/logo/nickelodeon.png",Nickelodeon
+http://kuru.tvhd.one/nickelodeon/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Canal J" tvg-id="canalj" tvg-logo="https://tvhd.one/logo/canalj.png",Canal J
 https://olam.tvhd.one/canalj_MOYWtd03Xwov7AXrQ1YoNkV4FgdtUeX/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Gulli" tvg-id="gulli" tvg-logo="https://tvhd.one/logo/gulli.png",Gulli
@@ -670,3 +670,43 @@ http://kuru.tvhd.one/slagrtv/bjtfZzvVq/playlist.m3u8
 https://olam.tvhd.one/pianko_cjywjuzttgyjicwavqcdozwkiifozazgjeglfejwpm/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Relax" tvg-id="Relax" tvg-logo="https://tvhd.one/logo/relax.png",Relax
 http://kuru.tvhd.one/relax/bjtfZzvVq/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/slovensko.png",Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun.png",Fun Rádio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/expres.png",Expres
+http://85.248.7.162:8000/96.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2.png",Europa 2
+http://pool.cdn.lagardere.cz/fm-europa2sk-128
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/antena-rock.png",Anténa Rock
+http://stream.antenarock.sk/antena-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/rockovarepublika.png",Rocková Republika
+http://217.67.31.66:8000/republika128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/39/01/b8/3901b820-470a-3ae4-dea0-99e1b0d6440f/AppIcon-1x_U007emarketing-85-220-6.png/320x0w.jpg",Big R Radio
+http://bigrradio.cdnstream1.com/5172_128?listenerId=7f579a461330c8ab4783bbdcadcc8014&awparams=playerID%3AesPlayer&aw_0_1st.skey=1544907819
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/jemne.png",Jemné Melódie
+http://stream.jemne.sk/jemne-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fm.png",Rádio_FM
+http://live.slovakradio.sk:8000/FM_256.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/trnavskeradio.png",Trnavské Rádio
+http://stream.trnavskeradio.sk/trnavske
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/piestany.png",Piešťany
+http://live.radiopiestany.sk:8000/live.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-cz-sk.png",Fun Rádio CZ/SK
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-80-90-roky.png",Fun Rádio 80-90 roky
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-vianoce.png",Funradio Vianoce
+http://stream.funradio.sk:8000/xmas128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-dance.png",Funradio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2-cs.png",Europa 2 Československé webrádio
+http://pool.cdn.lagardere.cz/web-e2-csweb
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RockZone" tvg-id="rockzone" tvg-logo="https://tvhd.one/logo/rockzone.png",RockZone
+https://olam.tvhd.one/rockzone_/index.m3u8
+@@ -185,4 +182,4 @@ https://olam.tvhd.one/europa2_/index.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Europa 2 Dance Exxtravaganza" tvg-id="europa2danceexxtravaganza" tvg-logo="https://tvhd.one/logo/europa2danceexxtravaganza.png",Europa 2 Dance Exxtravaganza
+https://olam.tvhd.one/europa2dexx_/index.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Europa 2 Movin" tvg-id="europa2movin" tvg-logo="https://tvhd.one/logo/europa2movin.png",Europa 2 Movin
+https://olam.tvhd.one/europa2movin_/index.m3u8
