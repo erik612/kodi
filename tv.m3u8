@@ -45,8 +45,8 @@ http://kuru.tvhd.one/cinemax/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/cinemax2/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film+" tvg-id="Film+" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/filmplus.png",Film+
 https://olam.tvhd.one/filmplus_2cejcwxjm5jacma7vwoecgr9rjh/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CS Film CS Mini Film Horor" tvg-id="csfilmcsminifilmhoror" tvg-logo="https://tvhd.one/logo/csfilmcsminifilmhoror.png",CS Film CS Mini Film Horor
-http://kuru.tvhd.one/csfilmcsminifilmhoror/bjtfZzvVq/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"KinoSvet" tvg-id="KinoSvet" tvg-logo="https://tvhd.one/logo/kinosvet.png",Kino Svět
+https://olam.tvhd.one/kinosvet_ikgnqJAKqZdmLXv9o7eynQnBIntNmPV/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AMC" tvg-id="AMC" tvg-logo="https://tvhd.one/logo/amc.png",AMC
 http://kuru.tvhd.one/amc/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox" tvg-id="Filmbox" tvg-logo="https://tvhd.one/logo/filmbox.png",Filmbox
@@ -211,14 +211,14 @@ http://kuru.tvhd.one/barrandovfamily/bjtfZzvVq/playlist.m3u8
 https://olam.tvhd.one/ceskoslovensko_aernsyjaugtthuquf6cfpw1cc5adg0ma/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Gold" tvg-id="Nova Gold" tvg-logo="https://tvhd.one/logo/novagold.png",Nova Gold
 http://kuru.tvhd.one/novagold/bjtfZzvVq/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CS Film CS Mini Film Horor" tvg-id="csfilmcsminifilmhoror" tvg-logo="https://tvhd.one/logo/csfilmcsminifilmhoror.png",CS Film CS Mini Film Horor
+http://kuru.tvhd.one/csfilmcsminifilmhoror/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fishing and Hunting" tvg-id="Fishing and Hunting" tvg-logo="https://tvhd.one/logo/fishingandhunting.png",Fishing and Hunting
 https://olam.tvhd.one/fishingandhuntinghungary_1ogwuoh9lb8DFbaZKdKVPDy22a/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Travelxp HD" tvg-id="Travelxp HD" tvg-logo="https://tvhd.one/logo/travelxp.png",TravelXP
 https://olam.tvhd.one/travelxp_3TEnhTuR9UVA0GC1x9Ncw65Niam0j4Dbe/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Travel Channel" tvg-id="Travel Channel" tvg-logo="https://tvhd.one/logo/travelchannel.png",Travel Channel
 https://olam.tvhd.one/travelxp_3TEnhTuR9UVA0GC1x9Ncw65Niam0j4Dbe/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"KinoSvet" tvg-id="KinoSvet" tvg-logo="https://tvhd.one/logo/kinosvet.png",Kino Svět
-https://olam.tvhd.one/kinosvet_ikgnqJAKqZdmLXv9o7eynQnBIntNmPV/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TLC" tvg-id="TLC" tvg-logo="https://tvhd.one/logo/tlc.png",TLC
 http://kuru.tvhd.one/tlc/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Lux" tvg-id="Lux" tvg-logo="https://tvhd.one/logo/tvlux.png",TV LUX
