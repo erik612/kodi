@@ -73,6 +73,8 @@ http://kuru.tvhd.one/filmeurope/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/ctsport/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dajto" tvg-id="Dajto" tvg-logo="https://tvhd.one/logo/dajto.png",Dajto
 http://kuru.tvhd.one/dajto/bjtfZzvVq/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Action" tvg-id="Nova Action" tvg-logo="https://tvhd.one/logo/novaaction.png",Nova Action
+http://kuru.tvhd.one/novaaction/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 1" tvg-id="Nova Sport 1" tvg-logo="https://tvhd.one/logo/novasport1.png",Nova Sport 1
 http://kuru.tvhd.one/novasport1/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 2" tvg-id="Nova Sport 2" tvg-logo="https://tvhd.one/logo/novasport2.png",Nova Sport 2
@@ -185,10 +187,6 @@ http://kuru.tvhd.one/nova/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/nova2/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova International" tvg-id="Nova International" tvg-logo="https://tvhd.one/logo/novainternational.png",Nova International
 https://olam.tvhd.one/novainternational_iZft45NS7QKDLbmrU8U9LGZ5J7b0zo0/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Action" tvg-id="Nova Action" tvg-logo="https://tvhd.one/logo/novaaction.png",Nova Action
-http://kuru.tvhd.one/novaaction/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Gold" tvg-id="Nova Gold" tvg-logo="https://tvhd.one/logo/novagold.png",Nova Gold
-http://kuru.tvhd.one/novagold/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VOYO" tvg-id="VOYO" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/voyo2.jpg",Voyo
 https://olam.tvhd.one/voyo_61aj2kzysjtpkeaqvwnj9fgme1s66f54/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima" tvg-id="Prima" tvg-logo="https://tvhd.one/logo/prima.png",Prima
@@ -211,6 +209,8 @@ http://kuru.tvhd.one/barrandovplus/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/barrandovfamily/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ceskoslovensko/Festival" tvg-id="Ceskoslovensko/Festival" tvg-logo="https://tvhd.one/logo/ceskoslovenskohd.png",Československo
 https://olam.tvhd.one/ceskoslovensko_aernsyjaugtthuquf6cfpw1cc5adg0ma/index.m3u8?token=tvhdone_bjtfZzvVq
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Gold" tvg-id="Nova Gold" tvg-logo="https://tvhd.one/logo/novagold.png",Nova Gold
+http://kuru.tvhd.one/novagold/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fishing and Hunting" tvg-id="Fishing and Hunting" tvg-logo="https://tvhd.one/logo/fishingandhunting.png",Fishing and Hunting
 https://olam.tvhd.one/fishingandhuntinghungary_1ogwuoh9lb8DFbaZKdKVPDy22a/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Travelxp HD" tvg-id="Travelxp HD" tvg-logo="https://tvhd.one/logo/travelxp.png",TravelXP
