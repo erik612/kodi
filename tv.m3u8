@@ -59,7 +59,7 @@ http://kuru.tvhd.one/filmboxplus/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/filmboxpremium/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Extra HD" tvg-id="Filmbox Extra HD" tvg-logo="https://tvhd.one/logo/filmboxextra.png",Filmbox Extra
 http://kuru.tvhd.one/filmboxextra/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"FilmBox Arthouse" tvg-id="FilmBox Arthouse" tvg-logo="https://tvhd.one/logo/filmboxarthouse.png",Filmbox Arthouse
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"FilmBox Arthouse" tvg-id="FilmBox Arthouse" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/filmboxarthouse.png",Filmbox Arthouse
 https://olam.tvhd.one/filmboxarthouse_SwH970eeBYretMB97Ab6rmC04aoXfcI/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AXN" tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/axn.jpg",AXN
 https://olam.tvhd.one/axn_ocynl35a4yhm9eu6ngkwe2a0qneyrd/index.m3u8?token=tvhdone_bjtfZzvVq
