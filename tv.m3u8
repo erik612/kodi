@@ -119,8 +119,8 @@ http://kuru.tvhd.one/eurosport2/bjtfZzvVq/playlist.m3u8
 https://olam.tvhd.one/motorsport_kr2y9q0ym3vls76lfeasdr9blk6iyw0i/video.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Golf Channel" tvg-id="Golf Channel" tvg-logo="https://tvhd.one/logo/golfchannel.png",NBC Golf
 https://olam.tvhd.one/nbcgolf_xk1gtw4uadzl4vrqax5qjmr29x2/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arena Sport 1" tvg-id="Arena Sport 1" tvg-logo="https://tvhd.one/logo/arenasport1.png",Arena Sport 1
-#HODNOTA!
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arena Sport 1" tvg-id="arenasport1" tvg-logo="https://tvhd.one/logo/arenasport1.png",Arena Sport 1
+https://olam.tvhd.one/arenasport1_e40npbnllg3ss82npnxc1mrtpretourq/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arena Sport 2" tvg-id="Arena Sport 2" tvg-logo="https://tvhd.one/logo/arenasport2.png",Arena Sport 2
 https://olam.tvhd.one/arenasport2_irhlxe1hoqu27be4qa01b6gn70lroass/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fast and Funbox HD" tvg-id="Fast and Funbox HD" tvg-logo="https://tvhd.one/logo/fastandfunbox.png",Fast and Funbox
@@ -237,8 +237,6 @@ http://kuru.tvhd.one/foodnetwork/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/cartoonnetwork/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Disney Channel" tvg-id="Disney Channel" tvg-logo="https://tvhd.one/logo/disneychannel.png",Disney Channel
 http://kuru.tvhd.one/disneychannel/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Disney Junior" tvg-id="Disney Junior" tvg-logo="https://tvhd.one/logo/disneyjunior.png",Disney Junior
-https://olam.tvhd.one/disneyjunior_tiqwgXN9lkrKsKOLXdI7ZIHDoPcvOIg/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Duck TV" tvg-id="Duck TV" tvg-logo="https://tvhd.one/logo/ducktv.png",Duck TV
 http://kuru.tvhd.one/ducktv/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Jim Jam" tvg-id="Jim Jam" tvg-logo="https://tvhd.one/logo/jimjam.png",JimJam
