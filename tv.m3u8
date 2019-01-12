@@ -1,13 +1,13 @@
 ﻿#EXTM3U
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Jednotka" tvg-id="Jednotka" tvg-logo="https://tvhd.one/logo/stv1.png",Jednotka
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Jednotka" tvg-id="stv1" tvg-logo="https://tvhd.one/logo/stv1.png",Jednotka
 http://kuru.tvhd.one/stv1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dvojka" tvg-id="Dvojka" tvg-logo="https://tvhd.one/logo/stv2.png",Dvojka
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dvojka" tvg-id="stv2" tvg-logo="https://tvhd.one/logo/stv2.png",Dvojka
 http://kuru.tvhd.one/stv2/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza" tvg-id="Markiza" tvg-logo="https://tvhd.one/logo/markiza.png",Markíza
 http://kuru.tvhd.one/markiza/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza +1" tvg-id="Markiza +1" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/markizaplus1hd.png",Markíza +1
 https://olam.tvhd.one/markizaplus1_i9Tm8Mb9WH1XZe5f8QivlsA4tP7ZMojN/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza International" tvg-id="Markiza International" tvg-logo="https://tvhd.one/logo/markizainternational.png",Markíza International
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza International" tvg-id="markizainternational" tvg-logo="https://tvhd.one/logo/markizainternational.png",Markíza International
 http://kuru.tvhd.one/markizainternational/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Doma" tvg-id="Doma" tvg-logo="https://tvhd.one/logo/doma.png",Doma
 http://kuru.tvhd.one/doma/bjtfZzvVq/playlist.m3u8
@@ -17,7 +17,7 @@ http://kuru.tvhd.one/joj/bjtfZzvVq/playlist.m3u8
 https://olam.tvhd.one/jojplus1_cvZyt5NDYiEGeLkTueBmSWDaTNro6Ox/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Plus" tvg-id="JOJ Plus" tvg-logo="https://tvhd.one/logo/jojplus.png",JOJ Plus
 http://kuru.tvhd.one/jojplus/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Family" tvg-id="JOJ Family" tvg-logo="https://tvhd.one/logo/jojfamily.png",JOJ Family
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Family" tvg-id="jojfamily" tvg-logo="https://tvhd.one/logo/jojfamily.png",JOJ Family
 http://kuru.tvhd.one/jojfamily/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"WAU" tvg-id="WAU" tvg-logo="https://tvhd.one/logo/wau.png",WAU
 http://kuru.tvhd.one/wau/bjtfZzvVq/playlist.m3u8
@@ -27,13 +27,13 @@ http://kuru.tvhd.one/primacool/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/primacomedycentral/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TA3" tvg-id="TA3" tvg-logo="https://tvhd.one/logo/ta3.png",TA3
 http://kuru.tvhd.one/ta3/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO" tvg-id="HBO" tvg-logo="https://tvhd.one/logo/hbo.png",HBO
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO" tvg-id="hbo" tvg-logo="https://tvhd.one/logo/hbo.png",HBO
 http://kuru.tvhd.one/hbo/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO2" tvg-id="HBO2" tvg-logo="https://tvhd.one/logo/hbo2.png",HBO 2
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO2" tvg-id="hbo2" tvg-logo="https://tvhd.one/logo/hbo2.png",HBO 2
 http://kuru.tvhd.one/hbo2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO3" tvg-id="HBO3" tvg-logo="https://tvhd.one/logo/hbo3.png",HBO 3
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO3" tvg-id="hbo3" tvg-logo="https://tvhd.one/logo/hbo3.png",HBO 3
 http://kuru.tvhd.one/hbo3/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Cinema" tvg-id="JOJ Cinema" tvg-logo="https://tvhd.one/logo/jojcinema.png",JOJ Cinema
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Cinema" tvg-id="jojcinema" tvg-logo="https://tvhd.one/logo/jojcinema.png",JOJ Cinema
 http://kuru.tvhd.one/jojcinema/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Cinema" tvg-id="Nova Cinema" tvg-logo="https://tvhd.one/logo/novacinema.png",Nova Cinema
 http://kuru.tvhd.one/novacinema/bjtfZzvVq/playlist.m3u8
@@ -69,15 +69,15 @@ https://olam.tvhd.one/axnwhite_58ix3qp40rjny5uer788kwwovd4ypr/index.m3u8?token=t
 https://olam.tvhd.one/axnblack_id4uiqvh7y4yy3f29u95vwbe5a3p2k/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film Europe" tvg-id="Film Europe" tvg-logo="https://tvhd.one/logo/filmeurope.png",Film Europe
 http://kuru.tvhd.one/filmeurope/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT4 Sport" tvg-id="CT4 Sport" tvg-logo="https://tvhd.one/logo/ctsport.png",ČT Sport
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT4 Sport" tvg-id="ctsport" tvg-logo="https://tvhd.one/logo/ctsport.png",ČT Sport
 http://kuru.tvhd.one/ctsport/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dajto" tvg-id="Dajto" tvg-logo="https://tvhd.one/logo/dajto.png",Dajto
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dajto" tvg-id="dajto" tvg-logo="https://tvhd.one/logo/dajto.png",Dajto
 http://kuru.tvhd.one/dajto/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Action" tvg-id="Nova Action" tvg-logo="https://tvhd.one/logo/novaaction.png",Nova Action
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Action" tvg-id="novaaction" tvg-logo="https://tvhd.one/logo/novaaction.png",Nova Action
 http://kuru.tvhd.one/novaaction/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 1" tvg-id="Nova Sport 1" tvg-logo="https://tvhd.one/logo/novasport1.png",Nova Sport 1
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 1" tvg-id="novasport1" tvg-logo="https://tvhd.one/logo/novasport1.png",Nova Sport 1
 http://kuru.tvhd.one/novasport1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 2" tvg-id="Nova Sport 2" tvg-logo="https://tvhd.one/logo/novasport2.png",Nova Sport 2
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 2" tvg-id="novasport2" tvg-logo="https://tvhd.one/logo/novasport2.png",Nova Sport 2
 http://kuru.tvhd.one/novasport2/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 1" tvg-id="Sport 1" tvg-logo="https://tvhd.one/logo/sport1.png",Sport 1
 http://kuru.tvhd.one/sport1/bjtfZzvVq/playlist.m3u8
