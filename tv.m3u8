@@ -69,7 +69,7 @@ https://olam.tvhd.one/axnwhite_58ix3qp40rjny5uer788kwwovd4ypr/index.m3u8?token=t
 https://olam.tvhd.one/axnblack_id4uiqvh7y4yy3f29u95vwbe5a3p2k/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film Europe" tvg-id="Film Europe" tvg-logo="https://tvhd.one/logo/filmeurope.png",Film Europe
 http://kuru.tvhd.one/filmeurope/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT4 Sport" tvg-id="ctsport" tvg-logo="https://tvhd.one/logo/ctsport.png",ČT Sport
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT4Sport" tvg-id="ČT4Sport" tvg-logo="https://tvhd.one/logo/ctsport.png",ČT Sport
 http://kuru.tvhd.one/ctsport/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dajto" tvg-id="dajto" tvg-logo="https://tvhd.one/logo/dajto.png",Dajto
 http://kuru.tvhd.one/dajto/bjtfZzvVq/playlist.m3u8
@@ -87,15 +87,15 @@ http://kuru.tvhd.one/sport2/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/sport3/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 5" tvg-id="Sport 5" tvg-logo="https://tvhd.one/logo/sport5.png",Sport 5
 http://kuru.tvhd.one/sport5/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Digi Sport 1" tvg-id="Digi Sport 1" tvg-logo="https://tvhd.one/logo/digisport1.png",DIGI Sport 1
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DigiSport1HD" tvg-id="DigiSport1HD" tvg-logo="https://tvhd.one/logo/digisport1.png",DIGI Sport 1
 https://olam.tvhd.one/digisport1_8smkjk8i0e1yniGQ1TWYpN1rrTIPfKK/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Digi Sport 2" tvg-id="Digi Sport 2" tvg-logo="https://tvhd.one/logo/digisport2.png",DIGI Sport 2
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DigiSport2HD" tvg-id="DigiSport2HD" tvg-logo="https://tvhd.one/logo/digisport2.png",DIGI Sport 2
 https://olam.tvhd.one/digisport2_qD2fUgo8uwLal9Bmws7iO64xS5YQfbm/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Digi Sport 3" tvg-id="Digi Sport 3" tvg-logo="https://tvhd.one/logo/digisport3.png",DIGI Sport 3
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DigiSport3HD" tvg-id="DigiSport3HD" tvg-logo="https://tvhd.one/logo/digisport3.png",DIGI Sport 3
 https://olam.tvhd.one/digisport3_u8b619NpWnNrgBJXOoUtRNVlCUh9YSe/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Digi Sport 4" tvg-id="Digi Sport 4" tvg-logo="https://tvhd.one/logo/digisport4.png",DIGI Sport 4
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DigiSport4HD" tvg-id="DigiSport4HD" tvg-logo="https://tvhd.one/logo/digisport4.png",DIGI Sport 4
 https://olam.tvhd.one/digisport4_fs1dcbMxDiYA7OjQfFWqsEKyVFfqh3J/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Digi Sport 5" tvg-id="Digi Sport 5" tvg-logo="https://tvhd.one/logo/digisport5.png",DIGI Sport 5
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DigiSport5HD" tvg-id="DigiSport5HD" tvg-logo="https://tvhd.one/logo/digisport5.png",DIGI Sport 5
 https://olam.tvhd.one/digisport5_pnm6XfKOmkybQvTrkK8QvhOotF8lvCQ/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 1" tvg-id="Orange Sport 1" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport.png",Orange Sport 1
 https://olam.tvhd.one/orangesport1_80fyz6iteorpacqcskr4nm2mk9n4rygh/index.m3u8?token=tvhdone_bjtfZzvVq
@@ -105,11 +105,11 @@ https://olam.tvhd.one/orangesport2_91rzi8fwyai8k9vabs9w0vvlm439pih0/index.m3u8?t
 https://olam.tvhd.one/orangesport3_menc9z3vvgpshj5l2z79dv38uieskd1d/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 4" tvg-id="Orange Sport 4" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport4.png",Orange Sport 4
 https://olam.tvhd.one/orangesport4_rqzp63genz0ksltla08c7t128il9s6u6/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2TV Sport" tvg-id="O2TV Sport" tvg-logo="https://tvhd.one/logo/o2sport.png",O2 Sport
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2TV Sport HD" tvg-id="O2TV Sport HD" tvg-logo="https://tvhd.one/logo/o2sport.png",O2 Sport
 http://kuru.tvhd.one/o2sport/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2TV Tenis" tvg-id="O2TV Tenis" tvg-logo="https://tvhd.one/logo/o2tenis.png",O2 Tenis
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2TV Tenis HD" tvg-id="O2TV Tenis HD" tvg-logo="https://tvhd.one/logo/o2tenis.png",O2 Tenis
 http://kuru.tvhd.one/o2tenis/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2TV Fotbal" tvg-id="O2TV Fotbal" tvg-logo="https://tvhd.one/logo/o2fotbal.png",O2 Fotbal
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2TV Fotbal HD" tvg-id="O2TV Fotbal HD" tvg-logo="https://tvhd.one/logo/o2fotbal.png",O2 Fotbal
 http://kuru.tvhd.one/o2fotbal/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Eurosport 1" tvg-id="Eurosport 1" tvg-logo="https://tvhd.one/logo/eurosport1.png",Eurosport 1
 http://kuru.tvhd.one/eurosport1/bjtfZzvVq/playlist.m3u8
@@ -179,7 +179,7 @@ http://kuru.tvhd.one/ct1sever/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/ct1jih/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT24" tvg-id="CT24" tvg-logo="https://tvhd.one/logo/ct24.png",ČT 24
 http://kuru.tvhd.one/ct24/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT art" tvg-id="CT art" tvg-logo="https://tvhd.one/logo/ctart.png",ČT :D HD / ČT Art HD
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČTart" tvg-id="ČTart" tvg-logo="https://tvhd.one/logo/ctart.png",ČT :D HD / ČT Art HD
 http://kuru.tvhd.one/ctart/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova" tvg-id="Nova" tvg-logo="https://tvhd.one/logo/nova.png",Nova
 http://kuru.tvhd.one/nova/bjtfZzvVq/playlist.m3u8
@@ -187,7 +187,7 @@ http://kuru.tvhd.one/nova/bjtfZzvVq/playlist.m3u8
 http://kuru.tvhd.one/nova2/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova International" tvg-id="Nova International" tvg-logo="https://tvhd.one/logo/novainternational.png",Nova International
 https://olam.tvhd.one/novainternational_iZft45NS7QKDLbmrU8U9LGZ5J7b0zo0/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VOYO" tvg-id="VOYO" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/voyo2.jpg",Voyo
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Voyo" tvg-id="Nova Voyo" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/voyo2.jpg",Voyo
 https://olam.tvhd.one/voyo_61aj2kzysjtpkeaqvwnj9fgme1s66f54/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima" tvg-id="Prima" tvg-logo="https://tvhd.one/logo/prima.png",Prima
 http://kuru.tvhd.one/prima/bjtfZzvVq/playlist.m3u8
@@ -255,7 +255,7 @@ https://olam.tvhd.one/tuty_gqriigwtbshszwxibqvtxipibeuyymzaqbbdfthndt/index.m3u8
 http://kuru.tvhd.one/nickjunior/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://tvhd.one/logo/nickelodeon.png",Nickelodeon
 http://kuru.tvhd.one/nickelodeon/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Extasy" tvg-id="Extasy" tvg-logo="https://tvhd.one/logo/leotv.png",Extasy / Leo TV
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Leo" tvg-id="Leo" tvg-logo="https://tvhd.one/logo/leotv.png",Extasy / Leo TV
 https://olam.tvhd.one/extasytv_5i85y80mkcgnn41y2tx50h3vsjz19ej1/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Private TV" tvg-id="Private TV" tvg-logo="https://tvhd.one/logo/privatetv.png",Private TV
 https://olam.tvhd.one/privatetv_eyw0q3yv5h40w2855e5s6623nmvrwlk9/index.m3u8?token=tvhdone_bjtfZzvVq
@@ -322,7 +322,7 @@ https://olam.tvhd.one/musicbox_pPuejzR5ClPXGyHRlVE33zlCT0r3K3c/playlist.m3u8?tok
 http://kuru.tvhd.one/slusnejkanal/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Retro Music" tvg-id="Retro Music" tvg-logo="https://tvhd.one/logo/retro.png",Retro
 http://kuru.tvhd.one/retro/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Slagr" tvg-id="Slagr" tvg-logo="https://tvhd.one/logo/slagrtv.png",Šlágr TV
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Slagr TV" tvg-id="Slagr TV" tvg-logo="https://tvhd.one/logo/slagrtv.png",Šlágr TV
 http://kuru.tvhd.one/slagrtv/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Piánko TV" tvg-id="Piánko TV" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/pianko.png",Piánko TV
 https://olam.tvhd.one/pianko_cjywjuzttgyjicwavqcdozwkiifozazgjeglfejwpm/index.m3u8?token=tvhdone_bjtfZzvVq
