@@ -1,7 +1,7 @@
 ﻿#EXTM3U
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"STV1" tvg-id="STV1" tvg-logo="https://tvhd.one/logo/stv1.png",Jednotka
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"STV 1" tvg-id="STV 1" tvg-logo="https://tvhd.one/logo/stv1.png",Jednotka
 http://kuru.tvhd.one/stv1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dvojka" tvg-id="stv2" tvg-logo="https://tvhd.one/logo/stv2.png",Dvojka
+#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"STV 2" tvg-id="STV 2" tvg-logo="https://tvhd.one/logo/stv2.png",Dvojka
 http://kuru.tvhd.one/stv2/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza" tvg-id="Markiza" tvg-logo="https://tvhd.one/logo/markiza.png",Markíza
 http://kuru.tvhd.one/markiza/bjtfZzvVq/playlist.m3u8
