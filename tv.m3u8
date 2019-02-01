@@ -282,19 +282,19 @@ http://kuru.tvhd.one/fashiontv/bjtfZzvVq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashionbox HD" tvg-id="Fashionbox HD" tvg-logo="https://tvhd.one/logo/fashionbox.png",Fashionbox
 https://olam.tvhd.one/fashionbox_tesky6bhad83zjorln10lglvvs9lw55h/video.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RFM TV" tvg-id="rfmtv" tvg-logo="https://tvhd.one/logo/rfmtv.png",RFM TV
-https://olam.tvhd.one/rfmtv_yjQjFAZyXnqja8rltoJnu1rKIDoQnKs/playlist.m3u8?token=tvhdone_olZ1qDaC
+https://olam.tvhd.one/rfmtv_yjQjFAZyXnqja8rltoJnu1rKIDoQnKs/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MCM TOP" tvg-id="mcmtop" tvg-logo="https://tvhd.one/logo/mcmtop.png",MCM TOP
-https://olam.tvhd.one/mcmtop_MQODDV3BYg0oOXJVjGOc7vhTaCIIqFG/playlist.m3u8?token=tvhdone_olZ1qDaC
+https://olam.tvhd.one/mcmtop_MQODDV3BYg0oOXJVjGOc7vhTaCIIqFG/playlist.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Xite" tvg-id="xite" tvg-logo="https://tvhd.one/logo/xite.png",Xite
-https://olam.tvhd.one/xite_lwflwervbosptfjgrvmvnxkgorpbabfqotuwmydwwg/index.m3u8?token=tvhdone_olZ1qDaC
+https://olam.tvhd.one/xite_lwflwervbosptfjgrvmvnxkgorpbabfqotuwmydwwg/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"360 Tune Box" tvg-id="360tunebox" tvg-logo="https://tvhd.one/logo/360tunebox.png",360 Tune Box
-https://olam.tvhd.one/360tunebox_qpymo6rgnnzmfz2sms7ju6tw6qm5sa9f/index.m3u8?token=tvhdone_olZ1qDaC
+https://olam.tvhd.one/360tunebox_qpymo6rgnnzmfz2sms7ju6tw6qm5sa9f/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"iConcerts" tvg-id="iconcerts" tvg-logo="https://tvhd.one/logo/iconcerts.png",iConcerts
-https://olam.tvhd.one/iconcerts_2831vzm38tavxy7svui9by1o3dcrzlfq/video.m3u8?token=tvhdone_olZ1qDaC
+https://olam.tvhd.one/iconcerts_2831vzm38tavxy7svui9by1o3dcrzlfq/video.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Brava" tvg-id="brava" tvg-logo="https://tvhd.one/logo/brava.png",Brava
-https://olam.tvhd.one/brava_BWDmporzHMGw2IwQpaogmMUYGZVtuv5V7dIVGd0/index.m3u8?token=tvhdone_olZ1qDaC
+https://olam.tvhd.one/brava_BWDmporzHMGw2IwQpaogmMUYGZVtuv5V7dIVGd0/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mezzo" tvg-id="mezzo" tvg-logo="https://tvhd.one/logo/mezzo.png",Mezzo
-https://olam.tvhd.one/mezzo_rxowqqiqmdlbdxptgaslgthcihnuwifhfzvmjacxhg/index.m3u8?token=tvhdone_olZ1qDaC
+https://olam.tvhd.one/mezzo_rxowqqiqmdlbdxptgaslgthcihnuwifhfzvmjacxhg/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Deluxe Music" tvg-id="DeLuxe Music" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/deluxemusic.png",Deluxe Music
 https://olam.tvhd.one/deluxemusic_3jlygg2jwfkjgd1w85bwqay6wca1enl8woi/index.m3u8?token=tvhdone_bjtfZzvVq
 #EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VH1" tvg-id="VH1" tvg-logo="https://tvhd.one/logo/vh1.png",VH1
