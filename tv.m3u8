@@ -1,367 +1,663 @@
 #EXTM3U
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"STV 1" tvg-id="STV 1" tvg-logo="https://tvhd.one/logo/stv1.png",Jednotka
-http://kuru.tvhd.one/stv1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"STV 2" tvg-id="STV 2" tvg-logo="https://tvhd.one/logo/stv2.png",Dvojka
-http://kuru.tvhd.one/stv2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza" tvg-id="Markiza" tvg-logo="https://tvhd.one/logo/markiza.png",Markíza
-http://kuru.tvhd.one/markiza/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza +1" tvg-id="Markiza +1" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/markizaplus1hd.png",Markíza +1
-https://olam.tvhd.one/markizaplus1_i9Tm8Mb9WH1XZe5f8QivlsA4tP7ZMojN/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Markiza International" tvg-id="markizainternational" tvg-logo="https://tvhd.one/logo/markizainternational.png",Markíza International
-http://kuru.tvhd.one/markizainternational/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Doma" tvg-id="Doma" tvg-logo="https://tvhd.one/logo/doma.png",Doma
-http://kuru.tvhd.one/doma/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ" tvg-id="JOJ" tvg-logo="https://tvhd.one/logo/joj.png",Joj
-http://kuru.tvhd.one/joj/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ+1" tvg-id="JOJ+1" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/tvjojplus1hd.png",JOJ +1
-https://olam.tvhd.one/jojplus1_cvZyt5NDYiEGeLkTueBmSWDaTNro6Ox/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Plus" tvg-id="JOJ Plus" tvg-logo="https://tvhd.one/logo/jojplus.png",JOJ Plus
-http://kuru.tvhd.one/jojplus/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Family" tvg-id="jojfamily" tvg-logo="https://tvhd.one/logo/jojfamily.png",JOJ Family
-http://kuru.tvhd.one/jojfamily/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"WAU" tvg-id="WAU" tvg-logo="https://tvhd.one/logo/wau.png",WAU
-http://kuru.tvhd.one/wau/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima COOL" tvg-id="Prima COOL" tvg-logo="https://tvhd.one/logo/primacool.png",Prima COOL
-http://kuru.tvhd.one/primacool/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima Comedy Central" tvg-id="Prima Comedy Central" tvg-logo="https://tvhd.one/logo/primacomedycentral.png",Prima Comedy Central
-http://kuru.tvhd.one/primacomedycentral/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TA3" tvg-id="TA3" tvg-logo="https://tvhd.one/logo/ta3.png",TA3
-http://kuru.tvhd.one/ta3/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO" tvg-id="hbo" tvg-logo="https://tvhd.one/logo/hbo.png",HBO
-http://kuru.tvhd.one/hbo/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO2" tvg-id="hbo2" tvg-logo="https://tvhd.one/logo/hbo2.png",HBO 2
-http://kuru.tvhd.one/hbo2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"HBO3" tvg-id="hbo3" tvg-logo="https://tvhd.one/logo/hbo3.png",HBO 3
-http://kuru.tvhd.one/hbo3/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"JOJ Cinema" tvg-id="jojcinema" tvg-logo="https://tvhd.one/logo/jojcinema.png",JOJ Cinema
-http://kuru.tvhd.one/jojcinema/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Cinema" tvg-id="Nova Cinema" tvg-logo="https://tvhd.one/logo/novacinema.png",Nova Cinema
-http://kuru.tvhd.one/novacinema/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima MAX" tvg-id="Prima MAX" tvg-logo="https://tvhd.one/logo/primamax.png",Prima MAX
-http://kuru.tvhd.one/primamax/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Cinemax" tvg-id="Cinemax" tvg-logo="https://tvhd.one/logo/cinemax.png",Cinemax
-http://kuru.tvhd.one/cinemax/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Cinemax 2" tvg-id="Cinemax 2" tvg-logo="https://tvhd.one/logo/cinemax2.png",Cinemax 2
-http://kuru.tvhd.one/cinemax2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film+" tvg-id="Film+" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/filmplus.png",Film+
-https://olam.tvhd.one/filmplus_2cejcwxjm5jacma7vwoecgr9rjh/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"KinoSvet" tvg-id="KinoSvet" tvg-logo="https://tvhd.one/logo/kinosvet.png",Kino Svět
-https://olam.tvhd.one/kinosvet_ikgnqJAKqZdmLXv9o7eynQnBIntNmPV/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AMC" tvg-id="AMC" tvg-logo="https://tvhd.one/logo/amc.png",AMC
-http://kuru.tvhd.one/amc/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox" tvg-id="Filmbox" tvg-logo="https://tvhd.one/logo/filmbox.png",Filmbox
-http://kuru.tvhd.one/filmbox/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Family" tvg-id="Filmbox Family" tvg-logo="https://tvhd.one/logo/filmboxfamily.png",Filmbox Family
-http://kuru.tvhd.one/filmboxfamily/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Plus" tvg-id="Filmbox Plus" tvg-logo="https://tvhd.one/logo/filmboxplus.png",Filmbox Plus
-http://kuru.tvhd.one/filmboxplus/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Premium" tvg-id="Filmbox Premium" tvg-logo="https://tvhd.one/logo/filmboxpremium.png",Filmbox Premium
-http://kuru.tvhd.one/filmboxpremium/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Filmbox Extra HD" tvg-id="Filmbox Extra HD" tvg-logo="https://tvhd.one/logo/filmboxextra.png",Filmbox Extra
-http://kuru.tvhd.one/filmboxextra/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"FilmBox Arthouse" tvg-id="FilmBox Arthouse" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/filmboxarthouse.png",Filmbox Arthouse
-https://olam.tvhd.one/filmboxarthouse_SwH970eeBYretMB97Ab6rmC04aoXfcI/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AXN" tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/axn.jpg",AXN
-https://olam.tvhd.one/axn_ocynl35a4yhm9eu6ngkwe2a0qneyrd/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AXN White" tvg-id="AXN White" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/axnwhite.png",AXN White
-https://olam.tvhd.one/axnwhite_58ix3qp40rjny5uer788kwwovd4ypr/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AXN Black" tvg-id="AXN Black" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/axnblack.png",AXN Black
-https://olam.tvhd.one/axnblack_id4uiqvh7y4yy3f29u95vwbe5a3p2k/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Film Europe" tvg-id="Film Europe" tvg-logo="https://tvhd.one/logo/filmeurope.png",Film Europe
-http://kuru.tvhd.one/filmeurope/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT4Sport" tvg-id="ČT4Sport" tvg-logo="https://tvhd.one/logo/ctsport.png",ČT Sport
-http://kuru.tvhd.one/ctsport/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dajto" tvg-id="dajto" tvg-logo="https://tvhd.one/logo/dajto.png",Dajto
-http://kuru.tvhd.one/dajto/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Action" tvg-id="novaaction" tvg-logo="https://tvhd.one/logo/novaaction.png",Nova Action
-http://kuru.tvhd.one/novaaction/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 1" tvg-id="novasport1" tvg-logo="https://tvhd.one/logo/novasport1.png",Nova Sport 1
-http://kuru.tvhd.one/novasport1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Sport 2" tvg-id="novasport2" tvg-logo="https://tvhd.one/logo/novasport2.png",Nova Sport 2
-http://kuru.tvhd.one/novasport2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 1" tvg-id="Sport 1" tvg-logo="https://tvhd.one/logo/sport1.png",Sport 1
-http://kuru.tvhd.one/sport1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 2" tvg-id="Sport 2" tvg-logo="https://tvhd.one/logo/sport2.png",Sport 2
-http://kuru.tvhd.one/sport2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 3" tvg-id="Sport 3" tvg-logo="https://tvhd.one/logo/sport3.png",Sport 3
-http://kuru.tvhd.one/sport3/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Sport 5" tvg-id="Sport 5" tvg-logo="https://tvhd.one/logo/sport5.png",Sport 5
-http://kuru.tvhd.one/sport5/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 1" tvg-id="digisport1" tvg-logo="https://tvhd.one/logo/digisport1.png",DIGI Sport 1
-https://olam.tvhd.one/digisport1_8smkjk8i0e1yniGQ1TWYpN1rrTIPfKK/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 2" tvg-id="digisport2" tvg-logo="https://tvhd.one/logo/digisport2.png",DIGI Sport 2
-https://olam.tvhd.one/digisport2_qD2fUgo8uwLal9Bmws7iO64xS5YQfbm/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 3" tvg-id="digisport3" tvg-logo="https://tvhd.one/logo/digisport3.png",DIGI Sport 3
-https://olam.tvhd.one/digisport3_u8b619NpWnNrgBJXOoUtRNVlCUh9YSe/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 4" tvg-id="digisport4" tvg-logo="https://tvhd.one/logo/digisport4.png",DIGI Sport 4
-https://olam.tvhd.one/digisport4_fs1dcbMxDiYA7OjQfFWqsEKyVFfqh3J/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"DIGI Sport 5" tvg-id="digisport5" tvg-logo="https://tvhd.one/logo/digisport5.png",DIGI Sport 5
-https://olam.tvhd.one/digisport5_pnm6XfKOmkybQvTrkK8QvhOotF8lvCQ/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 1" tvg-id="Orange Sport 1" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport.png",Orange Sport 1
-https://olam.tvhd.one/orangesport1_80fyz6iteorpacqcskr4nm2mk9n4rygh/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 2" tvg-id="Orange Sport 2" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport2.png",Orange Sport 2
-https://olam.tvhd.one/orangesport2_91rzi8fwyai8k9vabs9w0vvlm439pih0/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 3" tvg-id="Orange Sport 3" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport3.png",Orange Sport 3
-https://olam.tvhd.one/orangesport3_menc9z3vvgpshj5l2z79dv38uieskd1d/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Orange Sport 4" tvg-id="Orange Sport 4" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/orangesport4.png",Orange Sport 4
-https://olam.tvhd.one/orangesport4_rqzp63genz0ksltla08c7t128il9s6u6/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2 Sport" tvg-id="o2sport" tvg-logo="https://tvhd.one/logo/o2sport.png",O2 Sport
-http://kuru.tvhd.one/o2sport/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2 Tenis" tvg-id="o2tenis" tvg-logo="https://tvhd.one/logo/o2tenis.png",O2 Tenis
-http://kuru.tvhd.one/o2tenis/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"O2 Fotbal" tvg-id="o2fotbal" tvg-logo="https://tvhd.one/logo/o2fotbal.png",O2 Fotbal
-http://kuru.tvhd.one/o2fotbal/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Eurosport 1" tvg-id="Eurosport 1" tvg-logo="https://tvhd.one/logo/eurosport1.png",Eurosport 1
-http://kuru.tvhd.one/eurosport1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Eurosport 2" tvg-id="Eurosport 2" tvg-logo="https://tvhd.one/logo/eurosport2.png",Eurosport 2
-http://kuru.tvhd.one/eurosport2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MotorSport" tvg-id="motorsport" tvg-logo="https://tvhd.one/logo/motorsport.png",MotorSport
-https://olam.tvhd.one/motorsport_kr2y9q0ym3vls76lfeasdr9blk6iyw0i/video.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Golf Channel" tvg-id="Golf Channel" tvg-logo="https://tvhd.one/logo/golfchannel.png",NBC Golf
-https://olam.tvhd.one/nbcgolf_xk1gtw4uadzl4vrqax5qjmr29x2/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arena Sport 1" tvg-id="arenasport1" tvg-logo="https://tvhd.one/logo/arenasport1.png",Arena Sport 1
-https://olam.tvhd.one/arenasport1_e40npbnllg3ss82npnxc1mrtpretourq/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Arena Sport 2" tvg-id="Arena Sport 2" tvg-logo="https://tvhd.one/logo/arenasport2.png",Arena Sport 2
-https://olam.tvhd.one/arenasport2_irhlxe1hoqu27be4qa01b6gn70lroass/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fast and Funbox HD" tvg-id="Fast and Funbox HD" tvg-logo="https://tvhd.one/logo/fastandfunbox.png",Fast and Funbox
-https://olam.tvhd.one/fastandfunbox_QehVYepF5y0ToKxTGjMtUOchTMCxFl0/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fightbox" tvg-id="Fightbox" tvg-logo="https://tvhd.one/logo/fightbox.png",Fightbox
-https://olam.tvhd.one/fightbox_x2t484h561qxdhqq0x9rpz3z003djfdl/video.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Extreme Sports" tvg-id="Extreme Sports" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/extremesports.png",Extreme Sport Channel
-https://olam.tvhd.one/extremesportchannel_z620ste6rngbqtjarf194n35wnki239u/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spartak TV" tvg-id="Spartak TV" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/Spartak.png",Spartak TV
-https://olam.tvhd.one/spartaktv_ie3Coo3mEDRaBbXPDyBhzchoT1aQbEl/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Auto Motor und Sport Channel" tvg-id="Auto Motor und Sport Channel" tvg-logo="https://tvhd.one/logo/motorsport.png",MotorSport
-https://olam.tvhd.one/motorsport_kr2y9q0ym3vls76lfeasdr9blk6iyw0i/video.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Auto Motor und Sport Channel" tvg-id="Auto Motor und Sport Channel" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/automotorsporthd.png",Auto Motor Sport Channel
-https://olam.tvhd.one/automotorsportchannel_rbDlJvjjDNCvGnYkQBqULTps2jGT9Q7/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima ZOOM" tvg-id="Prima ZOOM" tvg-logo="https://tvhd.one/logo/primazoom.png",Prima ZOOM
-http://kuru.tvhd.one/primazoom/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery" tvg-id="Discovery" tvg-logo="https://tvhd.one/logo/discoverychannel.png",Discovery Channel
-http://kuru.tvhd.one/discoverychannel/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery HD Showcase" tvg-id="Discovery HD Showcase" tvg-logo="https://tvhd.one/logo/discoveryshowcase.png",Discovery Showcase
-http://kuru.tvhd.one/discoveryshowcase/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Turbo Xtra" tvg-id="Discovery Turbo Xtra" tvg-logo="https://tvhd.one/logo/investigationdiscovery.png",Discovery ID Xtra
-https://olam.tvhd.one/discoveryidxtra_1n8603qxdk516h730104xlow9q/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Science" tvg-id="Discovery Science" tvg-logo="https://tvhd.one/logo/discoveryscience.png",Discovery Science
-https://olam.tvhd.one/discoveryscience_Lxu9gUxNmdWMKPX4QzK24EIJUVmqDj9/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Discovery Turbo Xtra" tvg-id="Discovery Turbo Xtra" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/dtx.png",Discovery Turbo Xtra
-https://olam.tvhd.one/discoveryturboxtra_cQkiMzJ4AW7clCwxhKKTma33G0JtqNl/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"National Geographic HD" tvg-id="National Geographic HD" tvg-logo="https://tvhd.one/logo/nationalgeographic.png",National Geographic
-http://kuru.tvhd.one/nationalgeographic/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"National Geographic Wild" tvg-id="National Geographic Wild" tvg-logo="https://tvhd.one/logo/natgeowild.png",NatGeo Wild
-http://kuru.tvhd.one/natgeowild/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spektrum" tvg-id="Spektrum" tvg-logo="https://tvhd.one/logo/spektrum.png",Spektrum
-http://kuru.tvhd.one/spektrum/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Spektrum Home" tvg-id="Spektrum Home" tvg-logo="https://tvhd.one/logo/spektrumhome.png",Spektrum Home
-http://kuru.tvhd.one/spektrumhome/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"AnimalPlanet" tvg-id="AnimalPlanet" tvg-logo="https://tvhd.one/logo/animalplanet.png",Animal Planet
-http://kuru.tvhd.one/animalplanet/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat Explore" tvg-id="Viasat Explore" tvg-logo="https://tvhd.one/logo/viasatexplore.png",Viasat Explore
-http://kuru.tvhd.one/viasatexplore/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat History" tvg-id="Viasat History" tvg-logo="https://tvhd.one/logo/viasathistory.png",Viasat History
-http://kuru.tvhd.one/viasathistory/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Viasat Nature" tvg-id="Viasat Nature" tvg-logo="https://tvhd.one/logo/viasatnature.png",Viasat Nature
-https://olam.tvhd.one/viasatnature_luCuTIboZmhqPvoH/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"UP Network" tvg-id="Up Network" tvg-logo="https://tvhd.one/logo/upnetwork.png",UP Network
-http://kuru.tvhd.one/upnetwork/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Epic Drama" tvg-id="Epic Drama" tvg-logo="https://tvhd.one/logo/epicdrama.png",Epic Drama
-http://kuru.tvhd.one/epicdrama/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"WAR" tvg-id="WAR" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/tvwar.png",WAR TV
-https://olam.tvhd.one/wartv_YqX1UcpfnNMxg4rYpt7sVcFFgl6bH1L/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT1" tvg-id="CT1" tvg-logo="https://tvhd.one/logo/ct1.png",ČT 1
-http://kuru.tvhd.one/ct1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT2" tvg-id="CT2" tvg-logo="https://tvhd.one/logo/ct2.png",ČT 2
-http://kuru.tvhd.one/ct2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT 1 Sever" tvg-id="ČT 1 Sever" tvg-logo="https://tvhd.one/logo/ct1sever.png",ČT 1 Sever
-http://kuru.tvhd.one/ct1sever/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČT 1 Jih" tvg-id="ČT 1 Jih" tvg-logo="https://tvhd.one/logo/ct1jih.png",ČT 1 Jih
-http://kuru.tvhd.one/ct1jih/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CT24" tvg-id="CT24" tvg-logo="https://tvhd.one/logo/ct24.png",ČT 24
-http://kuru.tvhd.one/ct24/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"ČTart" tvg-id="ČTart" tvg-logo="https://tvhd.one/logo/ctart.png",ČT :D HD / ČT Art HD
-http://kuru.tvhd.one/ctart/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova" tvg-id="Nova" tvg-logo="https://tvhd.one/logo/nova.png",Nova
-http://kuru.tvhd.one/nova/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova 2" tvg-id="Nova 2" tvg-logo="https://tvhd.one/logo/nova2.png",Nova 2
-http://kuru.tvhd.one/nova2/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova International" tvg-id="Nova International" tvg-logo="https://tvhd.one/logo/novainternational.png",Nova International
-https://olam.tvhd.one/novainternational_iZft45NS7QKDLbmrU8U9LGZ5J7b0zo0/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Voyo" tvg-id="novavoyo" tvg-logo="https://tvhd.one/logo/novavoyo.png",Nova Voyo
-https://olam.tvhd.one/voyo_61aj2kzysjtpkeaqvwnj9fgme1s66f54/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima" tvg-id="Prima" tvg-logo="https://tvhd.one/logo/prima.png",Prima
-http://kuru.tvhd.one/prima/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima Plus" tvg-id="Prima Plus" tvg-logo="https://tvhd.one/logo/primaplus.png",Prima PLUS
-http://kuru.tvhd.one/primaplus/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima LOVE" tvg-id="Prima LOVE" tvg-logo="https://tvhd.one/logo/primalove.png",Prima LOVE
-http://kuru.tvhd.one/primalove/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Prima KRIMI" tvg-id="Prima KRIMI" tvg-logo="https://tvhd.one/logo/primakrimi.png",Prima KRIMI
-http://kuru.tvhd.one/primakrimi/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Seznam.cz TV" tvg-id="Seznam.cz TV" tvg-logo="https://tvhd.one/logo/seznamtv.png",Seznam TV
-http://kuru.tvhd.one/seznamtv/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Barrandov" tvg-id="Barrandov" tvg-logo="https://tvhd.one/logo/barrandov.png",Barrandov
-http://kuru.tvhd.one/barrandov/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Kino Barrandov" tvg-id="Kino Barrandov" tvg-logo="https://tvhd.one/logo/barrandovkino.png",Barrandov Kino
-http://kuru.tvhd.one/barrandovkino/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Barrandov Plus" tvg-id="Barrandov Plus" tvg-logo="https://tvhd.one/logo/barrandovplus.png",Barrandov Plus
-http://kuru.tvhd.one/barrandovplus/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Barrandov Family" tvg-id="Barrandov Family" tvg-logo="https://tvhd.one/logo/barrandovfamily.png",Barrandov Family
-http://kuru.tvhd.one/barrandovfamily/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ceskoslovensko/Festival" tvg-id="Ceskoslovensko/Festival" tvg-logo="https://tvhd.one/logo/ceskoslovenskohd.png",Československo
-https://olam.tvhd.one/ceskoslovensko_aernsyjaugtthuquf6cfpw1cc5adg0ma/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nova Gold" tvg-id="Nova Gold" tvg-logo="https://tvhd.one/logo/novagold.png",Nova Gold
-http://kuru.tvhd.one/novagold/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"CS Film CS Mini Film Horor" tvg-id="csfilmcsminifilmhoror" tvg-logo="https://tvhd.one/logo/csfilmcsminifilmhoror.png",CS Film CS Mini Film Horor
-http://kuru.tvhd.one/csfilmcsminifilmhoror/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fishing and Hunting" tvg-id="Fishing and Hunting" tvg-logo="https://tvhd.one/logo/fishingandhunting.png",Fishing and Hunting
-https://olam.tvhd.one/fishingandhuntinghungary_1ogwuoh9lb8DFbaZKdKVPDy22a/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Travelxp HD" tvg-id="Travelxp HD" tvg-logo="https://tvhd.one/logo/travelxp.png",TravelXP
-https://olam.tvhd.one/travelxp_3TEnhTuR9UVA0GC1x9Ncw65Niam0j4Dbe/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Travel Channel" tvg-id="Travel Channel" tvg-logo="https://tvhd.one/logo/travelchannel.png",Travel Channel
-https://olam.tvhd.one/travelxp_3TEnhTuR9UVA0GC1x9Ncw65Niam0j4Dbe/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"TLC" tvg-id="TLC" tvg-logo="https://tvhd.one/logo/tlc.png",TLC
-http://kuru.tvhd.one/tlc/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Lux" tvg-id="Lux" tvg-logo="https://tvhd.one/logo/tvlux.png",TV LUX
-https://olam.tvhd.one/tvlux_kisixhinvmkozfvfplxvievquqsaurlycffdoaznsr/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"NOE" tvg-id="Noe" tvg-logo="https://tvhd.one/logo/noetv.png",NOE TV
-http://kuru.tvhd.one/noetv/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Hobby TV" tvg-id="Hobby TV" tvg-logo="https://tvhd.one/logo/hobbytv.png",Hobby TV
-https://olam.tvhd.one/hobbytv_bTYl3q9UpylEuwekol8lHdHdRgr8WeM/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mnam TV" tvg-id="Mnam TV" tvg-logo="https://tvhd.one/logo/mnamtv.png",Mňam TV
-http://kuru.tvhd.one/mnamtv/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Paprika" tvg-id="Paprika" tvg-logo="https://tvhd.one/logo/tvpaprika.png",TV Paprika
-http://kuru.tvhd.one/tvpaprika/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Food Network" tvg-id="Food Network" tvg-logo="https://tvhd.one/logo/foodnetwork.png",Food Network
-http://kuru.tvhd.one/foodnetwork/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Cartoon Network" tvg-id="Cartoon Network" tvg-logo="https://tvhd.one/logo/cartoonnetwork.png",Cartoon Network
-http://kuru.tvhd.one/cartoonnetwork/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Disney Channel" tvg-id="Disney Channel" tvg-logo="https://tvhd.one/logo/disneychannel.png",Disney Channel
-http://kuru.tvhd.one/disneychannel/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Duck TV" tvg-id="Duck TV" tvg-logo="https://tvhd.one/logo/ducktv.png",Duck TV
-http://kuru.tvhd.one/ducktv/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Jim Jam" tvg-id="Jim Jam" tvg-logo="https://tvhd.one/logo/jimjam.png",JimJam
-http://kuru.tvhd.one/jimjam/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Baby TV" tvg-id="Baby TV" tvg-logo="https://tvhd.one/logo/babytv.png",Baby TV
-https://olam.tvhd.one/babytv_YhfHptxyy8WYkEC7U94RFT6Z9l7Ub/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RiK" tvg-id="RiK" tvg-logo="https://tvhd.one/logo/rik.png",Rik
-http://kuru.tvhd.one/rik/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Minimax" tvg-id="Minimax" tvg-logo="https://tvhd.one/logo/minimax.png",Minimax
-http://kuru.tvhd.one/minimax/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Megamax" tvg-id="Megamax" tvg-logo="https://tvhd.one/logo/megamax.png",Megamax
-http://kuru.tvhd.one/megamax/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Tuty" tvg-id="tuty" tvg-logo="https://tvhd.one/logo/tuty.png",Tuty
-https://olam.tvhd.one/tuty_gqriigwtbshszwxibqvtxipibeuyymzaqbbdfthndt/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nick Jr." tvg-id="Nick Jr." tvg-logo="https://tvhd.one/logo/nickjunior.png",Nick Junior
-http://kuru.tvhd.one/nickjunior/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://tvhd.one/logo/nickelodeon.png",Nickelodeon
-http://kuru.tvhd.one/nickelodeon/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Leo" tvg-id="Leo" tvg-logo="https://tvhd.one/logo/leotv.png",Extasy / Leo TV
-https://olam.tvhd.one/extasytv_5i85y80mkcgnn41y2tx50h3vsjz19ej1/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Private TV" tvg-id="Private TV" tvg-logo="https://tvhd.one/logo/privatetv.png",Private TV
-https://olam.tvhd.one/privatetv_eyw0q3yv5h40w2855e5s6623nmvrwlk9/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Dusk" tvg-id="Dusk" tvg-logo="https://tvhd.one/logo/dusk!tv.png",Dusk! TV
-https://olam.tvhd.one/dusktv_ADzhdYMRZBTpWmVlaye3C0Ex0suB4X1/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Reality Kings" tvg-id="Reality Kings" tvg-logo="https://tvhd.one/logo/realitykings.png",Reality Kings
-https://olam.tvhd.one/realitykings_xkAfkP7381n8P4iNsyes8AojGw0sgu7/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Erox HD" tvg-id="Erox HD" tvg-logo="https://tvhd.one/logo/erox.png",Erox
-https://olam.tvhd.one/erox_smsq4z3m9cdz564l107xb2nhardaf2z8/video.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Eroxxx HD" tvg-id="Eroxxx HD" tvg-logo="https://tvhd.one/logo/eroxxx.png",Eroxxx
-https://olam.tvhd.one/eroxxx_1qa03bm3bb2u5zw1eujgvsfyn6c1azbn/video.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Extasy" tvg-id="Extasy" tvg-logo="https://tvhd.one/logo/extasy.png",Extasy
-https://olam.tvhd.one/extasytv_5i85y80mkcgnn41y2tx50h3vsjz19ej1/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Brazzers" tvg-id="Brazzers" tvg-logo="https://tvhd.one/logo/brazzers.png",Brazzers
-https://olam.tvhd.one/brazzers_nfq82ioxtazyhf89r0m5t7kh5t9k0h8n1ym/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mark Dorcel" tvg-id="Mark Dorcel" tvg-logo="https://tvhd.one/logo/dorcel.png",Dorcel
-https://olam.tvhd.one/dorcel_wQKWn1Nw5lEziynYb4F7H5daxryxMJF/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Hustler HD" tvg-id="Hustler HD" tvg-logo="https://tvhd.one/logo/hustler.png",Hustler
-https://olam.tvhd.one/hustler_cyshuu0ql50nycujpp1zjsekooysr8rdebv/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashion One" tvg-id="Fashion One" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/fashionone.png",Fashion One
-https://olam.tvhd.one/fashionone_vqopswdihqvqsearwlkpqibxizbzxodltoomrkjdpb/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashion TV" tvg-id="Fashion TV" tvg-logo="https://tvhd.one/logo/fashiontv.png",Fashion TV
-http://kuru.tvhd.one/fashiontv/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Fashionbox HD" tvg-id="Fashionbox HD" tvg-logo="https://tvhd.one/logo/fashionbox.png",Fashionbox
-https://olam.tvhd.one/fashionbox_tesky6bhad83zjorln10lglvvs9lw55h/video.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RFM TV" tvg-id="rfmtv" tvg-logo="https://tvhd.one/logo/rfmtv.png",RFM TV
-https://olam.tvhd.one/rfmtv_yjQjFAZyXnqja8rltoJnu1rKIDoQnKs/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MCM TOP" tvg-id="mcmtop" tvg-logo="https://tvhd.one/logo/mcmtop.png",MCM TOP
-https://olam.tvhd.one/mcmtop_MQODDV3BYg0oOXJVjGOc7vhTaCIIqFG/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Xite" tvg-id="xite" tvg-logo="https://tvhd.one/logo/xite.png",Xite
-https://olam.tvhd.one/xite_lwflwervbosptfjgrvmvnxkgorpbabfqotuwmydwwg/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"360 Tune Box" tvg-id="360tunebox" tvg-logo="https://tvhd.one/logo/360tunebox.png",360 Tune Box
-https://olam.tvhd.one/360tunebox_qpymo6rgnnzmfz2sms7ju6tw6qm5sa9f/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"iConcerts" tvg-id="iconcerts" tvg-logo="https://tvhd.one/logo/iconcerts.png",iConcerts
-https://olam.tvhd.one/iconcerts_2831vzm38tavxy7svui9by1o3dcrzlfq/video.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Brava" tvg-id="brava" tvg-logo="https://tvhd.one/logo/brava.png",Brava
-https://olam.tvhd.one/brava_BWDmporzHMGw2IwQpaogmMUYGZVtuv5V7dIVGd0/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Mezzo" tvg-id="mezzo" tvg-logo="https://tvhd.one/logo/mezzo.png",Mezzo
-https://olam.tvhd.one/mezzo_rxowqqiqmdlbdxptgaslgthcihnuwifhfzvmjacxhg/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Deluxe Music" tvg-id="DeLuxe Music" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/deluxemusic.png",Deluxe Music
-https://olam.tvhd.one/deluxemusic_3jlygg2jwfkjgd1w85bwqay6wca1enl8woi/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VH1" tvg-id="VH1" tvg-logo="https://tvhd.one/logo/vh1.png",VH1
-http://kuru.tvhd.one/vh1/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"VH1 Classic" tvg-id="VH1 Classic" tvg-logo="https://tvhd.one/logo/vh1classic.png",VH1 Classic
-https://olam.tvhd.one/vh1classic_PV5HDeiwHudyqtqmVjc5zEsZsG3hVB4/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Rebel" tvg-id="Rebel" tvg-logo="https://tvhd.one/logo/rebel.png",Rebel
-http://kuru.tvhd.one/rebel/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ocko" tvg-id="Ocko" tvg-logo="https://tvhd.one/logo/ocko.png",Óčko
-http://kuru.tvhd.one/ocko/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ocko Star" tvg-id="Ocko Star" tvg-logo="https://tvhd.one/logo/ockostar.png",Óčko Star
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Ocko Expres" tvg-id="Ocko Expres" tvg-logo="https://tvhd.one/logo/ockoexpres.png",Óčko Expres
-http://kuru.tvhd.one/ockoexpres/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV" tvg-id="MTV" tvg-logo="https://tvhd.one/logo/mtveurope.png",MTV Europe
-http://kuru.tvhd.one/mtveurope/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Dance" tvg-id="MTV Dance" tvg-logo="https://tvhd.one/logo/mtvdance.png",MTV Dance
-https://olam.tvhd.one/mtvdance_yYZyKrqzGRBNrT5or1PtNh6TAm/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Hits" tvg-id="MTV Hits" tvg-logo="https://tvhd.one/logo/mtvhits.png",MTV Hits
-https://olam.tvhd.one/mtvhits_yPZbeaZSBHnZ6mROJMfax7Jr2T/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"MTV Rocks" tvg-id="MTV Rocks" tvg-logo="https://tvhd.one/logo/mtvrocks.png",MTV Rocks
-https://olam.tvhd.one/mtvrocks_o6RIxLvRj5UytYkH5K5EiHvz2lYdFVV/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Music Box" tvg-id="Music Box" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/musicbox.png",Music Box
-https://olam.tvhd.one/musicbox_pPuejzR5ClPXGyHRlVE33zlCT0r3K3c/playlist.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Slusnej kanal" tvg-id="Slusnej kanal" tvg-logo="https://tvhd.one/logo/slusnejkanal.png",Slušnej kanál
-http://kuru.tvhd.one/slusnejkanal/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Retro Music" tvg-id="Retro Music" tvg-logo="https://tvhd.one/logo/retro.png",Retro
-http://kuru.tvhd.one/retro/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Slagr TV" tvg-id="slagrtv" tvg-logo="https://tvhd.one/logo/slagrtv.png",Šlágr TV
-http://kuru.tvhd.one/slagrtv/bjtfZzvVq/playlist.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Piánko TV" tvg-id="Piánko TV" tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/pianko.png",Piánko TV
-https://olam.tvhd.one/pianko_cjywjuzttgyjicwavqcdozwkiifozazgjeglfejwpm/index.m3u8?token=tvhdone_bjtfZzvVq
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Relax" tvg-id="Relax" tvg-logo="https://tvhd.one/logo/relax.png",Relax
-http://kuru.tvhd.one/relax/bjtfZzvVq/playlist.m3u8
-
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/slovensko.png",Slovensko
-http://live.slovakradio.sk:8000/Slovensko_128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun.png",Fun Rádio
-http://stream.funradio.sk:8000/fun128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/expres.png",Expres
-http://85.248.7.162:8000/96.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2.png",Europa 2
-http://pool.cdn.lagardere.cz/fm-europa2sk-128
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/antena-rock.png",Anténa Rock
-http://stream.antenarock.sk/antena-hi.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/rockovarepublika.png",Rocková Republika
-http://217.67.31.66:8000/republika128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/39/01/b8/3901b820-470a-3ae4-dea0-99e1b0d6440f/AppIcon-1x_U007emarketing-85-220-6.png/320x0w.jpg",Big R Radio
-http://bigrradio.cdnstream1.com/5172_128?listenerId=7f579a461330c8ab4783bbdcadcc8014&awparams=playerID%3AesPlayer&aw_0_1st.skey=1544907819
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/jemne.png",Jemné Melódie
-http://stream.jemne.sk/jemne-hi.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fm.png",Rádio_FM
-http://live.slovakradio.sk:8000/FM_256.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/trnavskeradio.png",Trnavské Rádio
-http://stream.trnavskeradio.sk/trnavske
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/piestany.png",Piešťany
-http://live.radiopiestany.sk:8000/live.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-cz-sk.png",Fun Rádio CZ/SK
-http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-80-90-roky.png",Fun Rádio 80-90 roky
-http://stream.funradio.sk:8000/80-90-128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-vianoce.png",Funradio Vianoce
-http://stream.funradio.sk:8000/xmas128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-dance.png",Funradio Dance
-http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2-cs.png",Europa 2 Československé webrádio
-http://pool.cdn.lagardere.cz/web-e2-csweb
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"RockZone" tvg-id="rockzone" tvg-logo="https://tvhd.one/logo/rockzone.png",RockZone
-https://olam.tvhd.one/rockzone_/index.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="" tvg-name"Europa 2 Dance Exxtravaganza" tvg-id="europa2danceexxtravaganza" tvg-logo="https://tvhd.one/logo/europa2danceexxtravaganza.png",Europa 2 Dance Exxtravaganza
-https://olam.tvhd.one/europa2dexx_/index.m3u8
+#EXTINF:-1 channel-id="1" tvg-id="STV1" tvg-logo="http://stream.demux.xyz/app/loga/stv1.png" channel-id="STV1" group-title="Slovak TV",STV1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/100
+#EXTINF:-1 channel-id="2" tvg-id="STV2" tvg-logo="http://stream.demux.xyz/app/loga/stv2.png" channel-id="STV2" group-title="Slovak TV",STV2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/101
+#EXTINF:-1 channel-id="3" tvg-id="Markíza" tvg-logo="http://stream.demux.xyz/app/loga/markiza.png" channel-id="Markíza" group-title="Slovak TV",Markíza
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/102
+#EXTINF:-1 channel-id="4" tvg-id="Markíza International" tvg-logo="http://stream.demux.xyz/app/loga/markizainternational.png" channel-id="Markíza International" group-title="Slovak TV",Markíza International
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/103
+#EXTINF:-1 channel-id="5" tvg-id="Doma" tvg-logo="http://stream.demux.xyz/app/loga/doma.png" channel-id="Doma" group-title="Slovak TV",Doma
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/104
+#EXTINF:-1 channel-id="6" tvg-id="TV DAJTO" tvg-logo="http://stream.demux.xyz/app/loga/dajto.png" channel-id="TV DAJTO" group-title="Slovak TV",TV DAJTO
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/105
+#EXTINF:-1 channel-id="7" tvg-id="JOJ" tvg-logo="http://stream.demux.xyz/app/loga/tvjoj.png" channel-id="JOJ" group-title="Slovak TV",JOJ
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/106
+#EXTINF:-1 channel-id="8" tvg-id="JOJ+1" tvg-logo="http://stream.demux.xyz/app/loga/tvjojplus1.png" channel-id="JOJ+1" group-title="Slovak TV",JOJ+1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/107
+#EXTINF:-1 channel-id="9" tvg-id="JOJ Family" tvg-logo="http://stream.demux.xyz/app/loga/jojfamily.png" channel-id="JOJ Family" group-title="Slovak TV",JOJ Family
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/108
+#EXTINF:-1 channel-id="10" tvg-id="JOJ Plus" tvg-logo="http://stream.demux.xyz/app/loga/jojplus.png" channel-id="JOJ Plus" group-title="Slovak TV",JOJ Plus
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/109
+#EXTINF:-1 channel-id="11" tvg-id="WAU" tvg-logo="http://stream.demux.xyz/app/loga/wautv.png" channel-id="WAU" group-title="Slovak TV",WAU
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/110
+#EXTINF:-1 channel-id="12" tvg-id="TA3" tvg-logo="http://stream.demux.xyz/app/loga/ta3.png" channel-id="TA3" group-title="Slovak TV",TA3
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/111
+#EXTINF:-1 channel-id="13" tvg-id="STV1 HD" tvg-logo="http://stream.demux.xyz/app/loga/stv1.png" channel-id="STV1 HD" group-title="Slovak TV HD",STV1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/150
+#EXTINF:-1 channel-id="14" tvg-id="STV2 HD" tvg-logo="http://stream.demux.xyz/app/loga/stv2.png" channel-id="STV2 HD" group-title="Slovak TV HD",STV2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/151
+#EXTINF:-1 channel-id="15" tvg-id="Markíza HD" tvg-logo="http://stream.demux.xyz/app/loga/markiza.png" channel-id="Markíza HD" group-title="Slovak TV HD",Markíza HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/152
+#EXTINF:-1 channel-id="16" tvg-id="JOJ Family HD" tvg-logo="http://stream.demux.xyz/app/loga/jojfamily.png" channel-id="JOJ Family HD" group-title="Slovak TV HD",JOJ Family HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/153
+#EXTINF:-1 channel-id="17" tvg-id="Markíza International HD" tvg-logo="http://stream.demux.xyz/app/loga/markizainternational.png" channel-id="Markíza International HD" group-title="Slovak TV HD",Markíza International HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/154
+#EXTINF:-1 channel-id="18" tvg-id="Doma HD" tvg-logo="http://stream.demux.xyz/app/loga/doma.png" channel-id="Doma HD" group-title="Slovak TV HD",Doma HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/155
+#EXTINF:-1 channel-id="19" tvg-id="TV DAJTO HD" tvg-logo="http://stream.demux.xyz/app/loga/dajto.png" channel-id="TV DAJTO HD" group-title="Slovak TV HD",TV DAJTO HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/156
+#EXTINF:-1 channel-id="20" tvg-id="JOJ HD" tvg-logo="http://stream.demux.xyz/app/loga/tvjoj.png" channel-id="JOJ HD" group-title="Slovak TV HD",JOJ HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/157
+#EXTINF:-1 channel-id="21" tvg-id="JOJ Plus HD" tvg-logo="http://stream.demux.xyz/app/loga/jojplus.png" channel-id="JOJ Plus HD" group-title="Slovak TV HD",JOJ Plus HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/158
+#EXTINF:-1 channel-id="22" tvg-id="WAU HD" tvg-logo="http://stream.demux.xyz/app/loga/wauhd.png" channel-id="WAU HD" group-title="Slovak TV HD",WAU HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/159
+#EXTINF:-1 channel-id="23" tvg-id="TA3 HD" tvg-logo="http://stream.demux.xyz/app/loga/ta3.png" channel-id="TA3 HD" group-title="Slovak TV HD",TA3 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/160
+#EXTINF:-1 channel-id="24" tvg-id="ČT1" tvg-logo="http://stream.demux.xyz/app/loga/ct1.png" channel-id="ČT1" group-title="Czech TV",ČT1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/200
+#EXTINF:-1 channel-id="25" tvg-id="ČT2" tvg-logo="http://stream.demux.xyz/app/loga/ct2.png" channel-id="ČT2" group-title="Czech TV",ČT2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/201
+#EXTINF:-1 channel-id="26" tvg-id="ČT24" tvg-logo="http://stream.demux.xyz/app/loga/ct24.png" channel-id="ČT24" group-title="Czech TV",ČT24
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/202
+#EXTINF:-1 channel-id="27" tvg-id="ČT4 Sport" tvg-logo="http://stream.demux.xyz/app/loga/ctsport.png" channel-id="ČT4 Sport" group-title="Czech TV",ČT4 Sport
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/203
+#EXTINF:-1 channel-id="28" tvg-id="ČT :D" tvg-logo="http://stream.demux.xyz/app/loga/ctd.png" channel-id="ČT :D" group-title="Czech TV",ČT :D
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/204
+#EXTINF:-1 channel-id="29" tvg-id="ČT art" tvg-logo="http://stream.demux.xyz/app/loga/ctart.png" channel-id="ČT art" group-title="Czech TV",ČT art
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/205
+#EXTINF:-1 channel-id="30" tvg-id="Nova" tvg-logo="http://stream.demux.xyz/app/loga/nova.png" channel-id="Nova" group-title="Czech TV",Nova
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/206
+#EXTINF:-1 channel-id="31" tvg-id="Nova 2" tvg-logo="http://stream.demux.xyz/app/loga/nova2.png" channel-id="Nova 2" group-title="Czech TV",Nova 2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/207
+#EXTINF:-1 channel-id="32" tvg-id="Nova Cinema" tvg-logo="http://stream.demux.xyz/app/loga/novacinema.png" channel-id="Nova Cinema" group-title="Czech TV",Nova Cinema
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/208
+#EXTINF:-1 channel-id="33" tvg-id="Nova Action " tvg-logo="http://stream.demux.xyz/app/loga/novaaction.png" channel-id="Nova Action " group-title="Czech TV",Nova Action 
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/209
+#EXTINF:-1 channel-id="34" tvg-id="Nova Gold" tvg-logo="http://stream.demux.xyz/app/loga/novagold.png" channel-id="Nova Gold" group-title="Czech TV",Nova Gold
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/210
+#EXTINF:-1 channel-id="35" tvg-id="Prima" tvg-logo="http://stream.demux.xyz/app/loga/prima.png" channel-id="Prima" group-title="Czech TV",Prima
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/211
+#EXTINF:-1 channel-id="36" tvg-id="Prima Plus" tvg-logo="http://stream.demux.xyz/app/loga/primaplus.png" channel-id="Prima Plus" group-title="Czech TV",Prima Plus
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/212
+#EXTINF:-1 channel-id="37" tvg-id="Prima Cool" tvg-logo="http://stream.demux.xyz/app/loga/primacool.png" channel-id="Prima Cool" group-title="Czech TV",Prima Cool
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/213
+#EXTINF:-1 channel-id="38" tvg-id="Nova International" tvg-logo="http://stream.demux.xyz/app/loga/novainternational.png" channel-id="Nova International" group-title="Czech TV",Nova International
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/214
+#EXTINF:-1 channel-id="39" tvg-id="Prima LOVE" tvg-logo="http://stream.demux.xyz/app/loga/primalove.png" channel-id="Prima LOVE" group-title="Czech TV",Prima LOVE
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/215
+#EXTINF:-1 channel-id="40" tvg-id="Prima MAX" tvg-logo="http://stream.demux.xyz/app/loga/primamax.png" channel-id="Prima MAX" group-title="Czech TV",Prima MAX
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/216
+#EXTINF:-1 channel-id="41" tvg-id="Prima Comedy Central" tvg-logo="http://stream.demux.xyz/app/loga/comedycentral.png" channel-id="Prima Comedy Central" group-title="Czech TV",Prima Comedy Central
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/217
+#EXTINF:-1 channel-id="42" tvg-id="Prima ZOOM" tvg-logo="http://stream.demux.xyz/app/loga/primazoom.png" channel-id="Prima ZOOM" group-title="Czech TV",Prima ZOOM
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/218
+#EXTINF:-1 channel-id="43" tvg-id="Prima KRIMI" tvg-logo="http://stream.demux.xyz/app/loga/prima_krimi.png" channel-id="Prima KRIMI" group-title="Czech TV",Prima KRIMI
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/219
+#EXTINF:-1 channel-id="44" tvg-id="Barrandov" tvg-logo="http://stream.demux.xyz/app/loga/tvbarrandov.png" channel-id="Barrandov" group-title="Czech TV",Barrandov
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/220
+#EXTINF:-1 channel-id="45" tvg-id="Barrandov News" tvg-logo="http://stream.demux.xyz/app/loga/barrandovfamily.png" channel-id="Barrandov News" group-title="Czech TV",Barrandov News
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/221
+#EXTINF:-1 channel-id="46" tvg-id="Barrandov Krimi" tvg-logo="http://stream.demux.xyz/app/loga/barrandovplus.png" channel-id="Barrandov Krimi" group-title="Czech TV",Barrandov Krimi
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/222
+#EXTINF:-1 channel-id="47" tvg-id="Kino Barrandov" tvg-logo="http://stream.demux.xyz/app/loga/kinobarrandov.png" channel-id="Kino Barrandov" group-title="Czech TV",Kino Barrandov
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/223
+#EXTINF:-1 channel-id="48" tvg-id="RELAX" tvg-logo="http://stream.demux.xyz/app/loga/relax.png" channel-id="RELAX" group-title="Czech TV",RELAX
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/224
+#EXTINF:-1 channel-id="49" tvg-id="Seznam TV" tvg-logo="http://stream.demux.xyz/app/loga/seznamcz.png" channel-id="Seznam TV" group-title="Czech TV",Seznam TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/225
+#EXTINF:-1 channel-id="50" tvg-id="V1" tvg-logo="http://stream.demux.xyz/app/loga/v1.png" channel-id="V1" group-title="Czech TV",V1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/233
+#EXTINF:-1 channel-id="51" tvg-id="Praha_TV" tvg-logo="http://stream.demux.xyz/app/loga/praha.png" channel-id="Praha_TV" group-title="Czech TV",Praha_TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/235
+#EXTINF:-1 channel-id="52" tvg-id="POLAR" tvg-logo="http://stream.demux.xyz/app/loga/polar.png" channel-id="POLAR" group-title="Czech TV",POLAR
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/236
+#EXTINF:-1 channel-id="53" tvg-id="ČT1 HD" tvg-logo="http://stream.demux.xyz/app/loga/ct1hd.png" channel-id="ČT1 HD" group-title="Czech TV HD",ČT1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/250
+#EXTINF:-1 channel-id="54" tvg-id="ČT2 HD" tvg-logo="http://stream.demux.xyz/app/loga/ct2hd.png" channel-id="ČT2 HD" group-title="Czech TV HD",ČT2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/251
+#EXTINF:-1 channel-id="55" tvg-id="ČT24 HD" tvg-logo="http://stream.demux.xyz/app/loga/ct24hd.png" channel-id="ČT24 HD" group-title="Czech TV HD",ČT24 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/252
+#EXTINF:-1 channel-id="56" tvg-id="ČT4 Sport HD" tvg-logo="http://stream.demux.xyz/app/loga/ctsporthd.png" channel-id="ČT4 Sport HD" group-title="Czech TV HD",ČT4 Sport HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/253
+#EXTINF:-1 channel-id="57" tvg-id="ČT :D HD" tvg-logo="http://stream.demux.xyz/app/loga/ctd.png" channel-id="ČT :D HD" group-title="Czech TV HD",ČT :D HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/254
+#EXTINF:-1 channel-id="58" tvg-id="ČT art HD" tvg-logo="http://stream.demux.xyz/app/loga/ctart.png" channel-id="ČT art HD" group-title="Czech TV HD",ČT art HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/255
+#EXTINF:-1 channel-id="59" tvg-id="Nova HD" tvg-logo="http://stream.demux.xyz/app/loga/novahd.png" channel-id="Nova HD" group-title="Czech TV HD",Nova HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/256
+#EXTINF:-1 channel-id="60" tvg-id="Nova 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/nova2hd.png" channel-id="Nova 2 HD" group-title="Czech TV HD",Nova 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/257
+#EXTINF:-1 channel-id="61" tvg-id="Nova Cinema HD" tvg-logo="http://stream.demux.xyz/app/loga/novacinemahd.png" channel-id="Nova Cinema HD" group-title="Czech TV HD",Nova Cinema HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/258
+#EXTINF:-1 channel-id="62" tvg-id="Nova Action HD" tvg-logo="http://stream.demux.xyz/app/loga/novaactionhd.png" channel-id="Nova Action HD" group-title="Czech TV HD",Nova Action HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/259
+#EXTINF:-1 channel-id="63" tvg-id="Nova Gold HD" tvg-logo="http://stream.demux.xyz/app/loga/novagold.png" channel-id="Nova Gold HD" group-title="Czech TV HD",Nova Gold HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/260
+#EXTINF:-1 channel-id="64" tvg-id="Prima HD" tvg-logo="http://stream.demux.xyz/app/loga/primahd.png" channel-id="Prima HD" group-title="Czech TV HD",Prima HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/261
+#EXTINF:-1 channel-id="65" tvg-id="Prima Plus HD" tvg-logo="http://stream.demux.xyz/app/loga/primaplus.png" channel-id="Prima Plus HD" group-title="Czech TV HD",Prima Plus HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/262
+#EXTINF:-1 channel-id="66" tvg-id="Prima Cool HD" tvg-logo="http://stream.demux.xyz/app/loga/primacoolhd.png" channel-id="Prima Cool HD" group-title="Czech TV HD",Prima Cool HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/263
+#EXTINF:-1 channel-id="67" tvg-id="Nova International HD" tvg-logo="http://stream.demux.xyz/app/loga/novainternational.png" channel-id="Nova International HD" group-title="Czech TV HD",Nova International HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/264
+#EXTINF:-1 channel-id="68" tvg-id="Prima LOVE HD" tvg-logo="http://stream.demux.xyz/app/loga/primalovehd.png" channel-id="Prima LOVE HD" group-title="Czech TV HD",Prima LOVE HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/265
+#EXTINF:-1 channel-id="69" tvg-id="Prima MAX HD" tvg-logo="http://stream.demux.xyz/app/loga/primamaxhd.png" channel-id="Prima MAX HD" group-title="Czech TV HD",Prima MAX HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/266
+#EXTINF:-1 channel-id="70" tvg-id="Prima ZOOM HD" tvg-logo="http://stream.demux.xyz/app/loga/primazoomhd.png" channel-id="Prima ZOOM HD" group-title="Czech TV HD",Prima ZOOM HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/267
+#EXTINF:-1 channel-id="71" tvg-id="Prima KRIMI HD" tvg-logo="http://stream.demux.xyz/app/loga/prima_krimi.png" channel-id="Prima KRIMI HD" group-title="Czech TV HD",Prima KRIMI HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/268
+#EXTINF:-1 channel-id="72" tvg-id="Barrandov HD" tvg-logo="http://stream.demux.xyz/app/loga/tvbarrandovhd.png" channel-id="Barrandov HD" group-title="Czech TV HD",Barrandov HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/269
+#EXTINF:-1 channel-id="73" tvg-id="Barrandov Krimi HD" tvg-logo="http://stream.demux.xyz/app/loga/barrandovplushd.png" channel-id="Barrandov Krimi HD" group-title="Czech TV HD",Barrandov Krimi HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/270
+#EXTINF:-1 channel-id="74" tvg-id="Kino Barrandov HD" tvg-logo="http://stream.demux.xyz/app/loga/kinobarrandovhd.png" channel-id="Kino Barrandov HD" group-title="Czech TV HD",Kino Barrandov HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/271
+#EXTINF:-1 channel-id="75" tvg-id="Seznam TV HD" tvg-logo="http://stream.demux.xyz/app/loga/seznamcz.png" channel-id="Seznam TV HD" group-title="Czech TV HD",Seznam TV HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/272
+#EXTINF:-1 channel-id="76" tvg-id="JOJ Cinema" tvg-logo="http://stream.demux.xyz/app/loga/jojcinema.png" channel-id="JOJ Cinema" group-title="Movie TV",JOJ Cinema
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/300
+#EXTINF:-1 channel-id="77" tvg-id="AMC" tvg-logo="http://stream.demux.xyz/app/loga/amc.png" channel-id="AMC" group-title="Movie TV",AMC
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/301
+#EXTINF:-1 channel-id="78" tvg-id="AXN" tvg-logo="http://stream.demux.xyz/app/loga/axn.png" channel-id="AXN" group-title="Movie TV",AXN
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/302
+#EXTINF:-1 channel-id="79" tvg-id="AXN White" tvg-logo="http://stream.demux.xyz/app/loga/axnwhite.png" channel-id="AXN White" group-title="Movie TV",AXN White
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/303
+#EXTINF:-1 channel-id="80" tvg-id="AXN Black" tvg-logo="http://stream.demux.xyz/app/loga/axnblack.png" channel-id="AXN Black" group-title="Movie TV",AXN Black
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/304
+#EXTINF:-1 channel-id="81" tvg-id="CS Film" tvg-logo="http://stream.demux.xyz/app/loga/csfilm.png" channel-id="CS Film" group-title="Movie TV",CS Film
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/305
+#EXTINF:-1 channel-id="82" tvg-id="Film+" tvg-logo="http://stream.demux.xyz/app/loga/filmplus.png" channel-id="Film+" group-title="Movie TV",Film+
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/306
+#EXTINF:-1 channel-id="83" tvg-id="Film Europe" tvg-logo="http://stream.demux.xyz/app/loga/filmeurope.png" channel-id="Film Europe" group-title="Movie TV",Film Europe
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/307
+#EXTINF:-1 channel-id="84" tvg-id="HOROR FILM" tvg-logo="http://stream.demux.xyz/app/loga/hororfilm.png" channel-id="HOROR FILM" group-title="Movie TV",HOROR FILM
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/308
+#EXTINF:-1 channel-id="85" tvg-id="VOYO" tvg-logo="http://stream.demux.xyz/app/loga/voyo.png" channel-id="VOYO" group-title="Movie TV",VOYO
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/309
+#EXTINF:-1 channel-id="86" tvg-id="Filmbox" tvg-logo="http://stream.demux.xyz/app/loga/filmbox.png" channel-id="Filmbox" group-title="Movie TV",Filmbox
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/310
+#EXTINF:-1 channel-id="87" tvg-id="Filmbox Plus" tvg-logo="http://stream.demux.xyz/app/loga/filmboxplus.png" channel-id="Filmbox Plus" group-title="Movie TV",Filmbox Plus
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/311
+#EXTINF:-1 channel-id="88" tvg-id="Filmbox Premium" tvg-logo="http://stream.demux.xyz/app/loga/filmboxpremium.png" channel-id="Filmbox Premium" group-title="Movie TV",Filmbox Premium
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/312
+#EXTINF:-1 channel-id="89" tvg-id="Filmbox Family" tvg-logo="http://stream.demux.xyz/app/loga/filmboxfamily.png" channel-id="Filmbox Family" group-title="Movie TV",Filmbox Family
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/313
+#EXTINF:-1 channel-id="90" tvg-id="HBO" tvg-logo="http://stream.demux.xyz/app/loga/hbo.png" channel-id="HBO" group-title="Movie TV",HBO
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/314
+#EXTINF:-1 channel-id="91" tvg-id="HBO2" tvg-logo="http://stream.demux.xyz/app/loga/hbo2.png" channel-id="HBO2" group-title="Movie TV",HBO2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/315
+#EXTINF:-1 channel-id="92" tvg-id="HBO3" tvg-logo="http://stream.demux.xyz/app/loga/hbo3.png" channel-id="HBO3" group-title="Movie TV",HBO3
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/316
+#EXTINF:-1 channel-id="93" tvg-id="Cinemax" tvg-logo="http://stream.demux.xyz/app/loga/cinemax.png" channel-id="Cinemax" group-title="Movie TV",Cinemax
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/317
+#EXTINF:-1 channel-id="94" tvg-id="Cinemax2" tvg-logo="http://stream.demux.xyz/app/loga/cinemax2.png" channel-id="Cinemax2" group-title="Movie TV",Cinemax2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/318
+#EXTINF:-1 channel-id="95" tvg-id="Epic Drama" tvg-logo="http://stream.demux.xyz/app/loga/epicdrama.png" channel-id="Epic Drama" group-title="Movie TV",Epic Drama
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/319
+#EXTINF:-1 channel-id="96" tvg-id="JOJ Cinema HD" tvg-logo="http://stream.demux.xyz/app/loga/jojcinema.png" channel-id="JOJ Cinema HD" group-title="Movie TV HD",JOJ Cinema HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/350
+#EXTINF:-1 channel-id="97" tvg-id="AMC HD" tvg-logo="http://stream.demux.xyz/app/loga/amchd.png" channel-id="AMC HD" group-title="Movie TV HD",AMC HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/351
+#EXTINF:-1 channel-id="98" tvg-id="Československo HD" tvg-logo="http://stream.demux.xyz/app/loga/ceskoslovensko.png" channel-id="Československo HD" group-title="Movie TV HD",Československo HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/352
+#EXTINF:-1 channel-id="99" tvg-id="Festival HD" tvg-logo="http://stream.demux.xyz/app/loga/festivalhd.png" channel-id="Festival HD" group-title="Movie TV HD",Festival HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/353
+#EXTINF:-1 channel-id="100" tvg-id="Film Europe HD" tvg-logo="http://stream.demux.xyz/app/loga/filmeurope.png" channel-id="Film Europe HD" group-title="Movie TV HD",Film Europe HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/354
+#EXTINF:-1 channel-id="101" tvg-id="Filmbox Extra HD" tvg-logo="http://stream.demux.xyz/app/loga/filmboxextrahd.png" channel-id="Filmbox Extra HD" group-title="Movie TV HD",Filmbox Extra HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/355
+#EXTINF:-1 channel-id="102" tvg-id="Filmbox Premium HD" tvg-logo="http://stream.demux.xyz/app/loga/filmboxpremium.png" channel-id="Filmbox Premium HD" group-title="Movie TV HD",Filmbox Premium HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/356
+#EXTINF:-1 channel-id="103" tvg-id="HBO HD" tvg-logo="http://stream.demux.xyz/app/loga/hbohd.png" channel-id="HBO HD" group-title="Movie TV HD",HBO HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/357
+#EXTINF:-1 channel-id="104" tvg-id="HBO2 HD" tvg-logo="http://stream.demux.xyz/app/loga/hbo2hd.png" channel-id="HBO2 HD" group-title="Movie TV HD",HBO2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/358
+#EXTINF:-1 channel-id="105" tvg-id="HBO3 HD" tvg-logo="http://stream.demux.xyz/app/loga/hbo3hd.png" channel-id="HBO3 HD" group-title="Movie TV HD",HBO3 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/359
+#EXTINF:-1 channel-id="106" tvg-id="Cinemax HD" tvg-logo="http://stream.demux.xyz/app/loga/cinemaxhd.png" channel-id="Cinemax HD" group-title="Movie TV HD",Cinemax HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/360
+#EXTINF:-1 channel-id="107" tvg-id="Cinemax2 HD" tvg-logo="http://stream.demux.xyz/app/loga/cinemax2hd.png" channel-id="Cinemax2 HD" group-title="Movie TV HD",Cinemax2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/361
+#EXTINF:-1 channel-id="108" tvg-id="Epic Drama HD" tvg-logo="http://stream.demux.xyz/app/loga/epicdramahd.png" channel-id="Epic Drama HD" group-title="Movie TV HD",Epic Drama HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/362
+#EXTINF:-1 channel-id="109" tvg-id="Sport1" tvg-logo="http://stream.demux.xyz/app/loga/sport1.png" channel-id="Sport1" group-title="Sport TV",Sport1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/400
+#EXTINF:-1 channel-id="110" tvg-id="Sport2" tvg-logo="http://stream.demux.xyz/app/loga/sport2.png" channel-id="Sport2" group-title="Sport TV",Sport2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/401
+#EXTINF:-1 channel-id="111" tvg-id="Nova Sport 1" tvg-logo="http://stream.demux.xyz/app/loga/novasport1.png" channel-id="Nova Sport 1" group-title="Sport TV",Nova Sport 1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/402
+#EXTINF:-1 channel-id="112" tvg-id="Nova Sport 2" tvg-logo="http://stream.demux.xyz/app/loga/novasport2.png" channel-id="Nova Sport 2" group-title="Sport TV",Nova Sport 2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/403
+#EXTINF:-1 channel-id="113" tvg-id="Eurosport 1" tvg-logo="http://stream.demux.xyz/app/loga/eurosport1.png" channel-id="Eurosport 1" group-title="Sport TV",Eurosport 1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/404
+#EXTINF:-1 channel-id="114" tvg-id="Eurosport 2" tvg-logo="http://stream.demux.xyz/app/loga/eurosport2.png" channel-id="Eurosport 2" group-title="Sport TV",Eurosport 2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/405
+#EXTINF:-1 channel-id="115" tvg-id="Arena Sport 1" tvg-logo="http://stream.demux.xyz/app/loga/arenasport1.png" channel-id="Arena Sport 1" group-title="Sport TV",Arena Sport 1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/406
+#EXTINF:-1 channel-id="116" tvg-id="Arena Sport 2" tvg-logo="http://stream.demux.xyz/app/loga/arenasport2.png" channel-id="Arena Sport 2" group-title="Sport TV",Arena Sport 2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/407
+#EXTINF:-1 channel-id="117" tvg-id="Digi sport SK" tvg-logo="http://stream.demux.xyz/app/loga/digisport1.png" channel-id="Digi sport SK" group-title="Sport TV",Digi sport SK
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/408
+#EXTINF:-1 channel-id="118" tvg-id="Digi sport SK 2" tvg-logo="http://stream.demux.xyz/app/loga/digisport2.png" channel-id="Digi sport SK 2" group-title="Sport TV",Digi sport SK 2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/409
+#EXTINF:-1 channel-id="119" tvg-id="Digi sport SK 3" tvg-logo="http://stream.demux.xyz/app/loga/digisport3.png" channel-id="Digi sport SK 3" group-title="Sport TV",Digi sport SK 3
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/410
+#EXTINF:-1 channel-id="120" tvg-id="Digi sport SK 4" tvg-logo="http://stream.demux.xyz/app/loga/digisport4.png" channel-id="Digi sport SK 4" group-title="Sport TV",Digi sport SK 4
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/411
+#EXTINF:-1 channel-id="121" tvg-id="Digi sport SK 5" tvg-logo="http://stream.demux.xyz/app/loga/digisport5.png" channel-id="Digi sport SK 5" group-title="Sport TV",Digi sport SK 5
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/412
+#EXTINF:-1 channel-id="122" tvg-id="O2 Sport" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport" group-title="Sport TV",O2 Sport
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/413
+#EXTINF:-1 channel-id="123" tvg-id="O2TV Fotbal" tvg-logo="http://stream.demux.xyz/app/loga/o2tvfotbal.png" channel-id="O2TV Fotbal" group-title="Sport TV",O2TV Fotbal
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/414
+#EXTINF:-1 channel-id="124" tvg-id="O2TV Tenis" tvg-logo="http://stream.demux.xyz/app/loga/o2tvtenis.png" channel-id="O2TV Tenis" group-title="Sport TV",O2TV Tenis
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/415
+#EXTINF:-1 channel-id="125" tvg-id="Sport 5" tvg-logo="http://stream.demux.xyz/app/loga/sport5.png" channel-id="Sport 5" group-title="Sport TV",Sport 5
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/417
+#EXTINF:-1 channel-id="126" tvg-id="Golf Channel" tvg-logo="http://stream.demux.xyz/app/loga/golfchannel.png" channel-id="Golf Channel" group-title="Sport TV",Golf Channel
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/418
+#EXTINF:-1 channel-id="127" tvg-id="Extreme Sports" tvg-logo="http://stream.demux.xyz/app/loga/extremesport.png" channel-id="Extreme Sports" group-title="Sport TV",Extreme Sports
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/419
+#EXTINF:-1 channel-id="128" tvg-id="Orange Sport 1" tvg-logo="http://stream.demux.xyz/app/loga/orangesport1.png" channel-id="Orange Sport 1" group-title="Sport TV",Orange Sport 1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/420
+#EXTINF:-1 channel-id="129" tvg-id="Orange Sport 2" tvg-logo="http://stream.demux.xyz/app/loga/orangesport2.png" channel-id="Orange Sport 2" group-title="Sport TV",Orange Sport 2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/421
+#EXTINF:-1 channel-id="130" tvg-id="Orange Sport 3" tvg-logo="http://stream.demux.xyz/app/loga/orangesport3.png" channel-id="Orange Sport 3" group-title="Sport TV",Orange Sport 3
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/422
+#EXTINF:-1 channel-id="131" tvg-id="Orange Sport 4" tvg-logo="http://stream.demux.xyz/app/loga/orangesport4.png" channel-id="Orange Sport 4" group-title="Sport TV",Orange Sport 4
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/423
+#EXTINF:-1 channel-id="132" tvg-id="Sport1 HD" tvg-logo="http://stream.demux.xyz/app/loga/sport1hd.png" channel-id="Sport1 HD" group-title="Sport TV HD",Sport1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/450
+#EXTINF:-1 channel-id="133" tvg-id="Sport2 HD" tvg-logo="http://stream.demux.xyz/app/loga/sport2hd.png" channel-id="Sport2 HD" group-title="Sport TV HD",Sport2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/451
+#EXTINF:-1 channel-id="134" tvg-id="Nova Sport 1 HD" tvg-logo="http://stream.demux.xyz/app/loga/novasport1hd.png" channel-id="Nova Sport 1 HD" group-title="Sport TV HD",Nova Sport 1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/452
+#EXTINF:-1 channel-id="135" tvg-id="Nova Sport 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/novasport2hd.png" channel-id="Nova Sport 2 HD" group-title="Sport TV HD",Nova Sport 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/453
+#EXTINF:-1 channel-id="136" tvg-id="Eurosport 1 HD" tvg-logo="http://stream.demux.xyz/app/loga/eurosport1.png" channel-id="Eurosport 1 HD" group-title="Sport TV HD",Eurosport 1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/454
+#EXTINF:-1 channel-id="137" tvg-id="Eurosport 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/eurosport2.png" channel-id="Eurosport 2 HD" group-title="Sport TV HD",Eurosport 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/455
+#EXTINF:-1 channel-id="138" tvg-id="Arena Sport 1 HD" tvg-logo="http://stream.demux.xyz/app/loga/arenasport1.png" channel-id="Arena Sport 1 HD" group-title="Sport TV HD",Arena Sport 1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/456
+#EXTINF:-1 channel-id="139" tvg-id="Arena Sport 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/arenasport2.png" channel-id="Arena Sport 2 HD" group-title="Sport TV HD",Arena Sport 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/457
+#EXTINF:-1 channel-id="140" tvg-id="Digi sport SK HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport1hd.png" channel-id="Digi sport SK HD" group-title="Sport TV HD",Digi sport SK HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/458
+#EXTINF:-1 channel-id="141" tvg-id="Digi sport SK 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport2hd.png" channel-id="Digi sport SK 2 HD" group-title="Sport TV HD",Digi sport SK 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/459
+#EXTINF:-1 channel-id="142" tvg-id="Digi sport SK 3 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport3hd.png" channel-id="Digi sport SK 3 HD" group-title="Sport TV HD",Digi sport SK 3 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/460
+#EXTINF:-1 channel-id="143" tvg-id="Digi sport SK 4 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport4hd.png" channel-id="Digi sport SK 4 HD" group-title="Sport TV HD",Digi sport SK 4 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/461
+#EXTINF:-1 channel-id="144" tvg-id="Digi sport SK 5 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport5hd.png" channel-id="Digi sport SK 5 HD" group-title="Sport TV HD",Digi sport SK 5 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/462
+#EXTINF:-1 channel-id="145" tvg-id="Digi Sport SK 6 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport6.png" channel-id="Digi Sport SK 6 HD" group-title="Sport TV HD",Digi Sport SK 6 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/473
+#EXTINF:-1 channel-id="146" tvg-id="Digi Sport SK 7 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport7.png" channel-id="Digi Sport SK 7 HD" group-title="Sport TV HD",Digi Sport SK 7 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/474
+#EXTINF:-1 channel-id="147" tvg-id="Digi Sport SK 8 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport8.png" channel-id="Digi Sport SK 8 HD" group-title="Sport TV HD",Digi Sport SK 8 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/475
+#EXTINF:-1 channel-id="148" tvg-id="Digi Sport SK 9 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport9.png" channel-id="Digi Sport SK 9 HD" group-title="Sport TV HD",Digi Sport SK 9 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/476
+#EXTINF:-1 channel-id="149" tvg-id="Digi Sport SK 10 HD" tvg-logo="http://stream.demux.xyz/app/loga/digisport10.png" channel-id="Digi Sport SK 10 HD" group-title="Sport TV HD",Digi Sport SK 10 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/477
+#EXTINF:-1 channel-id="150" tvg-id="O2TV Fotbal HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvfotbal.png" channel-id="O2TV Fotbal HD" group-title="Sport TV HD",O2TV Fotbal HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/464
+#EXTINF:-1 channel-id="151" tvg-id="O2 Sport HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport HD" group-title="Sport TV HD",O2 Sport HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/463
+#EXTINF:-1 channel-id="152" tvg-id="O2TV Tenis HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvtenis.png" channel-id="O2TV Tenis HD" group-title="Sport TV HD",O2TV Tenis HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/465
+#EXTINF:-1 channel-id="153" tvg-id="Golf Channel HD" tvg-logo="http://stream.demux.xyz/app/loga/golfchannel.png" channel-id="Golf Channel HD" group-title="Sport TV HD",Golf Channel HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/467
+#EXTINF:-1 channel-id="154" tvg-id="Fightbox HD" tvg-logo="http://stream.demux.xyz/app/loga/fightbox.png" channel-id="Fightbox HD" group-title="Sport TV HD",Fightbox HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/468
+#EXTINF:-1 channel-id="155" tvg-id="Orange Sport 1 HD" tvg-logo="http://stream.demux.xyz/app/loga/orangesport1.png" channel-id="Orange Sport 1 HD" group-title="Sport TV HD",Orange Sport 1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/469
+#EXTINF:-1 channel-id="156" tvg-id="Orange Sport 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/orangesport2.png" channel-id="Orange Sport 2 HD" group-title="Sport TV HD",Orange Sport 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/470
+#EXTINF:-1 channel-id="157" tvg-id="Orange Sport 3 HD" tvg-logo="http://stream.demux.xyz/app/loga/orangesport3.png" channel-id="Orange Sport 3 HD" group-title="Sport TV HD",Orange Sport 3 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/471
+#EXTINF:-1 channel-id="158" tvg-id="Orange Sport 4 HD" tvg-logo="http://stream.demux.xyz/app/loga/orangesport4.png" channel-id="Orange Sport 4 HD" group-title="Sport TV HD",Orange Sport 4 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/472
+#EXTINF:-1 channel-id="159" tvg-id="Discovery" tvg-logo="http://stream.demux.xyz/app/loga/discovery.png" channel-id="Discovery" group-title="Docu TV",Discovery
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/500
+#EXTINF:-1 channel-id="160" tvg-id="Discovery Science" tvg-logo="http://stream.demux.xyz/app/loga/discoveryscience.png" channel-id="Discovery Science" group-title="Docu TV",Discovery Science
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/501
+#EXTINF:-1 channel-id="161" tvg-id="DTX" tvg-logo="http://stream.demux.xyz/app/loga/dtx.png" channel-id="DTX" group-title="Docu TV",DTX
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/502
+#EXTINF:-1 channel-id="162" tvg-id="Discovery Investigation" tvg-logo="http://stream.demux.xyz/app/loga/discoveryinvest.png" channel-id="Discovery Investigation" group-title="Docu TV",Discovery Investigation
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/503
+#EXTINF:-1 channel-id="163" tvg-id="Viasat Explorer" tvg-logo="http://stream.demux.xyz/app/loga/viasatexplore.png" channel-id="Viasat Explorer" group-title="Docu TV",Viasat Explorer
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/504
+#EXTINF:-1 channel-id="164" tvg-id="Viasat History" tvg-logo="http://stream.demux.xyz/app/loga/viasathistory.png" channel-id="Viasat History" group-title="Docu TV",Viasat History
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/505
+#EXTINF:-1 channel-id="165" tvg-id="Viasat Nature" tvg-logo="http://stream.demux.xyz/app/loga/viasatnature.png" channel-id="Viasat Nature" group-title="Docu TV",Viasat Nature
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/506
+#EXTINF:-1 channel-id="166" tvg-id="History Channel" tvg-logo="http://stream.demux.xyz/app/loga/history.png" channel-id="History Channel" group-title="Docu TV",History Channel
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/507
+#EXTINF:-1 channel-id="167" tvg-id="National Geographic" tvg-logo="http://stream.demux.xyz/app/loga/nationalgeographic.png" channel-id="National Geographic" group-title="Docu TV",National Geographic
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/508
+#EXTINF:-1 channel-id="168" tvg-id="National Geographic Wild" tvg-logo="http://stream.demux.xyz/app/loga/natgeowild.png" channel-id="National Geographic Wild" group-title="Docu TV",National Geographic Wild
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/509
+#EXTINF:-1 channel-id="169" tvg-id="Travel Channel" tvg-logo="http://stream.demux.xyz/app/loga/travelchannel.png" channel-id="Travel Channel" group-title="Docu TV",Travel Channel
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/510
+#EXTINF:-1 channel-id="170" tvg-id="TLC" tvg-logo="http://stream.demux.xyz/app/loga/tlc.png" channel-id="TLC" group-title="Docu TV",TLC
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/511
+#EXTINF:-1 channel-id="171" tvg-id="AnimalPlanet" tvg-logo="http://stream.demux.xyz/app/loga/animalplanet.png" channel-id="AnimalPlanet" group-title="Docu TV",AnimalPlanet
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/512
+#EXTINF:-1 channel-id="172" tvg-id="Spektrum" tvg-logo="http://stream.demux.xyz/app/loga/spektrum.png" channel-id="Spektrum" group-title="Docu TV",Spektrum
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/513
+#EXTINF:-1 channel-id="173" tvg-id="Spektrum Home" tvg-logo="http://stream.demux.xyz/app/loga/spektrumhome.png" channel-id="Spektrum Home" group-title="Docu TV",Spektrum Home
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/514
+#EXTINF:-1 channel-id="174" tvg-id="Fine Living Network" tvg-logo="http://stream.demux.xyz/app/loga/fineliving.png" channel-id="Fine Living Network" group-title="Docu TV",Fine Living Network
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/515
+#EXTINF:-1 channel-id="175" tvg-id="Crime and Investigation" tvg-logo="http://stream.demux.xyz/app/loga/crimeandinvestigation.png" channel-id="Crime and Investigation" group-title="Docu TV",Crime and Investigation
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/516
+#EXTINF:-1 channel-id="176" tvg-id="The Fishing and Hunting" tvg-logo="http://stream.demux.xyz/app/loga/fishingandhunting.png" channel-id="The Fishing and Hunting" group-title="Docu TV",The Fishing and Hunting
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/517
+#EXTINF:-1 channel-id="177" tvg-id="Paprika" tvg-logo="http://stream.demux.xyz/app/loga/tvpaprika.png" channel-id="Paprika" group-title="Docu TV",Paprika
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/518
+#EXTINF:-1 channel-id="178" tvg-id="Auto Motor und Sport Channel" tvg-logo="http://stream.demux.xyz/app/loga/automotorsport.png" channel-id="Auto Motor und Sport Channel" group-title="Docu TV",Auto Motor und Sport Channel
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/519
+#EXTINF:-1 channel-id="179" tvg-id="Mňam TV" tvg-logo="http://stream.demux.xyz/app/loga/mnam.png" channel-id="Mňam TV" group-title="Docu TV",Mňam TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/520
+#EXTINF:-1 channel-id="180" tvg-id="Mňau TV" tvg-logo="http://stream.demux.xyz/app/loga/mnau.png" channel-id="Mňau TV" group-title="Docu TV",Mňau TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/521
+#EXTINF:-1 channel-id="181" tvg-id="KinoSvět" tvg-logo="http://stream.demux.xyz/app/loga/kinosvet.png" channel-id="KinoSvět" group-title="Docu TV",KinoSvět
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/522
+#EXTINF:-1 channel-id="182" tvg-id="UP NETWORK" tvg-logo="http://stream.demux.xyz/app/loga/upnetwork.png" channel-id="UP NETWORK" group-title="Docu TV",UP NETWORK
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/523
+#EXTINF:-1 channel-id="183" tvg-id="WAR svět válek" tvg-logo="http://stream.demux.xyz/app/loga/tvwar.png" channel-id="WAR svět válek" group-title="Docu TV",WAR svět válek
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/524
+#EXTINF:-1 channel-id="184" tvg-id="FashionTV" tvg-logo="http://stream.demux.xyz/app/loga/fashion.png" channel-id="FashionTV" group-title="Docu TV",FashionTV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/525
+#EXTINF:-1 channel-id="185" tvg-id="Travelxp" tvg-logo="http://stream.demux.xyz/app/loga/travelxp.png" channel-id="Travelxp" group-title="Docu TV",Travelxp
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/527
+#EXTINF:-1 channel-id="186" tvg-id="Discovery Showcase HD" tvg-logo="http://stream.demux.xyz/app/loga/discoveryshowcasehd.png" channel-id="Discovery Showcase HD" group-title="Docu TV HD",Discovery Showcase HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/550
+#EXTINF:-1 channel-id="187" tvg-id="Discovery Science HD" tvg-logo="http://stream.demux.xyz/app/loga/discoveryscience.png" channel-id="Discovery Science HD" group-title="Docu TV HD",Discovery Science HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/551
+#EXTINF:-1 channel-id="188" tvg-id="AnimalPlanet HD" tvg-logo="http://stream.demux.xyz/app/loga/animalplanet.png" channel-id="AnimalPlanet HD" group-title="Docu TV HD",AnimalPlanet HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/552
+#EXTINF:-1 channel-id="189" tvg-id="Spektrum HD" tvg-logo="http://stream.demux.xyz/app/loga/spektrumhd.png" channel-id="Spektrum HD" group-title="Docu TV HD",Spektrum HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/553
+#EXTINF:-1 channel-id="190" tvg-id="Auto Motor und Sport Channel HD" tvg-logo="http://stream.demux.xyz/app/loga/automotorsporthd.png" channel-id="Auto Motor und Sport Channel HD" group-title="Docu TV HD",Auto Motor und Sport Channel HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/554
+#EXTINF:-1 channel-id="191" tvg-id="National Geographic HD" tvg-logo="http://stream.demux.xyz/app/loga/nationalgeographic.png" channel-id="National Geographic HD" group-title="Docu TV HD",National Geographic HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/555
+#EXTINF:-1 channel-id="192" tvg-id="History Channel HD" tvg-logo="http://stream.demux.xyz/app/loga/historyhd.png" channel-id="History Channel HD" group-title="Docu TV HD",History Channel HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/556
+#EXTINF:-1 channel-id="193" tvg-id="Travel Channel HD" tvg-logo="http://stream.demux.xyz/app/loga/travelchannel.png" channel-id="Travel Channel HD" group-title="Docu TV HD",Travel Channel HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/557
+#EXTINF:-1 channel-id="194" tvg-id="National Geographic Wild HD" tvg-logo="http://stream.demux.xyz/app/loga/natgeowildhdcz.png" channel-id="National Geographic Wild HD" group-title="Docu TV HD",National Geographic Wild HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/558
+#EXTINF:-1 channel-id="195" tvg-id="Discovery Investigation HD" tvg-logo="http://stream.demux.xyz/app/loga/discoveryinvest.png" channel-id="Discovery Investigation HD" group-title="Docu TV HD",Discovery Investigation HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/559
+#EXTINF:-1 channel-id="196" tvg-id="Travelxp HD" tvg-logo="http://stream.demux.xyz/app/loga/travelxp.png" channel-id="Travelxp HD" group-title="Docu TV HD",Travelxp HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/560
+#EXTINF:-1 channel-id="197" tvg-id="BBC Earth HD" tvg-logo="http://stream.demux.xyz/app/loga/bbcearth.png" channel-id="BBC Earth HD" group-title="Docu TV HD",BBC Earth HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/561
+#EXTINF:-1 channel-id="198" tvg-id="Viasat Explorer HD" tvg-logo="http://stream.demux.xyz/app/loga/viasatexplore.png" channel-id="Viasat Explorer HD" group-title="Docu TV HD",Viasat Explorer HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/562
+#EXTINF:-1 channel-id="199" tvg-id="Viasat History HD" tvg-logo="http://stream.demux.xyz/app/loga/viasathistory.png" channel-id="Viasat History HD" group-title="Docu TV HD",Viasat History HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/563
+#EXTINF:-1 channel-id="200" tvg-id="Viasat Nature HD" tvg-logo="http://stream.demux.xyz/app/loga/viasatnature.png" channel-id="Viasat Nature HD" group-title="Docu TV HD",Viasat Nature HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/564
+#EXTINF:-1 channel-id="201" tvg-id="Discovery HD" tvg-logo="http://stream.demux.xyz/app/loga/discovery.png" channel-id="Discovery HD" group-title="Docu TV HD",Discovery HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/565
+#EXTINF:-1 channel-id="202" tvg-id="Disney Channel" tvg-logo="http://stream.demux.xyz/app/loga/disneycz.png" channel-id="Disney Channel" group-title="Kids TV",Disney Channel
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/600
+#EXTINF:-1 channel-id="203" tvg-id="Disney Junior" tvg-logo="http://stream.demux.xyz/app/loga/disneyjr.png" channel-id="Disney Junior" group-title="Kids TV",Disney Junior
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/601
+#EXTINF:-1 channel-id="204" tvg-id="Nickelodeon" tvg-logo="http://stream.demux.xyz/app/loga/nickelodeon.png" channel-id="Nickelodeon" group-title="Kids TV",Nickelodeon
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/602
+#EXTINF:-1 channel-id="205" tvg-id="Nick Jr." tvg-logo="http://stream.demux.xyz/app/loga/nickjr.png" channel-id="Nick Jr." group-title="Kids TV",Nick Jr.
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/603
+#EXTINF:-1 channel-id="206" tvg-id="Jim Jam" tvg-logo="http://stream.demux.xyz/app/loga/jimjam.png" channel-id="Jim Jam" group-title="Kids TV",Jim Jam
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/604
+#EXTINF:-1 channel-id="207" tvg-id="Minimax" tvg-logo="http://stream.demux.xyz/app/loga/minimax.png" channel-id="Minimax" group-title="Kids TV",Minimax
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/605
+#EXTINF:-1 channel-id="208" tvg-id="Megamax" tvg-logo="http://stream.demux.xyz/app/loga/megamax.png" channel-id="Megamax" group-title="Kids TV",Megamax
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/606
+#EXTINF:-1 channel-id="209" tvg-id="Ťuki" tvg-logo="http://stream.demux.xyz/app/loga/tuki.png" channel-id="Ťuki" group-title="Kids TV",Ťuki
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/607
+#EXTINF:-1 channel-id="210" tvg-id="LaLa TV" tvg-logo="http://stream.demux.xyz/app/loga/lala.png" channel-id="LaLa TV" group-title="Kids TV",LaLa TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/608
+#EXTINF:-1 channel-id="211" tvg-id="RiK" tvg-logo="http://stream.demux.xyz/app/loga/rik.png" channel-id="RiK" group-title="Kids TV",RiK
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/609
+#EXTINF:-1 channel-id="212" tvg-id="RiK HD" tvg-logo="http://stream.demux.xyz/app/loga/rik.png" channel-id="RiK HD" group-title="Kids TV",RiK HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/610
+#EXTINF:-1 channel-id="213" tvg-id="Cartoon Network" tvg-logo="http://stream.demux.xyz/app/loga/cartoonnetwork.png" channel-id="Cartoon Network" group-title="Kids TV",Cartoon Network
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/611
+#EXTINF:-1 channel-id="214" tvg-id="Boomerang" tvg-logo="http://stream.demux.xyz/app/loga/boomerang.png" channel-id="Boomerang" group-title="Kids TV",Boomerang
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/612
+#EXTINF:-1 channel-id="215" tvg-id="Retro Music" tvg-logo="http://stream.demux.xyz/app/loga/retromusictv.png" channel-id="Retro Music" group-title="Music TV",Retro Music
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/650
+#EXTINF:-1 channel-id="216" tvg-id="Rebel" tvg-logo="http://stream.demux.xyz/app/loga/rebel.png" channel-id="Rebel" group-title="Music TV",Rebel
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/651
+#EXTINF:-1 channel-id="217" tvg-id="Slušnej Kanál TV" tvg-logo="http://stream.demux.xyz/app/loga/rebel2.png" channel-id="Slušnej Kanál TV" group-title="Music TV",Slušnej Kanál TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/652
+#EXTINF:-1 channel-id="218" tvg-id="Óčko" tvg-logo="http://stream.demux.xyz/app/loga/ockotv.png" channel-id="Óčko" group-title="Music TV",Óčko
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/653
+#EXTINF:-1 channel-id="219" tvg-id="Óčko Star" tvg-logo="http://stream.demux.xyz/app/loga/ockostar.png" channel-id="Óčko Star" group-title="Music TV",Óčko Star
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/654
+#EXTINF:-1 channel-id="220" tvg-id="Óčko Expres" tvg-logo="http://stream.demux.xyz/app/loga/ockoexpres.png" channel-id="Óčko Expres" group-title="Music TV",Óčko Expres
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/655
+#EXTINF:-1 channel-id="221" tvg-id="Šlágr TV" tvg-logo="http://stream.demux.xyz/app/loga/slagrtv.png" channel-id="Šlágr TV" group-title="Music TV",Šlágr TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/656
+#EXTINF:-1 channel-id="222" tvg-id="SENZI" tvg-logo="http://stream.demux.xyz/app/loga/senzi.png" channel-id="SENZI" group-title="Music TV",SENZI
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/657
+#EXTINF:-1 channel-id="223" tvg-id="MTV" tvg-logo="http://stream.demux.xyz/app/loga/mtv.png" channel-id="MTV" group-title="Music TV",MTV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/658
+#EXTINF:-1 channel-id="224" tvg-id="MTV Dance" tvg-logo="http://stream.demux.xyz/app/loga/mtvdance.png" channel-id="MTV Dance" group-title="Music TV",MTV Dance
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/659
+#EXTINF:-1 channel-id="225" tvg-id="MTV Hits" tvg-logo="http://stream.demux.xyz/app/loga/mtvhits.png" channel-id="MTV Hits" group-title="Music TV",MTV Hits
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/660
+#EXTINF:-1 channel-id="226" tvg-id="MTV Rocks" tvg-logo="http://stream.demux.xyz/app/loga/mtvrocks.png" channel-id="MTV Rocks" group-title="Music TV",MTV Rocks
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/661
+#EXTINF:-1 channel-id="227" tvg-id="VH1" tvg-logo="http://stream.demux.xyz/app/loga/vh1.png" channel-id="VH1" group-title="Music TV",VH1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/662
+#EXTINF:-1 channel-id="228" tvg-id="VH1 Classic" tvg-logo="http://stream.demux.xyz/app/loga/vh1classic.png" channel-id="VH1 Classic" group-title="Music TV",VH1 Classic
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/663
+#EXTINF:-1 channel-id="229" tvg-id="Šlágr TV 2" tvg-logo="http://stream.demux.xyz/app/loga/slagrtv.png" channel-id="Šlágr TV 2" group-title="Music TV",Šlágr TV 2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/664
+#EXTINF:-1 channel-id="230" tvg-id="Klik TV" tvg-logo="http://stream.demux.xyz/app/loga/kliktv.png" channel-id="Klik TV" group-title="Music TV",Klik TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/665
+#EXTINF:-1 channel-id="231" tvg-id="One by One HD" tvg-logo="http://stream.demux.xyz/app/loga/FirstMusic.png" channel-id="One by One HD" group-title="Music TV",One by One HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/666
+#EXTINF:-1 channel-id="232" tvg-id="Folklorika" tvg-logo="http://stream.demux.xyz/app/loga/folklorika.png" channel-id="Folklorika" group-title="Music TV",Folklorika
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/667
+#EXTINF:-1 channel-id="233" tvg-id="C Music TV" tvg-logo="http://stream.demux.xyz/app/loga/cmusic.png" channel-id="C Music TV" group-title="Music TV",C Music TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/668
+#EXTINF:-1 channel-id="234" tvg-id="Power TV" tvg-logo="http://stream.demux.xyz/app/loga/powerTV.png" channel-id="Power TV" group-title="Music TV",Power TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/669
+#EXTINF:-1 channel-id="235" tvg-id="Vitkovice" tvg-logo="http://stream.demux.xyz/app/loga/vitkovice.jpg" channel-id="Vitkovice" group-title="Hokej ELH",Vitkovice
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/700
+#EXTINF:-1 channel-id="236" tvg-id="Chomutov" tvg-logo="http://stream.demux.xyz/app/loga/chomutov.jpg" channel-id="Chomutov" group-title="Hokej ELH",Chomutov
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/701
+#EXTINF:-1 channel-id="237" tvg-id="Brno" tvg-logo="http://stream.demux.xyz/app/loga/brno.jpg" channel-id="Brno" group-title="Hokej ELH",Brno
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/702
+#EXTINF:-1 channel-id="238" tvg-id="Hradec" tvg-logo="http://stream.demux.xyz/app/loga/hradec.jpg" channel-id="Hradec" group-title="Hokej ELH",Hradec
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/703
+#EXTINF:-1 channel-id="239" tvg-id="Ml.Boleslav" tvg-logo="http://stream.demux.xyz/app/loga/boleslav.jpg" channel-id="Ml.Boleslav" group-title="Hokej ELH",Ml.Boleslav
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/704
+#EXTINF:-1 channel-id="240" tvg-id="Olomouc" tvg-logo="http://stream.demux.xyz/app/loga/olomouc.jpg" channel-id="Olomouc" group-title="Hokej ELH",Olomouc
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/705
+#EXTINF:-1 channel-id="241" tvg-id="Liberec" tvg-logo="http://stream.demux.xyz/app/loga/liberec.jpg" channel-id="Liberec" group-title="Hokej ELH",Liberec
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/706
+#EXTINF:-1 channel-id="242" tvg-id="Litvinov" tvg-logo="http://stream.demux.xyz/app/loga/litvinov.jpg" channel-id="Litvinov" group-title="Hokej ELH",Litvinov
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/707
+#EXTINF:-1 channel-id="243" tvg-id="Pardubice" tvg-logo="http://stream.demux.xyz/app/loga/pardubice.jpg" channel-id="Pardubice" group-title="Hokej ELH",Pardubice
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/708
+#EXTINF:-1 channel-id="244" tvg-id="Plzen" tvg-logo="http://stream.demux.xyz/app/loga/plzen.jpg" channel-id="Plzen" group-title="Hokej ELH",Plzen
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/709
+#EXTINF:-1 channel-id="245" tvg-id="Sparta" tvg-logo="http://stream.demux.xyz/app/loga/sparta.jpg" channel-id="Sparta" group-title="Hokej ELH",Sparta
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/710
+#EXTINF:-1 channel-id="246" tvg-id="Trinec" tvg-logo="http://stream.demux.xyz/app/loga/trinec.jpg" channel-id="Trinec" group-title="Hokej ELH",Trinec
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/711
+#EXTINF:-1 channel-id="247" tvg-id="Karlovy Vary" tvg-logo="http://stream.demux.xyz/app/loga/vary.jpg" channel-id="Karlovy Vary" group-title="Hokej ELH",Karlovy Vary
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/712
+#EXTINF:-1 channel-id="248" tvg-id="Zlin" tvg-logo="http://stream.demux.xyz/app/loga/zlin.jpg" channel-id="Zlin" group-title="Hokej ELH",Zlin
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/713
+#EXTINF:-1 channel-id="249" tvg-id="O2 Sport1 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport1 HD" group-title="O2 Sport multi",O2 Sport1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/750
+#EXTINF:-1 channel-id="250" tvg-id="O2 Sport2 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport2 HD" group-title="O2 Sport multi",O2 Sport2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/751
+#EXTINF:-1 channel-id="251" tvg-id="O2 Sport3 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport3 HD" group-title="O2 Sport multi",O2 Sport3 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/752
+#EXTINF:-1 channel-id="252" tvg-id="O2 Sport4 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport4 HD" group-title="O2 Sport multi",O2 Sport4 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/753
+#EXTINF:-1 channel-id="253" tvg-id="O2 Sport5 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport5 HD" group-title="O2 Sport multi",O2 Sport5 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/754
+#EXTINF:-1 channel-id="254" tvg-id="O2 Sport6 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport6 HD" group-title="O2 Sport multi",O2 Sport6 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/755
+#EXTINF:-1 channel-id="255" tvg-id="O2 Sport7 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport7 HD" group-title="O2 Sport multi",O2 Sport7 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/756
+#EXTINF:-1 channel-id="256" tvg-id="O2 Sport8 HD" tvg-logo="http://stream.demux.xyz/app/loga/o2tvsport.png" channel-id="O2 Sport8 HD" group-title="O2 Sport multi",O2 Sport8 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/757
+#EXTINF:-1 channel-id="257" tvg-id="M1" tvg-logo="http://stream.demux.xyz/app/loga/m1.png" channel-id="M1" group-title="Madarske TV",M1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/800
+#EXTINF:-1 channel-id="258" tvg-id="M2" tvg-logo="http://stream.demux.xyz/app/loga/m2.png" channel-id="M2" group-title="Madarske TV",M2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/801
+#EXTINF:-1 channel-id="259" tvg-id="M4 sport" tvg-logo="http://stream.demux.xyz/app/loga/m4.png" channel-id="M4 sport" group-title="Madarske TV",M4 sport
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/802
+#EXTINF:-1 channel-id="260" tvg-id="M5" tvg-logo="http://stream.demux.xyz/app/loga/m5.png" channel-id="M5" group-title="Madarske TV",M5
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/803
+#EXTINF:-1 channel-id="261" tvg-id="DUNA TV" tvg-logo="http://stream.demux.xyz/app/loga/duna.png" channel-id="DUNA TV" group-title="Madarske TV",DUNA TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/804
+#EXTINF:-1 channel-id="262" tvg-id="Duna World" tvg-logo="http://stream.demux.xyz/app/loga/dunaworld.png" channel-id="Duna World" group-title="Madarske TV",Duna World
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/805
+#EXTINF:-1 channel-id="263" tvg-id="RTL Klub" tvg-logo="http://stream.demux.xyz/app/loga/rtlklub.png" channel-id="RTL Klub" group-title="Madarske TV",RTL Klub
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/806
+#EXTINF:-1 channel-id="264" tvg-id="RTL2" tvg-logo="http://stream.demux.xyz/app/loga/rtl2.png" channel-id="RTL2" group-title="Madarske TV",RTL2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/807
+#EXTINF:-1 channel-id="265" tvg-id="RTL +" tvg-logo="http://stream.demux.xyz/app/loga/rtl+.png" channel-id="RTL +" group-title="Madarske TV",RTL +
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/808
+#EXTINF:-1 channel-id="266" tvg-id="TV2" tvg-logo="http://stream.demux.xyz/app/loga/TV2.png" channel-id="TV2" group-title="Madarske TV",TV2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/809
+#EXTINF:-1 channel-id="267" tvg-id="Super TV2" tvg-logo="http://stream.demux.xyz/app/loga/superTV2.png" channel-id="Super TV2" group-title="Madarske TV",Super TV2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/810
+#EXTINF:-1 channel-id="268" tvg-id="ATV" tvg-logo="http://stream.demux.xyz/app/loga/atv.png" channel-id="ATV" group-title="Madarske TV",ATV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/811
+#EXTINF:-1 channel-id="269" tvg-id="Filmbox plus" tvg-logo="http://stream.demux.xyz/app/loga/filmboxplus.png" channel-id="Filmbox plus" group-title="Madarske TV",Filmbox plus
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/812
+#EXTINF:-1 channel-id="270" tvg-id="Filmbox Family hu" tvg-logo="http://stream.demux.xyz/app/loga/filmboxfamily.png" channel-id="Filmbox Family hu" group-title="Madarske TV",Filmbox Family hu
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/813
+#EXTINF:-1 channel-id="271" tvg-id="Filmbox Extra HD hu" tvg-logo="http://stream.demux.xyz/app/loga/filmboxextra.png" channel-id="Filmbox Extra HD hu" group-title="Madarske TV",Filmbox Extra HD hu
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/814
+#EXTINF:-1 channel-id="272" tvg-id="RTL Gold" tvg-logo="http://stream.demux.xyz/app/loga/rtlgold.png" channel-id="RTL Gold" group-title="Madarske TV",RTL Gold
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/815
+#EXTINF:-1 channel-id="273" tvg-id="Cool TV" tvg-logo="http://stream.demux.xyz/app/loga/coottv.png" channel-id="Cool TV" group-title="Madarske TV",Cool TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/816
+#EXTINF:-1 channel-id="274" tvg-id="Sorozat+" tvg-logo="http://stream.demux.xyz/app/loga/sorozat+.png" channel-id="Sorozat+" group-title="Madarske TV",Sorozat+
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/817
+#EXTINF:-1 channel-id="275" tvg-id="Muzsika" tvg-logo="http://stream.demux.xyz/app/loga/muzsikatv.png" channel-id="Muzsika" group-title="Madarske TV",Muzsika
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/818
+#EXTINF:-1 channel-id="276" tvg-id="Slager TV" tvg-logo="http://stream.demux.xyz/app/loga/slager.png" channel-id="Slager TV" group-title="Madarske TV",Slager TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/819
+#EXTINF:-1 channel-id="277" tvg-id="Cartoon Network hu" tvg-logo="http://stream.demux.xyz/app/loga/cartoon.png" channel-id="Cartoon Network hu" group-title="Madarske TV",Cartoon Network hu
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/820
+#EXTINF:-1 channel-id="278" tvg-id="Nickelodeon hu" tvg-logo="http://stream.demux.xyz/app/loga/Nick.png" channel-id="Nickelodeon hu" group-title="Madarske TV",Nickelodeon hu
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/821
+#EXTINF:-1 channel-id="279" tvg-id="Nick Junior" tvg-logo="http://stream.demux.xyz/app/loga/nickjr.png" channel-id="Nick Junior" group-title="Madarske TV",Nick Junior
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/822
+#EXTINF:-1 channel-id="280" tvg-id="Euronews" tvg-logo="http://stream.demux.xyz/app/loga/euronews.png" channel-id="Euronews" group-title="Madarske TV",Euronews
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/823
+#EXTINF:-1 channel-id="281" tvg-id="HC 07 Detva" tvg-logo="http://stream.demux.xyz/app/loga/hcdetva.png" channel-id="HC 07 Detva" group-title="Hokej Tipsport",HC 07 Detva
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/673
+#EXTINF:-1 channel-id="282" tvg-id="HC´05 iCLINIC B.Bystrica" tvg-logo="http://stream.demux.xyz/app/loga/hcbb.png" channel-id="HC´05 iCLINIC B.Bystrica" group-title="Hokej Tipsport",HC´05 iCLINIC B.Bystrica
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/674
+#EXTINF:-1 channel-id="283" tvg-id="MHk 32 L.Mikuláš" tvg-logo="http://stream.demux.xyz/app/loga/hk32.png" channel-id="MHk 32 L.Mikuláš" group-title="Hokej Tipsport",MHk 32 L.Mikuláš
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/675
+#EXTINF:-1 channel-id="284" tvg-id="MHC Nové Zámky" tvg-logo="http://stream.demux.xyz/app/loga/novezamky.png" channel-id="MHC Nové Zámky" group-title="Hokej Tipsport",MHC Nové Zámky
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/676
+#EXTINF:-1 channel-id="285" tvg-id="MAC Budapest" tvg-logo="http://stream.demux.xyz/app/loga/mac.png" channel-id="MAC Budapest" group-title="Hokej Tipsport",MAC Budapest
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/677
+#EXTINF:-1 channel-id="286" tvg-id="HC Košice" tvg-logo="http://stream.demux.xyz/app/loga/kosice.png" channel-id="HC Košice" group-title="Hokej Tipsport",HC Košice
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/678
+#EXTINF:-1 channel-id="287" tvg-id="HK Nitra" tvg-logo="http://stream.demux.xyz/app/loga/hknitra.png" channel-id="HK Nitra" group-title="Hokej Tipsport",HK Nitra
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/679
+#EXTINF:-1 channel-id="288" tvg-id="MsHK DOXXbet Žilina" tvg-logo="http://stream.demux.xyz/app/loga/zilina.png" channel-id="MsHK DOXXbet Žilina" group-title="Hokej Tipsport",MsHK DOXXbet Žilina
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/680
+#EXTINF:-1 channel-id="289" tvg-id="HK Poprad" tvg-logo="http://stream.demux.xyz/app/loga/poprad.png" channel-id="HK Poprad" group-title="Hokej Tipsport",HK Poprad
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/681
+#EXTINF:-1 channel-id="290" tvg-id="Dukla Trenčín" tvg-logo="http://stream.demux.xyz/app/loga/trencin.png" channel-id="Dukla Trenčín" group-title="Hokej Tipsport",Dukla Trenčín
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/682
+#EXTINF:-1 channel-id="291" tvg-id="HKM Zvolen" tvg-logo="http://stream.demux.xyz/app/loga/hkm.png" channel-id="HKM Zvolen" group-title="Hokej Tipsport",HKM Zvolen
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/683
+#EXTINF:-1 channel-id="292" tvg-id="DVTK Jegesmedvék Miskolc" tvg-logo="http://stream.demux.xyz/app/loga/jeges.png" channel-id="DVTK Jegesmedvék Miskolc" group-title="Hokej Tipsport",DVTK Jegesmedvék Miskolc
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/684
+#EXTINF:-1 channel-id="293" tvg-id="RTL" tvg-logo="http://stream.demux.xyz/app/loga/rtl.png" channel-id="RTL" group-title="Nemecke TV",RTL
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/900
+#EXTINF:-1 channel-id="294" tvg-id="RTL2" tvg-logo="http://stream.demux.xyz/app/loga/rtl2de.png" channel-id="RTL2" group-title="Nemecke TV",RTL2
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/901
+#EXTINF:-1 channel-id="295" tvg-id="Super RTL" tvg-logo="http://stream.demux.xyz/app/loga/superrtl.png" channel-id="Super RTL" group-title="Nemecke TV",Super RTL
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/902
+#EXTINF:-1 channel-id="296" tvg-id="KiKA" tvg-logo="http://stream.demux.xyz/app/loga/kika.png" channel-id="KiKA" group-title="Nemecke TV",KiKA
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/903
+#EXTINF:-1 channel-id="297" tvg-id="Pro7" tvg-logo="http://stream.demux.xyz/app/loga/pro7.png" channel-id="Pro7" group-title="Nemecke TV",Pro7
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/904
+#EXTINF:-1 channel-id="298" tvg-id="SAT1" tvg-logo="http://stream.demux.xyz/app/loga/sat1.png" channel-id="SAT1" group-title="Nemecke TV",SAT1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/905
+#EXTINF:-1 channel-id="299" tvg-id="VOX" tvg-logo="http://stream.demux.xyz/app/loga/vox.png" channel-id="VOX" group-title="Nemecke TV",VOX
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/906
+#EXTINF:-1 channel-id="300" tvg-id="Kabel 1" tvg-logo="http://stream.demux.xyz/app/loga/kabel1.png" channel-id="Kabel 1" group-title="Nemecke TV",Kabel 1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/907
+#EXTINF:-1 channel-id="301" tvg-id="ZDF" tvg-logo="http://stream.demux.xyz/app/loga/zdf.png" channel-id="ZDF" group-title="Nemecke TV",ZDF
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/908
+#EXTINF:-1 channel-id="302" tvg-id="ARD" tvg-logo="http://stream.demux.xyz/app/loga/ard.png" channel-id="ARD" group-title="Nemecke TV",ARD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/909
+#EXTINF:-1 channel-id="303" tvg-id="Sixx" tvg-logo="http://stream.demux.xyz/app/loga/six.png" channel-id="Sixx" group-title="Nemecke TV",Sixx
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/910
+#EXTINF:-1 channel-id="304" tvg-id="3SAT" tvg-logo="http://stream.demux.xyz/app/loga/3sat.png" channel-id="3SAT" group-title="Nemecke TV",3SAT
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/911
+#EXTINF:-1 channel-id="305" tvg-id="N24" tvg-logo="http://stream.demux.xyz/app/loga/n24.png" channel-id="N24" group-title="Nemecke TV",N24
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/912
+#EXTINF:-1 channel-id="306" tvg-id="RTL Nitro" tvg-logo="http://stream.demux.xyz/app/loga/rtlnitro.png" channel-id="RTL Nitro" group-title="Nemecke TV",RTL Nitro
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/913
+#EXTINF:-1 channel-id="307" tvg-id="BR" tvg-logo="http://stream.demux.xyz/app/loga/br.png" channel-id="BR" group-title="Nemecke TV",BR
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/914
+#EXTINF:-1 channel-id="308" tvg-id="Sky Sports Premier League HD" tvg-logo="http://stream.demux.xyz/app/loga/skysportpremiere.png" channel-id="Sky Sports Premier League HD" group-title="World Sport",Sky Sports Premier League HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/950
+#EXTINF:-1 channel-id="309" tvg-id="Sky Sports Footbal HD" tvg-logo="http://stream.demux.xyz/app/loga/skysportfootbal.png" channel-id="Sky Sports Footbal HD" group-title="World Sport",Sky Sports Footbal HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/951
+#EXTINF:-1 channel-id="310" tvg-id="Sky Sports Main Event HD" tvg-logo="http://stream.demux.xyz/app/loga/skysportmainevent.png" channel-id="Sky Sports Main Event HD" group-title="World Sport",Sky Sports Main Event HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/952
+#EXTINF:-1 channel-id="311" tvg-id=" BT Sport 1 HD" tvg-logo="http://stream.demux.xyz/app/loga/btsport1.png" channel-id=" BT Sport 1 HD" group-title="World Sport", BT Sport 1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/953
+#EXTINF:-1 channel-id="312" tvg-id="BT Sport 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/btsport2.png" channel-id="BT Sport 2 HD" group-title="World Sport",BT Sport 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/954
+#EXTINF:-1 channel-id="313" tvg-id="BeIn Sports 11 HD" tvg-logo="http://stream.demux.xyz/app/loga/bein11.png" channel-id="BeIn Sports 11 HD" group-title="World Sport",BeIn Sports 11 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/955
+#EXTINF:-1 channel-id="314" tvg-id="BeIn Sports 12 HD" tvg-logo="http://stream.demux.xyz/app/loga/bein12.png" channel-id="BeIn Sports 12 HD" group-title="World Sport",BeIn Sports 12 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/956
+#EXTINF:-1 channel-id="315" tvg-id="BeIn Sports 13 HD" tvg-logo="http://stream.demux.xyz/app/loga/bein13.png" channel-id="BeIn Sports 13 HD" group-title="World Sport",BeIn Sports 13 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/957
+#EXTINF:-1 channel-id="316" tvg-id=" Eleven Sports 1 HD" tvg-logo="http://stream.demux.xyz/app/loga/eleven1.png" channel-id=" Eleven Sports 1 HD" group-title="World Sport", Eleven Sports 1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/958
+#EXTINF:-1 channel-id="317" tvg-id="Eleven Sports 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/eleven2.png" channel-id="Eleven Sports 2 HD" group-title="World Sport",Eleven Sports 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/959
+#EXTINF:-1 channel-id="318" tvg-id="Eleven Sports 3 HD" tvg-logo="http://stream.demux.xyz/app/loga/eleven3.png" channel-id="Eleven Sports 3 HD" group-title="World Sport",Eleven Sports 3 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/960
+#EXTINF:-1 channel-id="319" tvg-id="GINX Esports TV" tvg-logo="http://stream.demux.xyz/app/loga/ginx.png" channel-id="GINX Esports TV" group-title="World Sport",GINX Esports TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/961
+#EXTINF:-1 channel-id="320" tvg-id=" AD Sport 1 HD" tvg-logo="http://stream.demux.xyz/app/loga/ad1.png" channel-id=" AD Sport 1 HD" group-title="World Sport", AD Sport 1 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/968
+#EXTINF:-1 channel-id="321" tvg-id="AD Sport 2 HD" tvg-logo="http://stream.demux.xyz/app/loga/ad2.png" channel-id="AD Sport 2 HD" group-title="World Sport",AD Sport 2 HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/969
+#EXTINF:-1 channel-id="322" tvg-id="ORF Sport HD" tvg-logo="http://stream.demux.xyz/app/loga/orfsport+.png" channel-id="ORF Sport HD" group-title="World Sport",ORF Sport HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/972
+#EXTINF:-1 channel-id="323" tvg-id="Sky Sports Golf HD" tvg-logo="http://stream.demux.xyz/app/loga/skysportgolf.png" channel-id="Sky Sports Golf HD" group-title="World Sport",Sky Sports Golf HD
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/973
+#EXTINF:-1 channel-id="324" tvg-id=" Akvarium" tvg-logo="http://stream.demux.xyz/app/loga/akvarium.png" channel-id=" Akvarium" group-title="Relax", Akvarium
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1000
+#EXTINF:-1 channel-id="325" tvg-id="Vodopady" tvg-logo="http://stream.demux.xyz/app/loga/vodopady.png" channel-id="Vodopady" group-title="Relax",Vodopady
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1001
+#EXTINF:-1 channel-id="326" tvg-id="Ohen" tvg-logo="http://stream.demux.xyz/app/loga/ohen.png" channel-id="Ohen" group-title="Relax",Ohen
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1002
+#EXTINF:-1 channel-id="327" tvg-id="Kozub" tvg-logo="http://stream.demux.xyz/app/loga/kozoub.png" channel-id="Kozub" group-title="Relax",Kozub
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1003
+#EXTINF:-1 channel-id="328" tvg-id="More" tvg-logo="http://stream.demux.xyz/app/loga/more.png" channel-id="More" group-title="Relax",More
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1004
+#EXTINF:-1 channel-id="329" tvg-id=" Priroda" tvg-logo="http://stream.demux.xyz/app/loga/priroda.png" channel-id=" Priroda" group-title="Relax", Priroda
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1005
+#EXTINF:-1 channel-id="330" tvg-id=" Relax" tvg-logo="http://stream.demux.xyz/app/loga/relax.png" channel-id=" Relax" group-title="Relax", Relax
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1006
+#EXTINF:-1 channel-id="331" tvg-id="Park TV" tvg-logo="http://stream.demux.xyz/app/loga/park.png" channel-id="Park TV" group-title="Relax",Park TV
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/1007
