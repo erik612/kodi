@@ -13,6 +13,8 @@ http://stream.demux.xyz:3000/live/erik612/mVFeJ5/155
 http://stream.demux.xyz:3000/live/erik612/mVFeJ5/156
 #EXTINF:-1 channel-id="20" tvg-id="JOJ HD" tvg-logo="http://stream.demux.xyz/app/loga/tvjoj.png" channel-id="JOJ HD" group-title="Slovak TV HD",JOJ HD
 http://stream.demux.xyz:3000/live/erik612/mVFeJ5/157
+#EXTINF:-1 channel-id="8" tvg-id="JOJ" tvg-logo="http://stream.demux.xyz/app/loga/tvjojplus1.png" channel-id="JOJ+1" group-title="Slovak TV",JOJ+1
+http://stream.demux.xyz:3000/live/erik612/mVFeJ5/107
 #EXTINF:-1 channel-id="21" tvg-id="JOJ Plus HD" tvg-logo="http://stream.demux.xyz/app/loga/jojplus.png" channel-id="JOJ Plus HD" group-title="Slovak TV HD",JOJ Plus HD
 http://stream.demux.xyz:3000/live/erik612/mVFeJ5/158
 #EXTINF:-1 channel-id="16" tvg-id="JOJ Family HD" tvg-logo="http://stream.demux.xyz/app/loga/jojfamily.png" channel-id="JOJ Family HD" group-title="Slovak TV HD",JOJ Family HD
@@ -389,8 +391,6 @@ http://stream.demux.xyz:3000/live/erik612/mVFeJ5/104
 http://stream.demux.xyz:3000/live/erik612/mVFeJ5/105
 #EXTINF:-1 channel-id="7" tvg-id="JOJ" tvg-logo="http://stream.demux.xyz/app/loga/tvjoj.png" channel-id="JOJ" group-title="Slovak TV",JOJ
 http://stream.demux.xyz:3000/live/erik612/mVFeJ5/106
-#EXTINF:-1 channel-id="8" tvg-id="JOJ+1" tvg-logo="http://stream.demux.xyz/app/loga/tvjojplus1.png" channel-id="JOJ+1" group-title="Slovak TV",JOJ+1
-http://stream.demux.xyz:3000/live/erik612/mVFeJ5/107
 #EXTINF:-1 channel-id="9" tvg-id="JOJ Family" tvg-logo="http://stream.demux.xyz/app/loga/jojfamily.png" channel-id="JOJ Family" group-title="Slovak TV",JOJ Family
 http://stream.demux.xyz:3000/live/erik612/mVFeJ5/108
 #EXTINF:-1 channel-id="10" tvg-id="JOJ Plus" tvg-logo="http://stream.demux.xyz/app/loga/jojplus.png" channel-id="JOJ Plus" group-title="Slovak TV",JOJ Plus
@@ -673,7 +673,7 @@ http://stream.funradio.sk:8000/80-90-128.mp3
 http://stream.funradio.sk:8000/xmas128.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-dance.png",Funradio Dance
 http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/antena-rock.png",Anténa Rock
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/antena%20rock.png",Anténa Rock
 http://stream.antenarock.sk/antena-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/rockovarepublika.png",Rocková Republika
 http://217.67.31.66:8000/republika128.mp3
