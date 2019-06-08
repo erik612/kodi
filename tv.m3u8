@@ -675,6 +675,12 @@ http://stream.funradio.sk:8000/xmas128.mp3
 http://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/antena%20rock.png",Anténa Rock
 http://stream.antenarock.sk/antena-hi.mp3
+
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/antena-rock-hard.png",Anténa Rock Hard
+http://stream.radioservices.sk/hardrock.mp3
+
+
+
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/rockovarepublika.png",Rocková Republika
 http://217.67.31.66:8000/republika128.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/expres.png",Expres
