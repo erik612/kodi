@@ -677,7 +677,7 @@ http://stream.antenarock.sk/antena-hi.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/coverflow/antena-rock-hard.png" group-title="radio" radio="true",Anténa Rock Hard
 http://stream.radioservices.sk/hardrock.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/rockovarepublika.png" group-title="radio" radio="true",Rocková Republika
-http://217.67.31.66:8000/republika128.mp3
+https://player.rockovarepublika.sk/republika128.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/coverflow/expres.png" group-title="radio" radio="true",Expres
 http://85.248.7.162:8000/96.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2.png" group-title="radio" radio="true",Europa 2
