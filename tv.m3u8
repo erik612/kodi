@@ -701,5 +701,5 @@ http://stream.trnavskeradio.sk/trnavske
 http://live.radiopiestany.sk:8000/live.mp3
 
 
-#EXTINF:-1 radio="true",Radio3
+#EXTINF:-1 tvg-logo="Discoradio.png" group-title="radio" radio="true",Discoradio
 http://stream.radioservices.sk/hardrock.mp3
