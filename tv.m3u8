@@ -661,10 +661,29 @@ http://cdn0.demux.xyz:3000/live/erik612/mVFeJ5/667
 http://cdn0.demux.xyz:3000/live/erik612/mVFeJ5/668
 #EXTINF:-1 channel-id="234" tvg-id="Power TV" tvg-logo="http://stream.demux.xyz/app/logggs/powerTV.png" channel-id="Power TV" group-title="Music TV",Power TV
 http://cdn0.demux.xyz:3000/live/erik612/mVFeJ5/669
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/slovensko.png",Slovensko
+
+
+
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/slovensko.png" group-title="radio" radio="true",Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun.png",Fun Rádio
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun.png" group-title="radio" radio="true",Fun Rádio
 http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/expres.png" group-title="radio" radio="true",Expres
+https://stream.expres.sk/128.mp3?aw_0_req.gdpr=true
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2.png",Europa 2
+http://stream.radioservices.sk/europa2.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/jemne.png",Jemné Melódie
+http://stream.jemne.sk/jemne-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/viva.png",VIVA
+http://stream.sepia.sk:8000/viva320.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/vlna.png",Vlna
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/antena-rock.png",Anténa Rock
+http://stream.antenarock.sk/antena-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://static.radio.net/images/broadcasts/da/96/34354/1/c300.png",Big R Radio
+http://bigrradio.cdnstream1.com/5172_128?listenerId=7f579a461330c8ab4783bbdcadcc8014&awparams=playerID%3AesPlayer&aw_0_1st.skey=1544907819
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/rockovarepublika.png",Rocková Republika
+http://217.67.31.66:8000/republika128.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-cz-sk.png",Fun Rádio CZ/SK
 http://stream.funradio.sk:8000/cs128.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-80-90-roky.png",Fun Rádio 80-90 roky
@@ -673,24 +692,9 @@ http://stream.funradio.sk:8000/80-90-128.mp3
 http://stream.funradio.sk:8000/xmas128.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fun-dance.png",Funradio Dance
 http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/antena-rock.png",Anténa Rock
-http://stream.antenarock.sk/antena-hi.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/rockovarepublika.png",Rocková Republika
-http://217.67.31.66:8000/republika128.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/expres.png",Expres
-http://85.248.7.162:8000/96.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2.png",Europa 2
-http://pool.cdn.lagardere.cz/fm-europa2sk-128
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/europa2-cs.png",Europa 2 Československé webrádio
-http://pool.cdn.lagardere.cz/web-e2-csweb
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/39/01/b8/3901b820-470a-3ae4-dea0-99e1b0d6440f/AppIcon-1x_U007emarketing-85-220-6.png/320x0w.jpg",Big R Radio
-http://bigrradio.cdnstream1.com/5172_128?listenerId=7f579a461330c8ab4783bbdcadcc8014&awparams=playerID%3AesPlayer&aw_0_1st.skey=1544907819
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/jemne.png",Jemné Melódie
-http://stream.jemne.sk/jemne-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/fm.png",Rádio_FM
 http://live.slovakradio.sk:8000/FM_256.mp3
-#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/trnavskeradio.png",Trnavské Rádio
+#EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://raw.githubusercontent.com/erik612/ikony/master/trnavskeradio.png" group-title="radio" radio="true",Trnavské Rádio
 http://stream.trnavskeradio.sk/trnavske
 #EXTINF:-1 $ExtFilter="Radio"tvg-logo="https://www.radia.sk/_radia/loga/coverflow/piestany.png",Piešťany
 http://live.radiopiestany.sk:8000/live.mp3
-#EXTINF:-1,tvg-logo="http://image.noelshack.com/minis/2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
